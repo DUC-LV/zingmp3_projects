@@ -16,19 +16,22 @@ class BannerAPIView(APIView):
         serializer = BannerSerializers(banners, many=True)
         return JsonResponse(serializer.data, safe=False)
 
-    def put(self, request, id=None, *args, **kwargs):
-        banner = Banners.objects.get()
+
+class UpdateBannerAPIView(APIView):
+    def post(self, request):
         data = request.data
-
-        banner.type = data["type"]
-        # banner.banner = data["banner"]
-        # banner.cover = data["cover"]
-        # banner.target = data["target"]
-        # banner.title = data["title"]
-        # banner.description = data["description"]
-        # banner.is_pr = data["ispr"]
+        if not data:
+            return HttpResponse(status=404)
+        banner = Banners.objects.create(
+            type=data["type"],
+            banner=data["banner"],
+            cover=data["cover"],
+            target=data["target"],
+            title=data["title"],
+            description=data["description"],
+            is_pr=data["ispr"],
+        )
         banner.save()
-        print(banner)
-        serializer = BannerSerializers(banner, many=True)
-        return JsonResponse(serializer.data, safe=False)
-
+        serializer = BannerSerializers(banner).data
+        return JsonResponse(serializer, safe=False)
+    
