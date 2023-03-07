@@ -2,7 +2,7 @@ from django.shortcuts import render
 from rest_framework.views import APIView
 from django.http import JsonResponse, HttpResponse
 from .models import TopicPlaylist, Playlists, Artists, PlaylistOfTopic, ArtistOfPlaylist
-from .serializers import TopicPlaylistSerializers, PlaylistSerializers, ArtistSerializers
+from .serializers import TopicPlaylistSerializers, PlaylistSerializers, ArtistSerializers, PlaylistSortDataSerializers
 
 
 # Create your views here.
@@ -88,5 +88,23 @@ class ArtistAPIView(APIView):
 
         artist.save()
         serializers = ArtistSerializers(artist).data
+
+        return JsonResponse(serializers, safe=False)
+
+
+class PostPlaylistDataSort(APIView):
+
+    def post(self, request):
+        data = request.data
+        playlist = Playlists.objects.create(
+            thumbnail=data["thumbnail"],
+            thumbnail_m=data["thumbnailM"],
+            title=data["title"],
+            sort_description=data["sortDescription"],
+            artist_names=data["artistsNames"],
+        )
+
+        playlist.save()
+        serializers = PlaylistSortDataSerializers(playlist).data
 
         return JsonResponse(serializers, safe=False)
