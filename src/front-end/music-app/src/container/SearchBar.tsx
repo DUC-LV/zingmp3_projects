@@ -98,13 +98,13 @@ const InputSearch = () => {
 const SearchBar = () => {
 	const icon = [
 		{
-			icon: <BsArrowBarUp />
+			icon: <BsArrowBarUp style={{ color: 'white'}}/>
 		},
 		{
-			icon: <AiFillSetting />
+			icon: <AiFillSetting style={{ color: 'white'}}/>
 		},
 		{
-			icon: <RxAvatar />
+			icon: <RxAvatar style={{ color: 'white'}}/>
 		}
 	]
 	const router = useRouter();
