@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'banners',
-    'playlists'
+    'playlists',
+    'playlist_detail'
 ]
 
 MIDDLEWARE = [
