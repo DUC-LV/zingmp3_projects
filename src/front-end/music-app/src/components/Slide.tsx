@@ -1,6 +1,5 @@
 import React from "react";
 import {Box, Flex, Image} from "theme-ui";
-import SwiperCore, { Autoplay } from 'swiper';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
 import {Banner, Playlist } from "@/src/schemas";
@@ -8,6 +7,7 @@ import {TextLineClamp, TextOnline} from "@/src/components/Text";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import { useRouter } from "next/router";
 import { convertSlug } from "../untils";
+import { Autoplay } from "swiper";
 
 
 export const BannerSlider = (props: { banners: Array<Banner> }) => {
@@ -15,8 +15,9 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 	return(
 		<Box>
 			<Swiper
+			modules={[ Autoplay ]}
 				slidesPerView={3}
-				className="swiper-initialized"
+				autoplay={true}
 			>
 				{banners?.map((item, index) => (
 					<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer"}}>

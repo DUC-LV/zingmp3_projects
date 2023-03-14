@@ -1,9 +1,13 @@
 import getPlaylistDetail from "@/src/services/getPlaylistDetail";
-import React from "react";
-import { Box } from "theme-ui";
+import React, { useState, useEffect } from "react";
+import {Box, Flex} from "theme-ui";
+import {useRouter} from "next/router";
+import ReponsiveContainer from "@/src/components/ReponsiveContainer";
+import HeaderPlaylist, {DataHeaderPlaylist} from "@/src/container/playlist/HeaderPlaylist";
+import ListSong from "@/src/container/playlist/ListSong"
 
 type Props = {
-	data: Array<object>
+	data: any,
 }
 export async function getServerSideProps({ query }: any) {
 	try {
@@ -11,7 +15,7 @@ export async function getServerSideProps({ query }: any) {
 			const res = await getPlaylistDetail.getAll(query.id);
 			return {
 				props: {
-					data: res.data,
+					data: res.data.data,
 				}
 			};
 		}
@@ -21,9 +25,25 @@ export async function getServerSideProps({ query }: any) {
 	}
 }
 const PlaylistDetail = ({ data }: Props) => {
-	console.log(data)
 	return(
-		<Box></Box>
+		<ReponsiveContainer>
+			<Flex
+				sx={{
+					"@media screen and (max-width: 1200px)":{
+						flexDirection: 'column'
+					},
+					flex: '0 0 auto'
+				}}
+			>
+				<HeaderPlaylist
+					thumbnail_m={data?.thumbnail_m}
+					title={data?.title}
+					artist_names={data?.artist_names}
+					sort_description={data?.sort_description}
+				/>
+				<ListSong data={data.song.items} description={data?.sort_description}/>
+			</Flex>
+		</ReponsiveContainer>
 	);
 }
 export default PlaylistDetail;
