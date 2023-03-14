@@ -27,7 +27,7 @@
         "isOA": false,
         "isOABrand": false,
         "playlistId": "6B7WAI0U",
-        "totalFollow": 8110
+        "totalFollow": 8112
       },
       {
         "id": "IWZ9ZOCZ",
@@ -40,7 +40,7 @@
         "isOA": false,
         "isOABrand": false,
         "playlistId": "ZWZCO00B",
-        "totalFollow": 156384
+        "totalFollow": 156386
       },
       {
         "id": "IWZAZ9I9",
@@ -53,7 +53,7 @@
         "isOA": false,
         "isOABrand": false,
         "playlistId": "6UB6A87I",
-        "totalFollow": 18679
+        "totalFollow": 18689
       },
       {
         "id": "IWZAZ00Z",
@@ -66,7 +66,7 @@
         "isOA": false,
         "isOABrand": false,
         "playlistId": "ZOEW6DEO",
-        "totalFollow": 1524
+        "totalFollow": 1529
       }
     ],
     "artistsNames": "The Kid LAROI, Justin Bieber, Doja Cat, SZA",
@@ -179,7 +179,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6B7WAI0U",
-                "totalFollow": 8110
+                "totalFollow": 8112
               },
               {
                 "id": "IWZ9ZOCZ",
@@ -192,7 +192,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCO00B",
-                "totalFollow": 156384
+                "totalFollow": 156386
               }
             ],
             "artistsNames": "The Kid LAROI, Justin Bieber"
@@ -386,7 +386,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB69FU6",
-                "totalFollow": 456
+                "totalFollow": 457
               }
             ],
             "artistsNames": "Metro Boomin"
@@ -504,7 +504,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "689U9C9U",
-                "totalFollow": 6848
+                "totalFollow": 6849
               },
               {
                 "id": "IWZ9ZOCZ",
@@ -517,7 +517,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCO00B",
-                "totalFollow": 156384
+                "totalFollow": 156386
               },
               {
                 "id": "IWZAWFD9",
@@ -633,7 +633,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB6A87I",
-                "totalFollow": 18679
+                "totalFollow": 18689
               },
               {
                 "id": "IWZAZ00Z",
@@ -646,7 +646,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOEW6DEO",
-                "totalFollow": 1524
+                "totalFollow": 1529
               }
             ],
             "artistsNames": "Doja Cat, SZA"
@@ -749,7 +749,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCO00B",
-                "totalFollow": 156384
+                "totalFollow": 156386
               }
             ],
             "artistsNames": "Justin Bieber"
@@ -866,7 +866,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "6UW9BCCW",
-                "totalFollow": 77159
+                "totalFollow": 77163
               },
               {
                 "id": "IWZA6CCW",
@@ -879,7 +879,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZWZCU89E",
-                "totalFollow": 1175633
+                "totalFollow": 1175687
               }
             ],
             "artistsNames": "salem ilese, TOMORROW X TOGETHER, Alan Walker"
@@ -982,7 +982,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCZICU",
-                "totalFollow": 58401
+                "totalFollow": 58414
               },
               {
                 "id": "IWZAZ9I9",
@@ -995,7 +995,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB6A87I",
-                "totalFollow": 18679
+                "totalFollow": 18689
               },
               {
                 "id": "IW6OI60C",
@@ -1008,7 +1008,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB7II96",
-                "totalFollow": 11339
+                "totalFollow": 11340
               }
             ],
             "artistsNames": "Ariana Grande, Doja Cat, Megan Thee Stallion"
@@ -1103,7 +1103,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB7IUID",
-                "totalFollow": 15900
+                "totalFollow": 15903
               },
               {
                 "id": "IW6WAIIC",
@@ -1241,7 +1241,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB6ACOC",
-                "totalFollow": 658
+                "totalFollow": 660
               },
               {
                 "id": "IW6OI60C",
@@ -1254,7 +1254,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB7II96",
-                "totalFollow": 11339
+                "totalFollow": 11340
               },
               {
                 "id": "IWZ9FZ7E",
@@ -1267,7 +1267,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB69ED0",
-                "totalFollow": 10653
+                "totalFollow": 10655
               }
             ],
             "artistsNames": "Nhiều nghệ sĩ"
@@ -1361,7 +1361,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB6A87I",
-                "totalFollow": 18679
+                "totalFollow": 18689
               },
               {
                 "id": "IWZ9ZD0Z",
@@ -1374,7 +1374,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOE0ODEO",
-                "totalFollow": 15017
+                "totalFollow": 15020
               }
             ],
             "artistsNames": "Doja Cat, Nicki Minaj"
@@ -1476,7 +1476,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZWZCU89E",
-                "totalFollow": 1175633
+                "totalFollow": 1175687
               }
             ],
             "artistsNames": "Alan Walker"
@@ -1579,7 +1579,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZUO786ZF",
-                "totalFollow": 7366
+                "totalFollow": 7367
               },
               {
                 "id": "IWZ9ZW6F",
@@ -1605,7 +1605,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCO00B",
-                "totalFollow": 156384
+                "totalFollow": 156386
               }
             ],
             "artistsNames": "Luis Fonsi, Daddy Yankee, Justin Bieber"
@@ -1697,7 +1697,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCZICU",
-                "totalFollow": 58401
+                "totalFollow": 58414
               }
             ],
             "artistsNames": "Ariana Grande"
@@ -1789,7 +1789,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZOUODF7C",
-                "totalFollow": 924350
+                "totalFollow": 924393
               },
               {
                 "id": "IW6OI60C",
@@ -1802,7 +1802,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB7II96",
-                "totalFollow": 11339
+                "totalFollow": 11340
               }
             ],
             "artistsNames": "BTS, Megan Thee Stallion"
@@ -1912,7 +1912,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOEUZ7I0",
-                "totalFollow": 3232
+                "totalFollow": 3233
               },
               {
                 "id": "IWZ9DB6E",
@@ -1925,7 +1925,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZOUODF7C",
-                "totalFollow": 924350
+                "totalFollow": 924393
               }
             ],
             "artistsNames": "Jawsh 685, Jason Derulo, BTS"
@@ -2040,7 +2040,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UB6ACOC",
-                "totalFollow": 658
+                "totalFollow": 660
               },
               {
                 "id": "IW6ZBIE9",
@@ -2398,7 +2398,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOE0OE0W",
-                "totalFollow": 8389
+                "totalFollow": 8392
               }
             ],
             "artistsNames": "Sam Smith"
@@ -2548,7 +2548,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZO6990OC",
-                "totalFollow": 51450
+                "totalFollow": 51454
               }
             ],
             "artistsNames": "Camila Cabello"
@@ -2649,7 +2649,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCZICU",
-                "totalFollow": 58401
+                "totalFollow": 58414
               }
             ],
             "artistsNames": "Ariana Grande"
@@ -2694,8 +2694,8 @@
               "link": "/nghe-si/Sia-USUK",
               "spotlight": false,
               "alias": "Sia-USUK",
-              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/2/9/3/52934b9d12fe8f47816a7616c0abe2e0.jpg",
-              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/2/9/3/52934b9d12fe8f47816a7616c0abe2e0.jpg",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/4/b/b/84bbb625eff1e62a7d4c9a152a66e22d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/4/b/b/84bbb625eff1e62a7d4c9a152a66e22d.jpg",
               "isOA": false,
               "isOABrand": false,
               "playlistId": "ZOZ9UE8A"
@@ -3249,7 +3249,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZO6990OC",
-                "totalFollow": 51450
+                "totalFollow": 51454
               }
             ],
             "artistsNames": "Camila Cabello"
@@ -3338,7 +3338,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZAI969",
-                "totalFollow": 213950
+                "totalFollow": 213961
               }
             ],
             "artistsNames": "Maroon 5"
@@ -3681,7 +3681,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZOEUZ77Z",
-                "totalFollow": 12277
+                "totalFollow": 12278
               },
               {
                 "id": "IWZ9C9D0",
@@ -3694,7 +3694,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZUO786W9",
-                "totalFollow": 31406
+                "totalFollow": 31407
               }
             ],
             "artistsNames": "Chris Brown, Young Thug"
@@ -3858,7 +3858,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZOZ79W68",
-                "totalFollow": 24053
+                "totalFollow": 24059
               }
             ],
             "artistsNames": "Beyoncé"
@@ -4295,7 +4295,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UAEWA9E",
-                "totalFollow": 1151
+                "totalFollow": 1152
               },
               {
                 "id": "IWZ9ZOUU",
@@ -4308,7 +4308,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOEUZ8E0",
-                "totalFollow": 62990
+                "totalFollow": 62992
               }
             ],
             "artistsNames": "The Pussycat Dolls, Snoop Dogg"
@@ -4536,7 +4536,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZWZCO00B",
-                "totalFollow": 156384
+                "totalFollow": 156386
               },
               {
                 "id": "IWZ9ZD0Z",
@@ -4549,7 +4549,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOE0ODEO",
-                "totalFollow": 15017
+                "totalFollow": 15020
               }
             ],
             "artistsNames": "Justin Bieber, Nicki Minaj"
@@ -4733,7 +4733,7 @@
                 "isOA": true,
                 "isOABrand": false,
                 "playlistId": "ZOZ967WC",
-                "totalFollow": 5726
+                "totalFollow": 5730
               },
               {
                 "id": "IWZ9ZD0Z",
@@ -4746,7 +4746,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOE0ODEO",
-                "totalFollow": 15017
+                "totalFollow": 15020
               }
             ],
             "artistsNames": "Alicia Keys,Nicki Minaj"
@@ -4835,7 +4835,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "ZOU99CFE",
-                "totalFollow": 37956
+                "totalFollow": 37965
               }
             ],
             "artistsNames": "Rihanna"
@@ -5044,7 +5044,7 @@
                 "isOA": false,
                 "isOABrand": false,
                 "playlistId": "6UAEWA9E",
-                "totalFollow": 1151
+                "totalFollow": 1152
               }
             ],
             "artistsNames": "The Pussycat Dolls"
@@ -5430,8 +5430,8 @@
       "totalDuration": 12649
     },
     "like": 1344,
-    "listen": 67835,
+    "listen": 67909,
     "liked": false
   },
-  "timestamp": 1678710986413
+  "timestamp": 1678799454447
 }
