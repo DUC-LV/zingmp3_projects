@@ -11,6 +11,7 @@ from playlists.serializers import TopicPlaylistSerializers, PlaylistSerializers,
 
 class HomeAPIView(APIView):
     def get(self, request):
+        items = []
 
         # banner
         banners = Banners.objects.all()
@@ -25,6 +26,7 @@ class HomeAPIView(APIView):
             "sectionId": "",
             "items": serializerBanner,
         }
+        items.append(res_banner)
 
         # playlist
         all_topic = TopicPlaylist.objects.all()
@@ -45,34 +47,23 @@ class HomeAPIView(APIView):
                 topic_playlists_map[tp_pl.topic_id] = [playlist_dict]
             else:
                 topic_playlists_map[tp_pl.topic_id].append(playlist_dict)
-        res_playlist1 = {
-            "sectionType": "playlist",
-            "viewType": "slider",
-            "title": all_topic[0].title,
-            "link": "",
-            "items": topic_playlists_map[1]
-        }
-        res_playlist2 = {
-            "sectionType": "playlist",
-            "viewType": "slider",
-            "title": all_topic[1].title,
-            "link": "",
-            "items": topic_playlists_map[2]
-        }
-        res_playlist3 = {
-            "sectionType": "playlist",
-            "viewType": "slider",
-            "title": all_topic[2].title,
-            "link": "",
-            "items": topic_playlists_map[3]
-        }
-
+        res_playlist = []
+        for topic in all_topic:
+            res_playlist.append({
+                "sectionType": "playlist",
+                "viewType": "slider",
+                "title": topic.title,
+                "link": "",
+                "items": topic_playlists_map[topic.id]
+            })
+        for i in range(len(res_playlist)):
+            items.append(res_playlist[i])
         # home
         res_home = {
             "err": 0,
             "msg": "Success",
             "data": {
-                "items": [res_banner, res_playlist1, res_playlist2, res_playlist3]
+                "items": items
             }
         }
         return JsonResponse(res_home, safe=False)
