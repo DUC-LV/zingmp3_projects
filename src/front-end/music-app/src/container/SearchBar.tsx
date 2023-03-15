@@ -1,5 +1,5 @@
 import React, {PropsWithChildren, useState, useRef, useEffect} from "react";
-import { Box, Flex, Input } from 'theme-ui';
+import { Box, Flex, Input, Text } from 'theme-ui';
 import { AiOutlineArrowLeft, AiOutlineArrowRight, AiOutlineSearch, AiFillSetting } from "react-icons/ai";
 import { BsArrowBarUp } from "react-icons/bs";
 import { RxAvatar } from "react-icons/rx";
@@ -97,18 +97,23 @@ const InputSearch = () => {
 }
 const SearchBar = () => {
 	const icon = [
-		{
-			icon: <BsArrowBarUp style={{ color: 'white'}}/>
-		},
-		{
-			icon: <AiFillSetting style={{ color: 'white'}}/>
-		},
+		// {
+		// 	icon: <BsArrowBarUp style={{ color: 'white'}}/>
+		// },
+		// {
+		// 	icon: <AiFillSetting style={{ color: 'white'}}/>
+		// },
 		{
 			icon: <RxAvatar style={{ color: 'white'}}/>
 		}
 	]
 	const router = useRouter();
-
+	const [isShow, setIsShow] = useState(false);
+	const ref = React.useRef(null);
+	useOnClickOutside(ref, () => {
+		setIsShow(false);
+		console.log('haha')
+	});
 	return(
 		<Flex
 			sx={{
@@ -123,7 +128,10 @@ const SearchBar = () => {
 				"@media screen and (max-width: 1133px)": {
 					left: '70px',
 					padding: '0 20px',
-				}
+				},
+				zIndex: 1000,
+				backdropFilter: 'blur(10px)',
+				backgroundColor: '#170f23cc',
 			}}
 		>
 			<Flex
@@ -154,8 +162,41 @@ const SearchBar = () => {
 			<Flex sx={{ justifyContent: 'flex-end', alignItems: 'center'}}>
 				{icon?.map((item:any, index) => {
 					return(
-						<Flex key={index}>
-							<IconSearchBar icon={item.icon}/>
+						<Flex
+							key={index}
+							onClick={() => {
+								setIsShow(!isShow)
+							}}
+							sx={{ position: 'relative' }}
+							><IconSearchBar icon={item.icon}/>
+							{ isShow && (
+								<Flex
+									sx={{
+										position: 'absolute',
+										top: '120%',
+										height: '50px',
+										width: '180px',
+										backgroundColor: '#231b2e',
+										right: '20%',
+										transition: 'opacity 2000ms ease-in-out',
+										padding: '15px',
+										alignItems: 'center',
+										cursor: 'pointer',
+										borderRadius: '8px'
+									}}
+									onClick={() => {
+										router.push('/login')
+									}}
+								>
+									<Text
+										sx={{
+											fontSize: '16px',
+											fontWeight: '600',
+											color: 'white'
+										}}
+									>Đăng nhập</Text>
+								</Flex>
+							)}
 						</Flex>
 					);
 				})}

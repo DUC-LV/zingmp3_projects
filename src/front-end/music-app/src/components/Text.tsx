@@ -8,7 +8,6 @@ export const TextOnline = ({ sx, children, ...rest}: BoxProps) => {
 				overflow: 'hidden',
 				textOverflow: 'ellipsis',
 				whiteSpace: 'nowrap',
-				fontFamily: 'sans-serif',
 				...sx,
 			}}
 		>{children}</Box>

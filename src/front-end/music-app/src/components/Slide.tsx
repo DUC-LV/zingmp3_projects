@@ -46,7 +46,6 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 						fontSize: '20px',
 						fontWeight: '700',
 						color: 'white',
-						fontFamily: 'Inter,sans-serif'
 					}}>{title}
 				</TextOnline>
 				<Flex sx={{ margin: '40px 10px 20px 10px', alignItems: 'center' }}>
@@ -55,7 +54,6 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 							fontSize: '12px',
 							color: '#ffffff80',
 							fontWeight: '500',
-							fontFamily: 'Inter,sans-serif',
 							marginRight: '10px'
 						}}
 						>Tất cả</TextOnline>
@@ -63,7 +61,7 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 				</Flex>
 			</Flex>
 			<Swiper
-				slidesPerView={4}
+				slidesPerView={5}
 			>
 				{playlists.map((item, index) => (
 					<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer"}}>
@@ -88,7 +86,6 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 									fontWeight: '700',
 									color: 'white',
 									marginBottom: '6px',
-									fontFamily: 'Inter,sans-serif'
 								}}
 							>{item.title}</TextOnline>
 							<TextLineClamp
@@ -96,7 +93,6 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 								sx={{
 									fontSize: '14px',
 									color: '#ffffff80',
-									fontFamily: 'Inter,sans-serif'
 								}}
 							>{item.sort_description}</TextLineClamp>
 						</Box>

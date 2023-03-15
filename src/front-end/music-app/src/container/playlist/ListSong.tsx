@@ -1,7 +1,8 @@
+import Popup from "@/src/components/Popup";
 import { TextLineClamp, TextOnline } from "@/src/components/Text";
 import { convertDuration } from "@/src/untils";
 import { useRouter } from "next/router";
-import React from "react";
+import React, { useState } from "react";
 import { BiSortAlt2 } from "react-icons/bi";
 import { Box, Flex, Grid, Image } from "theme-ui";
 type Props = {
@@ -10,6 +11,7 @@ type Props = {
 }
 const ListSong = ({ data, description }: Props) => {
 	const router = useRouter();
+	const [isShow, setIsShow] = useState(false);
 	return(
 		<Flex
 			sx={{
@@ -50,6 +52,12 @@ const ListSong = ({ data, description }: Props) => {
 			</Grid>
 			<Flex sx={{ flexDirection: 'column'}}>
 				{data?.map((item:any, index:any) => {
+					const handleShowPopup = () => {
+						if(item?.streaming_status === 2){
+							setIsShow(true)
+							console.log('haha')
+						}
+					}
 					return(
 						<Grid
 							key={index}
@@ -68,6 +76,7 @@ const ListSong = ({ data, description }: Props) => {
 									alt=""
 									src={item.thumbnail}
 									sx={{ height: '40px', width: '40px', borderRadius: '6px', cursor: 'pointer'}}
+									onClick={handleShowPopup}
 								/>
 								<Flex sx={{ marginLeft: '10px', flexDirection: 'column', justifyContent: 'space-around',}}>
 									<TextOnline sx={{
@@ -125,6 +134,16 @@ const ListSong = ({ data, description }: Props) => {
 					);
 				})}
 			</Flex>
+			<Popup
+				isShow={isShow}
+				onClose={() => setIsShow(false)}
+				title="Dành Cho Tài Khoản VIP"
+				message="Theo yêu cầu của đơn vị sở hữu bản quyền, bạn cần tài khoản VIP để nghe bài hát này."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Nâng Cấp VIP' },
+				]}
+			/>
 		</Flex>
 	);
 }

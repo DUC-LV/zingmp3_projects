@@ -94,6 +94,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 	background: #170f23;
+	font-family: sans-serif;
 }
 
 a {

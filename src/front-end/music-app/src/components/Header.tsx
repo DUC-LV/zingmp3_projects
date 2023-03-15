@@ -35,7 +35,6 @@ const Items = ({ link, isActive, onClick, icon, name }: PropsWithChildren<ItemPr
 					color: '#DADADA',
 					margin: '1px 10px',
 					cursor: 'pointer',
-					fontFamily: 'sans-serif',
 					"@media screen and (max-width: 1133px)": {
 						display: 'none'
 					}
@@ -236,11 +235,11 @@ const Header = () => {
 					)
 				})}
 			</Flex>
-			<ButtonItems
+			{/* <ButtonItems
 				title={'Đăng nhập để khám phá playlist dành riêng cho bạn'}
 				name={'Đăng nhập'}
 				backgroundColor={'#a55fe3'}
-			/>
+			/> */}
 			<ButtonItems
 				title={'Nghe nhạc không quảng cáo cùng kho nhạc VIP'}
 				name={'Nâng cấp VIP'}
