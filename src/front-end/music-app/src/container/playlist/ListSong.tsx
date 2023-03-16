@@ -55,7 +55,6 @@ const ListSong = ({ data, description }: Props) => {
 					const handleShowPopup = () => {
 						if(item?.streaming_status === 2){
 							setIsShow(true)
-							console.log('haha')
 						}
 					}
 					return(

@@ -95,7 +95,11 @@ const InputSearch = () => {
 		</Flex>
 	)
 }
-const SearchBar = () => {
+
+type Props = {
+	checkout: string;
+}
+const SearchBar = ({ checkout }: Props) => {
 	const icon = [
 		// {
 		// 	icon: <BsArrowBarUp style={{ color: 'white'}}/>
@@ -112,7 +116,6 @@ const SearchBar = () => {
 	const ref = React.useRef(null);
 	useOnClickOutside(ref, () => {
 		setIsShow(false);
-		console.log('haha')
 	});
 	return(
 		<Flex
@@ -170,6 +173,34 @@ const SearchBar = () => {
 							sx={{ position: 'relative' }}
 							><IconSearchBar icon={item.icon}/>
 							{ isShow && (
+								!checkout ? (
+									<Flex
+										sx={{
+											position: 'absolute',
+											top: '120%',
+											height: '50px',
+											width: '180px',
+											backgroundColor: '#231b2e',
+											right: '20%',
+											transition: 'opacity 2000ms ease-in-out',
+											padding: '15px',
+											alignItems: 'center',
+											cursor: 'pointer',
+											borderRadius: '8px'
+										}}
+										onClick={() => {
+											router.push('/login')
+										}}
+									>
+										<Text
+										sx={{
+											fontSize: '16px',
+											fontWeight: '600',
+											color: 'white'
+										}}
+										>Đăng nhập</Text>
+									</Flex>
+								):
 								<Flex
 									sx={{
 										position: 'absolute',
@@ -185,16 +216,19 @@ const SearchBar = () => {
 										borderRadius: '8px'
 									}}
 									onClick={() => {
-										router.push('/login')
+										localStorage.removeItem("token");
+										setTimeout(() => {
+											router.push('/login')
+										}, 500)
 									}}
 								>
 									<Text
-										sx={{
-											fontSize: '16px',
-											fontWeight: '600',
-											color: 'white'
-										}}
-									>Đăng nhập</Text>
+									sx={{
+										fontSize: '16px',
+										fontWeight: '600',
+										color: 'white'
+									}}
+									>Đăng Xuất</Text>
 								</Flex>
 							)}
 						</Flex>
