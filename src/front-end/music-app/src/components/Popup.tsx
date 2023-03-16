@@ -101,7 +101,6 @@ const Popup = ({
 				{actions && actions.length > 0 && (
 					<Flex sx={{ justifyContent: 'space-around', mt: '40px' }}>
 						{actions.map(action => {
-							console.log(action.key)
 							const button = (
 								<Button
 									title={action.title}

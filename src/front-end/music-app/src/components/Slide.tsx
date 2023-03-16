@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import {Box, Flex, Image} from "theme-ui";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
@@ -8,10 +8,13 @@ import { AiOutlineArrowRight } from "react-icons/ai";
 import { useRouter } from "next/router";
 import { convertSlug } from "../untils";
 import { Autoplay } from "swiper";
+import Popup from "./Popup";
 
 
 export const BannerSlider = (props: { banners: Array<Banner> }) => {
 	const { banners } = props;
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
+	const [isShow, setIsShow] = useState(false);
 	return(
 		<Box>
 			<Swiper
@@ -25,10 +28,25 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 							alt=""
 							src={item.banner}
 							sx={{ borderRadius: '8px' }}
+							onClick={() => {
+								if(checkout === null){
+									setIsShow(true);
+								}
+							}}
 						/>
 					</SwiperSlide>
 				))}
 			</Swiper>
+			<Popup
+				isShow={isShow}
+				onClose={() => setIsShow(false)}
+				title="Thông Báo"
+				message="Vui lòng đăng nhập lại để tiếp tục sử dụng dịch vụ."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Đăng nhập' },
+				]}
+			/>
 		</Box>
 	);
 }
@@ -37,6 +55,8 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: string} ) => {
 	const { playlists, title } = props;
 	const router = useRouter();
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
+	const [isShow, setIsShow] = useState(false);
 	return(
 		<Box>
 			<Flex sx={{ justifyContent: 'space-between'}}>
@@ -70,13 +90,18 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 							src={item.thumbnail_m}
 							sx={{ borderRadius: '8px' }}
 							onClick={() => {
-								router.push({
-									pathname:"playlist/[slugPlaylist]",
-									query: {
-										slugPlaylist: convertSlug(String(item.title)),
-										id: item?.id,
-									}
-								})
+								if(checkout === null){
+									setIsShow(true);
+								}
+								else {
+									router.push({
+										pathname:"playlist/[slugPlaylist]",
+										query: {
+											slugPlaylist: convertSlug(String(item.title)),
+											id: item?.id,
+										}
+									})
+								}
 							}}
 						/>
 						<Box sx={{ mt: '10px' }}>
@@ -99,6 +124,16 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 					</SwiperSlide>
 				))}
 			</Swiper>
+			<Popup
+				isShow={isShow}
+				onClose={() => setIsShow(false)}
+				title="Thông Báo"
+				message="Vui lòng đăng nhập lại để tiếp tục sử dụng dịch vụ."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Đăng nhập' },
+				]}
+			/>
 		</Box>
 	)
 }
