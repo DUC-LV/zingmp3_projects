@@ -19,7 +19,7 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 	return(
 		<Box>
 			<Swiper
-			modules={[ Autoplay ]}
+				modules={[ Autoplay ]}
 				slidesPerView={3}
 				autoplay={true}
 			>

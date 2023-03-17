@@ -1,6 +1,7 @@
 import { useRouter } from "next/router";
 import React, { useState } from "react";
 import { Box, Button, Flex, Input, Text } from "theme-ui";
+import InputItem from "../components/InputItem";
 import ReponsiveContainer from "../components/ReponsiveContainer";
 import axiosInstance from "../services/axiosInstance";
 
@@ -49,40 +50,17 @@ const LoginPage = () => {
 					<Text as="h1" sx={{ fontSize: '20px', color: 'white', marginBottom: '20px', textAlign: 'center' }}>Đăng nhập</Text>
 					<Box>
 						<Box sx={{ marginY: '20px'}}>
-							<Text sx={{ fontSize: '16px', color: 'white'}}>Tài khoản</Text>
-							<Input
-								placeholder="Nhập tài khoản"
-								sx={{
-									marginY: '5px',
-									height: '45px',
-									"::placeholder": {
-										color: 'rgba(255,255,255,0.87)',
-										fontSize: '14px',
-										padding: '12px'
-									},
-									border: '1px solid rgba(255,255,255,0.87)',
-									color: 'rgba(255,255,255,0.87)',
-								}}
-								{...username}
+							<InputItem
+								title="Tài Khoản"
+								value={username}
+								type="text"
 							/>
 						</Box>
 						<Box sx={{ marginY: '20px'}}>
-							<Text sx={{ fontSize: '16px', color: 'white'}}>Mật khẩu</Text>
-							<Input
-								placeholder="Nhập mật khẩu"
-								sx={{
-									marginY: '5px',
-									height: '45px',
-									"::placeholder": {
-										color: 'rgba(255,255,255,0.87)',
-										fontSize: '14px',
-										padding: '12px'
-									},
-									border: '1px solid rgba(255,255,255,0.87)',
-									color: 'rgba(255,255,255,0.87)',
-								}}
+							<InputItem
+								title="Mật khẩu"
+								value={password}
 								type="password"
-								{...password}
 							/>
 						</Box>
 						<Button
