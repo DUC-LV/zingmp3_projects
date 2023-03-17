@@ -1,28 +1,29 @@
 import { useRouter } from "next/router";
 import React from "react";
 import { toast, ToastContainer } from "react-toastify";
-import { Box, Button, Flex, Text } from "theme-ui";
+import { Box, Flex, Text, Button } from "theme-ui";
 import InputItem, { useFormInput } from "../components/InputItem";
 import ReponsiveContainer from "../components/ReponsiveContainer";
 import axiosInstance from "../services/axiosInstance";
 
 
-const LoginPage = () => {
+const Register = () => {
 	const username = useFormInput('');
+	const email = useFormInput('')
 	const password = useFormInput('');
 	const router = useRouter();
-	const handleLogin = (e:any) => {
+	const handleRegister = (e:any) => {
 		e.preventDefault();
 		try {
-			axiosInstance.post('api/login/', { username: username.value, password: password.value}).then(res => {
-				localStorage.setItem("token", res.data.access);
+			axiosInstance.post('api/register/', { username: username.value, email: email.value, password: password.value}).then(res => {
+				console.log(res)
 				setTimeout(() => {
-					router.push('/')
+					router.push('/login')
 				}, 1000)
 			})
 		} catch (err){
 		}
-		toast.success("Đăng nhập thành công!")
+		toast.success("Đăng kí thành công!")
 	}
 	return(
 		<ReponsiveContainer>
@@ -31,28 +32,36 @@ const LoginPage = () => {
 					sx={{
 						padding: '14px',
 						borderRadius: '16px',
-						height: '330px',
+						height: '400px',
 						width: '450px',
 						backgroundColor: '#34224f',
 						marginTop: '40px'
 					}}
 				>
-					<Text as="h1" sx={{ fontSize: '20px', color: 'white', marginBottom: '20px', textAlign: 'center' }}>Đăng nhập</Text>
+					<Text as="h1" sx={{ fontSize: '20px', color: 'white', marginBottom: '20px', textAlign: 'center' }}>Đăng kí</Text>
 					<Box>
 						<Box sx={{ marginY: '20px'}}>
 							<InputItem
 								title="Tài Khoản"
-								value={username}
 								type="text"
 								placeholder="Nhập tài khoản"
+								value={username}
+							/>
+						</Box>
+						<Box sx={{ marginY: '20px'}}>
+							<InputItem
+								title="Email"
+								type="text"
+								placeholder="Nhập Email"
+								value={email}
 							/>
 						</Box>
 						<Box sx={{ marginY: '20px'}}>
 							<InputItem
 								title="Mật khẩu"
-								value={password}
 								type="password"
 								placeholder="Nhập mật khẩu"
+								value={password}
 							/>
 						</Box>
 						<Button
@@ -65,27 +74,8 @@ const LoginPage = () => {
 								fontWeight: '600',
 								outline: 'none'
 							}}
-							onClick={handleLogin}
-						>Đăng nhập</Button>
-						<Flex
-							sx={{ marginY: '20px', justifyContent: 'center'}}
-							onClick={() => {
-								router.push('/register')
-							}}
-						>
-							<Text
-								as="h5"
-								sx={{
-									color: 'white',
-									fontSize: '18px',
-									cursor: 'pointer',
-									":hover": {
-										textDecoration: 'underline',
-										color: 'red'
-									}
-								}}
-							>Đăng kí</Text>
-						</Flex>
+							onClick={handleRegister}
+						>Đăng kí</Button>
 					</Box>
 				</Box>
 			</Flex>
@@ -93,4 +83,4 @@ const LoginPage = () => {
 		</ReponsiveContainer>
 	);
 }
-export default LoginPage;
+export default Register;

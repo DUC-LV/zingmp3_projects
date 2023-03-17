@@ -3,6 +3,8 @@ import type { AppProps } from 'next/app'
 import Layout from '../container/Layout';
 import NextNProgress from 'nextjs-progressbar';
 import "swiper/swiper-bundle.min.css";
+import 'react-toastify/dist/ReactToastify.css';
+import { ToastContainer } from 'react-toastify';
 
 export default function App({ Component, pageProps }: AppProps) {
 	return <Layout>
