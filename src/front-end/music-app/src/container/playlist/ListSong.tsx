@@ -142,6 +142,13 @@ const ListSong = ({ data, description }: Props) => {
 					{ key: 'cancel', title: 'Đóng' },
 					{ key: 'ok', title: 'Nâng Cấp VIP' },
 				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/packages');
+					} else if (key === 'cancel'){
+						setIsShow(false);
+					}
+				}}
 			/>
 		</Flex>
 	);

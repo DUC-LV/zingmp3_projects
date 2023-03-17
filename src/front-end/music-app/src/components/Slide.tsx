@@ -15,6 +15,7 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 	const { banners } = props;
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
 	const [isShow, setIsShow] = useState(false);
+	const router = useRouter();
 	return(
 		<Box>
 			<Swiper
@@ -46,6 +47,13 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 					{ key: 'cancel', title: 'Đóng' },
 					{ key: 'ok', title: 'Đăng nhập' },
 				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/login');
+					} else if (key === 'cancel'){
+						setIsShow(false);
+					}
+				}}
 			/>
 		</Box>
 	);
@@ -133,6 +141,13 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 					{ key: 'cancel', title: 'Đóng' },
 					{ key: 'ok', title: 'Đăng nhập' },
 				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/login');
+					} else if (key === 'cancel'){
+						setIsShow(false);
+					}
+				}}
 			/>
 		</Box>
 	)
