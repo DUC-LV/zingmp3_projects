@@ -1,0 +1,4594 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZF9OBAZZ",
+    "title": "Women Of Pop",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/c/b/2/dcb25963b2aada9a4538588b8c0ffc83.jpg",
+    "isoffical": true,
+    "link": "/album/Women-Of-Pop-Taylor-Swift-Katy-Perry-Britney-Spears-Miley-Cyrus/ZF9OBAZZ.html",
+    "isIndie": false,
+    "releaseDate": "",
+    "sortDescription": "Tôn vinh tài năng và những sản phẩm âm nhạc nổi bật của các nữ nghệ sĩ Pop",
+    "releasedAt": 0,
+    "genreIds": [
+      "IWZ9Z08O",
+      "IWZ9Z097"
+    ],
+    "PR": false,
+    "artists": [
+      {
+        "id": "IWZ9ZOA8",
+        "name": "Taylor Swift",
+        "link": "/nghe-si/Taylor-Swift",
+        "spotlight": false,
+        "alias": "Taylor-Swift",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+        "isOA": false,
+        "isOABrand": false,
+        "playlistId": "ZOU8C777",
+        "totalFollow": 206308
+      },
+      {
+        "id": "IWZ9ZOCU",
+        "name": "Katy Perry",
+        "link": "/nghe-si/Katy-Perry",
+        "spotlight": false,
+        "alias": "Katy-Perry",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/0/6/6/0066f5f9111c922f15c4ff12ab6c202e.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/0/6/6/0066f5f9111c922f15c4ff12ab6c202e.jpg",
+        "isOA": false,
+        "isOABrand": false,
+        "playlistId": "ZWZAFCIO",
+        "totalFollow": 59291
+      },
+      {
+        "id": "IWZ9Z0C6",
+        "name": "Britney Spears",
+        "link": "/Britney-Spears",
+        "spotlight": false,
+        "alias": "Britney-Spears",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+        "isOA": true,
+        "isOABrand": false,
+        "playlistId": "ZWZ9ECID",
+        "totalFollow": 35929
+      },
+      {
+        "id": "IWZ9ZO96",
+        "name": "Miley Cyrus",
+        "link": "/Miley-Cyrus",
+        "spotlight": false,
+        "alias": "Miley-Cyrus",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+        "isOA": true,
+        "isOABrand": false,
+        "playlistId": "ZWZAE9OD",
+        "totalFollow": 20247
+      }
+    ],
+    "artistsNames": "Taylor Swift, Katy Perry, Britney Spears, Miley Cyrus",
+    "playItemMode": 0,
+    "subType": 1,
+    "uid": 422,
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/d/c/b/2/dcb25963b2aada9a4538588b8c0ffc83.jpg",
+    "isShuffle": true,
+    "isPrivate": false,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "distributor": "",
+    "description": "Tôn vinh tài năng và những sản phẩm âm nhạc nổi bật của các nữ nghệ sĩ Pop",
+    "aliasTitle": "Women-Of-Pop-Taylor-Swift-Katy-Perry-Britney-Spears-Miley-Cyrus",
+    "sectionId": "album",
+    "contentLastUpdate": 1678037680,
+    "artist": {
+      "id": "IWZ9ZOA8",
+      "name": "Taylor Swift",
+      "link": "/nghe-si/Taylor-Swift",
+      "spotlight": false,
+      "alias": "Taylor-Swift",
+      "playlistId": "ZOU8C777",
+      "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/a/0/1/1/a0118b4465410076d679554f64b73e81.jpg",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg"
+    },
+    "genres": [
+      {
+        "id": "IWZ9Z08O",
+        "name": "Âu Mỹ",
+        "title": "Âu Mỹ",
+        "alias": "au-my",
+        "link": "/the-loai-album/Au-My/IWZ9Z08O.html"
+      },
+      {
+        "id": "IWZ9Z097",
+        "name": "Pop",
+        "title": "Pop",
+        "alias": "pop",
+        "link": "/the-loai-album/Pop/IWZ9Z097.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "Z6W9C78W",
+          "title": "Anti-Hero",
+          "alias": "Anti-Hero-Taylor-Swift",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Taylor Swift",
+          "artists": [
+            {
+              "id": "IWZ9ZOA8",
+              "name": "Taylor Swift",
+              "link": "/nghe-si/Taylor-Swift",
+              "spotlight": false,
+              "alias": "Taylor-Swift",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOU8C777"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/4/f/b/c4fb063811a0f14a7713ebb32bd4dcb8.jpg",
+          "link": "/bai-hat/Anti-Hero-Taylor-Swift/Z6W9C78W.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/4/f/b/c4fb063811a0f14a7713ebb32bd4dcb8.jpg",
+          "duration": 201,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1666285200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "SB690DEE",
+            "title": "Midnights",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/2/1/d/b21ddc571907fd537e087f7511b6f325.jpg",
+            "isoffical": true,
+            "link": "/album/Midnights-Taylor-Swift/SB690DEE.html",
+            "isIndie": false,
+            "releaseDate": "21/10/2022",
+            "sortDescription": "",
+            "releasedAt": 1666285200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOA8",
+                "name": "Taylor Swift",
+                "link": "/nghe-si/Taylor-Swift",
+                "spotlight": false,
+                "alias": "Taylor-Swift",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOU8C777",
+                "totalFollow": 206308
+              }
+            ],
+            "artistsNames": "Taylor Swift"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/Anti-Hero-Taylor-Swift/Z6W9C78W.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6ZE0ZOU",
+          "title": "Flowers",
+          "alias": "Flowers-Miley-Cyrus",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Miley Cyrus",
+          "artists": [
+            {
+              "id": "IWZ9ZO96",
+              "name": "Miley Cyrus",
+              "link": "/Miley-Cyrus",
+              "spotlight": false,
+              "alias": "Miley-Cyrus",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZAE9OD"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/7/2/b/172b8dfec99165bb15a470136aa5da19.jpg",
+          "link": "/bai-hat/Flowers-Miley-Cyrus/Z6ZE0ZOU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/7/2/b/172b8dfec99165bb15a470136aa5da19.jpg",
+          "duration": 201,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1673456400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6B8O7ADU",
+            "title": "Flowers (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/a/e/9/9ae9f057cda4ab3bfc374467da07c3e9.jpg",
+            "isoffical": true,
+            "link": "/album/Flowers-Single-Miley-Cyrus/6B8O7ADU.html",
+            "isIndie": false,
+            "releaseDate": "12/01/2023",
+            "sortDescription": "",
+            "releasedAt": 1673456400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZO96",
+                "name": "Miley Cyrus",
+                "link": "/Miley-Cyrus",
+                "spotlight": false,
+                "alias": "Miley-Cyrus",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZAE9OD",
+                "totalFollow": 20247
+              }
+            ],
+            "artistsNames": "Miley Cyrus"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZEZZAO",
+          "title": "Toxic",
+          "alias": "Toxic-Britney-Spears",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Britney Spears",
+          "artists": [
+            {
+              "id": "IWZ9Z0C6",
+              "name": "Britney Spears",
+              "link": "/Britney-Spears",
+              "spotlight": false,
+              "alias": "Britney-Spears",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9ECID"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1321779387.jpg",
+          "link": "/bai-hat/Toxic-Britney-Spears/ZWZEZZAO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1321779387.jpg",
+          "duration": 201,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZ9D70B",
+            "title": "Toxic - Single",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/3/73688444a73a76169d03b689a7e785cf_1321779387.jpg",
+            "isoffical": true,
+            "link": "/album/Toxic-Single-Britney-Spears/ZWZ9D70B.html",
+            "isIndie": false,
+            "releaseDate": "2003",
+            "sortDescription": "Toxic là bài hát dance-pop được giải British và American Grammy Award được viết bời Bloodshy & Avant, Cathy Dennis, và Henrik Jonback trong album In the zone (2003). Là single thứ 2 từ album. \"Toxic\" đạt được thành công ở nhiều nước với no.1, nhưng không đạt đến no.1 ở Mỹ. Năm 2005 bài hát đạt giải Grammy Award cho Best Dance Recording. Cùng với \"...Baby One More Time\" và \"Oops!... I Did It Again\" trở thành 3 ca khúc thành công nhất của Brit.\r\n\r\nBài hát đã được cover bởi Yael Naim, The BossHoss, Local H, the Chapin Sisters, Juliet Turner, Nickel Creek, Hurra Torpedo, The Zoo, Mark Ronson, Count Zero, I Set My Friends on Fire, Kate Miller-Heidke, Hard-Fi, Metronomy, Monsters From Mars, và Shar Jackson, mẹ 2 đứa con trước của Kevin Federline - anh chồng đào mỏ của Brit. Người viết nên bài hát, Cathy Dennis, cũng đã record bản demo.",
+            "releasedAt": 1072803600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z0C6",
+                "name": "Britney Spears",
+                "link": "/Britney-Spears",
+                "spotlight": false,
+                "alias": "Britney-Spears",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9ECID",
+                "totalFollow": 35929
+              }
+            ],
+            "artistsNames": "Britney Spears"
+          },
+          "indicators": [],
+          "radioId": 1282819681,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZAO8Z7",
+          "title": "Only Girl (In The World)",
+          "alias": "Only-Girl-In-The-World-Rihanna",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Rihanna",
+          "artists": [
+            {
+              "id": "IWZ9Z0AU",
+              "name": "Rihanna",
+              "link": "/nghe-si/Rihanna",
+              "spotlight": false,
+              "alias": "Rihanna",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/7/9/8/879852cb8704c5c013354e15cc8d26dd.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/7/9/8/879852cb8704c5c013354e15cc8d26dd.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOU99CFE"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/a/8/a87a89a01b884c6b629a200f05cb5294_1290341524.jpg",
+          "link": "/bai-hat/Only-Girl-In-The-World-Rihanna/ZWZAO8Z7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/a/8/a87a89a01b884c6b629a200f05cb5294_1290341524.jpg",
+          "duration": 235,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097",
+            "IWZ9Z09D"
+          ],
+          "album": {
+            "encodeId": "ZWZ96677",
+            "title": "Loud",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/e/9/4/be948d868e6dbccc26faa13ec4bc3d31.jpg",
+            "isoffical": true,
+            "link": "/album/Loud-Rihanna/ZWZ96677.html",
+            "isIndie": false,
+            "releaseDate": "01/01/2010",
+            "sortDescription": "Loud là album phòng thu thứ năm của Barbadian Rihanna nghệ sĩ thu âm. Nó lần đầu tiên được phát hành vào ngày 12 tháng 11, năm 2010. Ghi âm bắt đầu vào tháng hai năm 2010 và tiếp tục trong một khoảng thời gian sáu tháng, kết thúc vào tháng Tám năm 2010.các bài hát của album \"Only Girl (In the World)\" đã được phát hành vào ngày 10 tháng chín 2010. \"What's My Name?\" được phát hành như là đĩa đơn thứ hai vào ngày 29 tháng mười năm 2010. Ban đầu, Rihanna đã nói rằng \"S & M\" sẽ được phát hành như là đĩa đơn thứ ba . Tuy nhiên, trong một cuộc phỏng vấn đài phát thanh gần đây, Rihanna nói rằng cô muốn người hâm mộ của mình để lựa chọn của album thứ ba duy nhất, vì hai bài hát được người hâm mộ yêu cầu.",
+            "releasedAt": 1262278800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z0AU",
+                "name": "Rihanna",
+                "link": "/nghe-si/Rihanna",
+                "spotlight": false,
+                "alias": "Rihanna",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/7/9/8/879852cb8704c5c013354e15cc8d26dd.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/7/9/8/879852cb8704c5c013354e15cc8d26dd.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOU99CFE",
+                "totalFollow": 37991
+              }
+            ],
+            "artistsNames": "Rihanna"
+          },
+          "indicators": [],
+          "radioId": 1282325317,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ9ZE9I",
+          "title": "Bad Romance",
+          "alias": "Bad-Romance-Lady-Gaga",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Lady Gaga",
+          "artists": [
+            {
+              "id": "IWZ9ZOCD",
+              "name": "Lady Gaga",
+              "link": "/nghe-si/Lady-Gaga",
+              "spotlight": false,
+              "alias": "Lady-Gaga",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/2/3/f/f23f9854abdcbbcee557666b8cafc843.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/2/3/f/f23f9854abdcbbcee557666b8cafc843.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOUWC8IZ"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/2/6/1/7261d4bbfbcfcd984949d1b8fb84d664.jpg",
+          "link": "/bai-hat/Bad-Romance-Lady-Gaga/ZWZ9ZE9I.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/2/6/1/7261d4bbfbcfcd984949d1b8fb84d664.jpg",
+          "duration": 295,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1566518400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1282266247,
+          "isIndie": false,
+          "mvlink": "/video-clip/Bad-Romance-Lady-Gaga/ZWZ9ZE9I.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW67A7ZC",
+          "title": "Roar",
+          "alias": "Roar-Katy-Perry",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Katy Perry",
+          "artists": [
+            {
+              "id": "IWZ9ZOCU",
+              "name": "Katy Perry",
+              "link": "/nghe-si/Katy-Perry",
+              "spotlight": false,
+              "alias": "Katy-Perry",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/0/6/6/0066f5f9111c922f15c4ff12ab6c202e.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/0/6/6/0066f5f9111c922f15c4ff12ab6c202e.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZAFCIO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/f/c/9/4fc9c515cdc1c213ca4a78e774619725.jpg",
+          "link": "/bai-hat/Roar-Katy-Perry/ZW67A7ZC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/f/c/9/4fc9c515cdc1c213ca4a78e774619725.jpg",
+          "duration": 223,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1410480000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZOZW0ACE",
+            "title": "17th Asian Games Incheon 2014 (Official Album)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/e/b/8/9eb86b188a350eea3c7e9a4c92bb2e33.jpg",
+            "isoffical": true,
+            "link": "/album/17th-Asian-Games-Incheon-2014-Official-Album-Various-Artists/ZOZW0ACE.html",
+            "isIndie": false,
+            "releaseDate": "09/06/2014",
+            "sortDescription": "",
+            "releasedAt": 1402246800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false
+          },
+          "indicators": [],
+          "radioId": 1283623701,
+          "isIndie": false,
+          "mvlink": "/video-clip/Roar-Katy-Perry/ZW67A7ZC.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9BEW0B",
+          "title": "no tears left to cry",
+          "alias": "no-tears-left-to-cry-Ariana-Grande",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ariana Grande",
+          "artists": [
+            {
+              "id": "IWZ98ABB",
+              "name": "Ariana Grande",
+              "link": "/nghe-si/Ariana-Grande",
+              "spotlight": false,
+              "alias": "Ariana-Grande",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZCZICU"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/3/3/2/03324935d4b232813b826404de332351.jpg",
+          "link": "/bai-hat/no-tears-left-to-cry-Ariana-Grande/ZW9BEW0B.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/3/3/2/03324935d4b232813b826404de332351.jpg",
+          "duration": 205,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1534352400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZODFOE07",
+            "title": "Sweetener",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/3/3/2/03324935d4b232813b826404de332351.jpg",
+            "isoffical": true,
+            "link": "/album/Sweetener-Ariana-Grande/ZODFOE07.html",
+            "isIndie": false,
+            "releaseDate": "17/08/2018",
+            "sortDescription": "Released: 16 Aug 2018\r\n℗ 2018 Republic Records, a Division of UMG Recordings, Inc.",
+            "releasedAt": 1534438800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98ABB",
+                "name": "Ariana Grande",
+                "link": "/nghe-si/Ariana-Grande",
+                "spotlight": false,
+                "alias": "Ariana-Grande",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZCZICU",
+                "totalFollow": 58432
+              }
+            ],
+            "artistsNames": "Ariana Grande"
+          },
+          "indicators": [],
+          "radioId": 1285895450,
+          "isIndie": false,
+          "mvlink": "/video-clip/no-tears-left-to-cry-Ariana-Grande/ZW9BEW0B.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZBACEB",
+          "title": "Rolling in the Deep",
+          "alias": "Rolling-in-the-Deep-Adele",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Adele",
+          "artists": [
+            {
+              "id": "IWZ9Z09U",
+              "name": "Adele",
+              "link": "/nghe-si/Adele",
+              "spotlight": false,
+              "alias": "Adele",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/6/d/3/c6d323a06f7154a8e05056cb435889ea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/6/d/3/c6d323a06f7154a8e05056cb435889ea.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEWAAB"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/5/7/5/85753b0de8bb3bbbacc6a766c8bb3dab.jpg",
+          "link": "/bai-hat/Rolling-in-the-Deep-Adele/ZWZBACEB.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/5/7/5/85753b0de8bb3bbbacc6a766c8bb3dab.jpg",
+          "duration": 228,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1614816000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [
+            "explicit"
+          ],
+          "radioId": 1296756446,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z66UU7FC",
+          "title": "Made You Look",
+          "alias": "Made-You-Look-Meghan-Trainor-Kim-Petras",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Meghan Trainor, Kim Petras",
+          "artists": [
+            {
+              "id": "IWZAW760",
+              "name": "Meghan Trainor",
+              "link": "/nghe-si/Meghan-Trainor",
+              "spotlight": false,
+              "alias": "Meghan-Trainor",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/9/9/1/b991d3e7919a4804d83a55c81aeef42d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/9/9/1/b991d3e7919a4804d83a55c81aeef42d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWF9EI"
+            },
+            {
+              "id": "IWZFE96W",
+              "name": "Kim Petras",
+              "link": "/nghe-si/Kim-Petras",
+              "spotlight": false,
+              "alias": "Kim-Petras",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/2/e/212e739d77757c54802612966f73425b.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/1/2/e/212e739d77757c54802612966f73425b.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W9OEO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/3/4/a/934a8f831e569bce264f7b4898ff2758.jpg",
+          "link": "/bai-hat/Made-You-Look-Meghan-Trainor-Kim-Petras/Z66UU7FC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/3/4/a/934a8f831e569bce264f7b4898ff2758.jpg",
+          "duration": 147,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1674752400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6B866W99",
+            "title": "Made You Look (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/6/2/2/8622e73bcfedeb7554de2771700ded1a.jpg",
+            "isoffical": true,
+            "link": "/album/Made-You-Look-Single-Meghan-Trainor-Kim-Petras/6B866W99.html",
+            "isIndie": false,
+            "releaseDate": "13/01/2023",
+            "sortDescription": "",
+            "releasedAt": 1673542800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAW760",
+                "name": "Meghan Trainor",
+                "link": "/nghe-si/Meghan-Trainor",
+                "spotlight": false,
+                "alias": "Meghan-Trainor",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/9/9/1/b991d3e7919a4804d83a55c81aeef42d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/9/9/1/b991d3e7919a4804d83a55c81aeef42d.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEWF9EI",
+                "totalFollow": 9675
+              },
+              {
+                "id": "IWZFE96W",
+                "name": "Kim Petras",
+                "link": "/nghe-si/Kim-Petras",
+                "spotlight": false,
+                "alias": "Kim-Petras",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/1/2/e/212e739d77757c54802612966f73425b.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/1/2/e/212e739d77757c54802612966f73425b.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W9OEO",
+                "totalFollow": 257
+              }
+            ],
+            "artistsNames": "Meghan Trainor, Kim Petras"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7WB8BA",
+          "title": "Same Old Love",
+          "alias": "Same-Old-Love-Selena-Gomez",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Selena Gomez",
+          "artists": [
+            {
+              "id": "IWZ9ZO9Z",
+              "name": "Selena Gomez",
+              "link": "/Selena-Gomez",
+              "spotlight": false,
+              "alias": "Selena-Gomez",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/2/d/8/d2d85ee19a69d1028fbe7c36c650d357.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/2/d/8/d2d85ee19a69d1028fbe7c36c650d357.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOU99CFU"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/3/c/6c3c00007dca15d084f039d2c332794c.jpg",
+          "link": "/bai-hat/Same-Old-Love-Selena-Gomez/ZW7WB8BA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/c/3/c/6c3c00007dca15d084f039d2c332794c.jpg",
+          "duration": 228,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1456419600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZCIWAF",
+            "title": "Revival (Deluxe)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/c/3/c/6c3c00007dca15d084f039d2c332794c.jpg",
+            "isoffical": true,
+            "link": "/album/Revival-Deluxe-Selena-Gomez/ZWZCIWAF.html",
+            "isIndie": false,
+            "releaseDate": "09/10/2015",
+            "sortDescription": "Expected Release: Oct 09, 2015\r\n℗ 2015 Interscope Records",
+            "releasedAt": 1444323600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZO9Z",
+                "name": "Selena Gomez",
+                "link": "/Selena-Gomez",
+                "spotlight": false,
+                "alias": "Selena-Gomez",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/2/d/8/d2d85ee19a69d1028fbe7c36c650d357.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/2/d/8/d2d85ee19a69d1028fbe7c36c650d357.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOU99CFU",
+                "totalFollow": 62358
+              }
+            ],
+            "artistsNames": "Selena Gomez"
+          },
+          "indicators": [],
+          "radioId": 1285072681,
+          "isIndie": false,
+          "mvlink": "/video-clip/Same-Old-Love-Selena-Gomez/ZW7WB8BA.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ9C7BA",
+          "title": "Girlfriend",
+          "alias": "Girlfriend-Avril-Lavigne",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Avril Lavigne",
+          "artists": [
+            {
+              "id": "IWZ9ZOIC",
+              "name": "Avril Lavigne",
+              "link": "/Avril-Lavigne",
+              "spotlight": false,
+              "alias": "Avril-Lavigne",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9AAED"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/3/2/3/7323705b67f03b432c3e34770e7a957c.jpg",
+          "link": "/bai-hat/Girlfriend-Avril-Lavigne/ZWZ9C7BA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/3/2/3/7323705b67f03b432c3e34770e7a957c.jpg",
+          "duration": 217,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1267376400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZU86879Z",
+            "title": "Girlfriend EP",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/3/5/4/b354bf0e3f42ed8d26dda5db894f1f0a.jpg",
+            "isoffical": true,
+            "link": "/album/Girlfriend-EP-Avril-Lavigne/ZU86879Z.html",
+            "isIndie": false,
+            "releaseDate": "27/02/2007",
+            "sortDescription": "",
+            "releasedAt": 1172509200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOIC",
+                "name": "Avril Lavigne",
+                "link": "/Avril-Lavigne",
+                "spotlight": false,
+                "alias": "Avril-Lavigne",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9AAED",
+                "totalFollow": 7010
+              }
+            ],
+            "artistsNames": "Avril Lavigne"
+          },
+          "indicators": [
+            "explicit"
+          ],
+          "radioId": 1282295062,
+          "isIndie": false,
+          "mvlink": "/video-clip/Girlfriend-Avril-Lavigne/ZWZ9C7BA.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZDFUBZ",
+          "title": "Stronger (What Doesn't Kill You)",
+          "alias": "Stronger-What-Doesn-t-Kill-You-Kelly-Clarkson",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Kelly Clarkson",
+          "artists": [
+            {
+              "id": "IWZ9ZOC8",
+              "name": "Kelly Clarkson",
+              "link": "/Kelly-Clarkson",
+              "spotlight": false,
+              "alias": "Kelly-Clarkson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/9a5a4d0e3d0b32da4fc8a5b6f42d8be0_1425020295.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/a/9a5a4d0e3d0b32da4fc8a5b6f42d8be0_1425020295.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ79OII"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/2/9/29d4ff264b2d8e969cf271585ccc8352_1318906289.jpg",
+          "link": "/bai-hat/Stronger-What-Doesn-t-Kill-You-Kelly-Clarkson/ZWZDFUBZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/2/9/29d4ff264b2d8e969cf271585ccc8352_1318906289.jpg",
+          "duration": 222,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1282795167,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA9FD79",
+          "title": "Single Ladies (Put a Ring on It)",
+          "alias": "Single-Ladies-Put-a-Ring-on-It-Beyonce",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Beyoncé",
+          "artists": [
+            {
+              "id": "IWZ9Z0C7",
+              "name": "Beyoncé",
+              "link": "/Beyonce-Knowles",
+              "spotlight": false,
+              "alias": "Beyonce-Knowles",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/b/5/b/5b5bf224fa722ec4649ef18d6b5cf01f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/b/5/b/5b5bf224fa722ec4649ef18d6b5cf01f.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ79W68"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/0/5/8/c058df3b0ac8d685c92530ac7a0f38fe.jpg",
+          "link": "/bai-hat/Single-Ladies-Put-a-Ring-on-It-Beyonce/ZWA9FD79.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/0/5/8/c058df3b0ac8d685c92530ac7a0f38fe.jpg",
+          "duration": 193,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1226941200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZU8AUZZI",
+            "title": "Single and Loving It",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/1/4/5/c145a31bf3e3ebf52ff199ee0f088674.jpg",
+            "isoffical": true,
+            "link": "/album/Single-and-Loving-It-Various-Artists/ZU8AUZZI.html",
+            "isIndie": false,
+            "releaseDate": "03/02/2017",
+            "sortDescription": "",
+            "releasedAt": 1486054800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false
+          },
+          "indicators": [],
+          "radioId": 1286626035,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z67DCBWO",
+          "title": "River",
+          "alias": "River-Miley-Cyrus",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Miley Cyrus",
+          "artists": [
+            {
+              "id": "IWZ9ZO96",
+              "name": "Miley Cyrus",
+              "link": "/Miley-Cyrus",
+              "spotlight": false,
+              "alias": "Miley-Cyrus",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZAE9OD"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/7/2/b/172b8dfec99165bb15a470136aa5da19.jpg",
+          "link": "/bai-hat/River-Miley-Cyrus/Z67DCBWO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/7/2/b/172b8dfec99165bb15a470136aa5da19.jpg",
+          "duration": 163,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1678381200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6B9OD8CD",
+            "title": "Endless Summer Vacation",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/3/7/d/537d8cc0f79af64fa8ca500821bdde75.jpg",
+            "isoffical": true,
+            "link": "/album/Endless-Summer-Vacation-Miley-Cyrus/6B9OD8CD.html",
+            "isIndie": false,
+            "releaseDate": "10/03/2023",
+            "sortDescription": "",
+            "releasedAt": 1678381200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZO96",
+                "name": "Miley Cyrus",
+                "link": "/Miley-Cyrus",
+                "spotlight": false,
+                "alias": "Miley-Cyrus",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZAE9OD",
+                "totalFollow": 20247
+              }
+            ],
+            "artistsNames": "Miley Cyrus"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6O0IE9B",
+          "title": "Never Gonna Not Dance Again",
+          "alias": "Never-Gonna-Not-Dance-Again-P-nk",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "P!nk",
+          "artists": [
+            {
+              "id": "IWZ9ZE07",
+              "name": "P!nk",
+              "link": "/nghe-si/Pink-USUK",
+              "spotlight": false,
+              "alias": "Pink-USUK",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/f/e/6/efe6007ad15f75b67d84d2a1947f6455.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/f/e/6/efe6007ad15f75b67d84d2a1947f6455.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZ9UDU0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/d/7/a/0d7ad058760f687138d4ec797f9e9548.jpg",
+          "link": "/bai-hat/Never-Gonna-Not-Dance-Again-P-nk/Z6O0IE9B.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/d/7/a/0d7ad058760f687138d4ec797f9e9548.jpg",
+          "duration": 225,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1667408400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "SB6C8B9A",
+            "title": "Never Gonna Not Dance Again (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/e/2/9/2e297aea1d26a4d6488e9d688482fee3.jpg",
+            "isoffical": true,
+            "link": "/album/Never-Gonna-Not-Dance-Again-Single-P-nk/SB6C8B9A.html",
+            "isIndie": false,
+            "releaseDate": "04/11/2022",
+            "sortDescription": "",
+            "releasedAt": 1667494800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZE07",
+                "name": "P!nk",
+                "link": "/nghe-si/Pink-USUK",
+                "spotlight": false,
+                "alias": "Pink-USUK",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/f/e/6/efe6007ad15f75b67d84d2a1947f6455.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/f/e/6/efe6007ad15f75b67d84d2a1947f6455.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOZ9UDU0",
+                "totalFollow": 20753
+              }
+            ],
+            "artistsNames": "P!nk"
+          },
+          "indicators": [
+            "explicit"
+          ],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOAE9707",
+          "title": "deja vu",
+          "alias": "deja-vu-Olivia-Rodrigo",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Olivia Rodrigo",
+          "artists": [
+            {
+              "id": "IW6OD7A6",
+              "name": "Olivia Rodrigo",
+              "link": "/nghe-si/Olivia-Rodrigo",
+              "spotlight": false,
+              "alias": "Olivia-Rodrigo",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/b/5/7/bb571ba2c9b94dde6be078d183c91c7e.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/b/5/7/bb571ba2c9b94dde6be078d183c91c7e.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "68ZD8IAI"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/6/8/5/b685e4c23c96070e18bd3ab7f786c59f.jpg",
+          "link": "/bai-hat/deja-vu-Olivia-Rodrigo/ZOAE9707.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/6/8/5/b685e4c23c96070e18bd3ab7f786c59f.jpg",
+          "duration": 231,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1617148800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "S7DB8CDB",
+            "title": "deja vu (MV) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/1/6/6/c16696160beb4a0471b1891965db663f.jpg",
+            "isoffical": true,
+            "link": "/album/deja-vu-MV-Single-Olivia-Rodrigo/S7DB8CDB.html",
+            "isIndie": false,
+            "releaseDate": "01/04/2021",
+            "sortDescription": "",
+            "releasedAt": 1617210000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6OD7A6",
+                "name": "Olivia Rodrigo",
+                "link": "/nghe-si/Olivia-Rodrigo",
+                "spotlight": false,
+                "alias": "Olivia-Rodrigo",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/b/5/7/bb571ba2c9b94dde6be078d183c91c7e.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/b/5/7/bb571ba2c9b94dde6be078d183c91c7e.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "68ZD8IAI",
+                "totalFollow": 6735
+              }
+            ],
+            "artistsNames": "Olivia Rodrigo"
+          },
+          "indicators": [
+            "explicit"
+          ],
+          "radioId": 1437672218,
+          "isIndie": false,
+          "mvlink": "/video-clip/deja-vu-Olivia-Rodrigo/ZOAE9707.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9DCFBF",
+          "title": "Let You Love Me",
+          "alias": "Let-You-Love-Me-Rita-Ora",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Rita Ora",
+          "artists": [
+            {
+              "id": "IWZ98DID",
+              "name": "Rita Ora",
+              "link": "/nghe-si/Rita-Ora",
+              "spotlight": false,
+              "alias": "Rita-Ora",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/d/220d6177ec4448e53c674ef656df3db1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/d/220d6177ec4448e53c674ef656df3db1.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWE6I8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/6/3/4/16340dd12c47a444f6d587eafa4b80ed.jpg",
+          "link": "/bai-hat/Let-You-Love-Me-Rita-Ora/ZW9DCFBF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/6/3/4/16340dd12c47a444f6d587eafa4b80ed.jpg",
+          "duration": 191,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1578848400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZUOWEEWD",
+            "title": "Phoenix (Deluxe)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/6/3/4/16340dd12c47a444f6d587eafa4b80ed.jpg",
+            "isoffical": true,
+            "link": "/album/Phoenix-Deluxe-Rita-Ora/ZUOWEEWD.html",
+            "isIndie": false,
+            "releaseDate": "23/11/2018",
+            "sortDescription": "Released: 23 Nov 2018\r\n℗ 2018 Atlantic Records UK except Track 9 (P) 2018 Asylum/Atlantic Records UK. Tracks 1 & 5 (P) 2017 Atlantic Records UK. Track 4 (P) 2017 Avicii Music AB under exclusive licence to Universal Music AB. Track 8 (P) 2018 Universal Studios, Atlantic Records UK, Capitol Records, a division of Universal Music Operations Limited. Asylum/Atlantic Records UK are divisions of Warner Music UK Limited.",
+            "releasedAt": 1542906000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98DID",
+                "name": "Rita Ora",
+                "link": "/nghe-si/Rita-Ora",
+                "spotlight": false,
+                "alias": "Rita-Ora",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/d/220d6177ec4448e53c674ef656df3db1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/d/220d6177ec4448e53c674ef656df3db1.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEWE6I8",
+                "totalFollow": 6490
+              }
+            ],
+            "artistsNames": "Rita Ora"
+          },
+          "indicators": [],
+          "radioId": 1285945278,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO0AZO7E",
+          "title": "Prisoner",
+          "alias": "Prisoner-Miley-Cyrus-Dua-Lipa",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Miley Cyrus, Dua Lipa",
+          "artists": [
+            {
+              "id": "IWZ9ZO96",
+              "name": "Miley Cyrus",
+              "link": "/Miley-Cyrus",
+              "spotlight": false,
+              "alias": "Miley-Cyrus",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/5/5/9/2559e24120c16b594b10156d2f246604.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZAE9OD"
+            },
+            {
+              "id": "IWZA6EFA",
+              "name": "Dua Lipa",
+              "link": "/Dua-Lipa",
+              "spotlight": false,
+              "alias": "Dua-Lipa",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/b/c/0cbca465a68b128627b1d3c09bfedbd1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/c/b/c/0cbca465a68b128627b1d3c09bfedbd1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOE0OEID"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/a/7/f/8a7f095c07e570036d93d5f765c03e94.jpg",
+          "link": "/bai-hat/Prisoner-Miley-Cyrus-Dua-Lipa/ZO0AZO7E.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/a/7/f/8a7f095c07e570036d93d5f765c03e94.jpg",
+          "duration": 169,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1606410000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1392602322,
+          "isIndie": false,
+          "mvlink": "/video-clip/Prisoner-Miley-Cyrus-Dua-Lipa/ZO0AZO7E.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6IFZZE",
+          "title": "4 Minutes",
+          "alias": "4-Minutes-Madonna",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Madonna",
+          "artists": [
+            {
+              "id": "IWZ9Z0A7",
+              "name": "Madonna",
+              "link": "/nghe-si/Madonna",
+              "spotlight": false,
+              "alias": "Madonna",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/4/e49fa05146bada19df2801283fafaff1_1424924500.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/4/e49fa05146bada19df2801283fafaff1_1424924500.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEU8FC8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/8/9/89fbb26dbf3b8d21f91882a9e20d2479_1376309976.jpg",
+          "link": "/bai-hat/4-Minutes-Madonna/ZW6IFZZE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/8/9/89fbb26dbf3b8d21f91882a9e20d2479_1376309976.jpg",
+          "duration": 190,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1283050952,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWB0OUFC",
+          "title": "Alone, Pt. II",
+          "alias": "Alone-Pt-II-Alan-Walker-Ava-Max",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Alan Walker, Ava Max",
+          "artists": [
+            {
+              "id": "IWZA6CCW",
+              "name": "Alan Walker",
+              "link": "/Alan-Walker",
+              "spotlight": false,
+              "alias": "Alan-Walker",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU89E"
+            },
+            {
+              "id": "IWZFE99O",
+              "name": "Ava Max",
+              "link": "/nghe-si/Ava-Max",
+              "spotlight": false,
+              "alias": "Ava-Max",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/f/c/0/4fc08c24674251ba659171ca83bd94c8.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/f/c/0/4fc08c24674251ba659171ca83bd94c8.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB708BA"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/c/a/0/fca0742cf8ab5ef70d2c3b5e03ce23fc.jpg",
+          "link": "/bai-hat/Alone-Pt-II-Alan-Walker-Ava-Max/ZWB0OUFC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/c/a/0/fca0742cf8ab5ef70d2c3b5e03ce23fc.jpg",
+          "duration": 179,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1577379600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z09A",
+            "IWZ9Z0C7"
+          ],
+          "album": {
+            "encodeId": "ZEUEW9A9",
+            "title": "Alone, Pt. II (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/c/a/0/fca0742cf8ab5ef70d2c3b5e03ce23fc.jpg",
+            "isoffical": true,
+            "link": "/album/Alone-Pt-II-Single-Alan-Walker-Ava-Max/ZEUEW9A9.html",
+            "isIndie": false,
+            "releaseDate": "27/12/2019",
+            "sortDescription": "",
+            "releasedAt": 1577379600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z09A",
+              "IWZ9Z0C7"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA6CCW",
+                "name": "Alan Walker",
+                "link": "/Alan-Walker",
+                "spotlight": false,
+                "alias": "Alan-Walker",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/6/b/ba6b56ca02dd06f37693d945acfcdad9.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU89E",
+                "totalFollow": 1175840
+              },
+              {
+                "id": "IWZFE99O",
+                "name": "Ava Max",
+                "link": "/nghe-si/Ava-Max",
+                "spotlight": false,
+                "alias": "Ava-Max",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/f/c/0/4fc08c24674251ba659171ca83bd94c8.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/f/c/0/4fc08c24674251ba659171ca83bd94c8.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB708BA",
+                "totalFollow": 20069
+              }
+            ],
+            "artistsNames": "Alan Walker, Ava Max"
+          },
+          "indicators": [],
+          "radioId": 1286809162,
+          "isIndie": false,
+          "mvlink": "/video-clip/Alone-Pt-II-Alan-Walker-Ava-Max/ZWB0OUFC.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9DFZU6",
+          "title": "Without Me",
+          "alias": "Without-Me-Halsey",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Halsey",
+          "artists": [
+            {
+              "id": "IWZAZ6WB",
+              "name": "Halsey",
+              "link": "/nghe-si/Halsey",
+              "spotlight": false,
+              "alias": "Halsey",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/0/1/ba013315ec5be0d7a06490bb8e6ec1e6.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/0/1/ba013315ec5be0d7a06490bb8e6ec1e6.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZB6UEB"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/a/3/f/9a3ff1339a8dbee437098eb8bae22e00.jpg",
+          "link": "/bai-hat/Without-Me-Halsey/ZW9DFZU6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/a/3/f/9a3ff1339a8dbee437098eb8bae22e00.jpg",
+          "duration": 201,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1538524800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9ZIUO"
+          ],
+          "album": {
+            "encodeId": "ZOECOO0O",
+            "title": "Without Me (Clean) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/d/4/c/fd4c0e9a60f1f0140ce30ff3bc890e7b.jpg",
+            "isoffical": true,
+            "link": "/album/Without-Me-Clean-Single-Halsey/ZOECOO0O.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "℗ 2018 Capitol Records, LLC",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAZ6WB",
+                "name": "Halsey",
+                "link": "/nghe-si/Halsey",
+                "spotlight": false,
+                "alias": "Halsey",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/a/0/1/ba013315ec5be0d7a06490bb8e6ec1e6.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/a/0/1/ba013315ec5be0d7a06490bb8e6ec1e6.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOZB6UEB",
+                "totalFollow": 19387
+              }
+            ],
+            "artistsNames": "Halsey"
+          },
+          "indicators": [],
+          "radioId": 1285948267,
+          "isIndie": false,
+          "mvlink": "/video-clip/Without-Me-Halsey/ZW9DFZU6.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZUWDAF0Z",
+          "title": "Don't Go Yet",
+          "alias": "Don-t-Go-Yet-Camila-Cabello",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Camila Cabello",
+          "artists": [
+            {
+              "id": "IWZA66EW",
+              "name": "Camila Cabello",
+              "link": "/Camila-Cabello",
+              "spotlight": false,
+              "alias": "Camila-Cabello",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO6990OC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/6/a/2/46a21ff18501ce2fa1164c80a6ac4f61.jpg",
+          "link": "/bai-hat/Don-t-Go-Yet-Camila-Cabello/ZUWDAF0Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/6/a/2/46a21ff18501ce2fa1164c80a6ac4f61.jpg",
+          "duration": 165,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1626973200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097",
+            "IWZ97797"
+          ],
+          "album": {
+            "encodeId": "68CU9OO9",
+            "title": "Don't Go Yet (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/2/6/f/426f5ed63f42883a46a5059467b498be.jpg",
+            "isoffical": true,
+            "link": "/album/Don-t-Go-Yet-Single-Camila-Cabello/68CU9OO9.html",
+            "isIndie": false,
+            "releaseDate": "23/07/2021",
+            "sortDescription": "",
+            "releasedAt": 1626973200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097",
+              "IWZ97797"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA66EW",
+                "name": "Camila Cabello",
+                "link": "/Camila-Cabello",
+                "spotlight": false,
+                "alias": "Camila-Cabello",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO6990OC",
+                "totalFollow": 51463
+              }
+            ],
+            "artistsNames": "Camila Cabello"
+          },
+          "indicators": [],
+          "radioId": 1460644349,
+          "isIndie": false,
+          "mvlink": "/video-clip/Don-t-Go-Yet-Camila-Cabello/ZUWDAF0Z.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAIFBEF",
+          "title": "Blank Space",
+          "alias": "Blank-Space-Taylor-Swift",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Taylor Swift",
+          "artists": [
+            {
+              "id": "IWZ9ZOA8",
+              "name": "Taylor Swift",
+              "link": "/nghe-si/Taylor-Swift",
+              "spotlight": false,
+              "alias": "Taylor-Swift",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOU8C777"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/e/e/9/d/ee9d68c7edd3da349f2da9e9e7e2ba78.jpg",
+          "link": "/bai-hat/Blank-Space-Taylor-Swift/ZWAIFBEF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/e/e/9/d/ee9d68c7edd3da349f2da9e9e7e2ba78.jpg",
+          "duration": 232,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1414368000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZUZ99A0B",
+            "title": "1989",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/7/d/b/a7db261032894971e82f78775c8643f8.jpg",
+            "isoffical": true,
+            "link": "/album/1989-Taylor-Swift/ZUZ99A0B.html",
+            "isIndie": false,
+            "releaseDate": "01/01/2014",
+            "sortDescription": "",
+            "releasedAt": 1388509200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOA8",
+                "name": "Taylor Swift",
+                "link": "/nghe-si/Taylor-Swift",
+                "spotlight": false,
+                "alias": "Taylor-Swift",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOU8C777",
+                "totalFollow": 206308
+              }
+            ],
+            "artistsNames": "Taylor Swift"
+          },
+          "indicators": [],
+          "radioId": 1286169722,
+          "isIndie": false,
+          "mvlink": "/video-clip/Blank-Space-Taylor-Swift/ZWAIFBEF.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA7ZCB0",
+          "title": "That's the Way It Is",
+          "alias": "That-s-the-Way-It-Is-Celine-Dion",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Céline Dion",
+          "artists": [
+            {
+              "id": "IWZ9ZOU7",
+              "name": "Céline Dion",
+              "link": "/nghe-si/Celine-Dion-1968",
+              "spotlight": false,
+              "alias": "Celine-Dion-1968",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/c/b/9/8cb9bd17556414470367b0e6a92c7ac3.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/c/b/9/8cb9bd17556414470367b0e6a92c7ac3.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZAD9FU"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/f/a/2/afa2666028f767ab4e3c95caf750ce81.jpg",
+          "link": "/bai-hat/That-s-the-Way-It-Is-Celine-Dion/ZWA7ZCB0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/f/a/2/afa2666028f767ab4e3c95caf750ce81.jpg",
+          "duration": 241,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 942685200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZU7W69WA",
+            "title": "All The Way... A Decade Of Song",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/d/3/b/2d3bbacc5b10b55bc319de36b8d5757d.jpg",
+            "isoffical": true,
+            "link": "/album/All-The-Way-A-Decade-Of-Song-Celine-Dion/ZU7W69WA.html",
+            "isIndie": false,
+            "releaseDate": "12/11/1999",
+            "sortDescription": "",
+            "releasedAt": 942339600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOU7",
+                "name": "Céline Dion",
+                "link": "/nghe-si/Celine-Dion-1968",
+                "spotlight": false,
+                "alias": "Celine-Dion-1968",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/c/b/9/8cb9bd17556414470367b0e6a92c7ac3.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/c/b/9/8cb9bd17556414470367b0e6a92c7ac3.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOZAD9FU",
+                "totalFollow": 59688
+              }
+            ],
+            "artistsNames": "Céline Dion"
+          },
+          "indicators": [],
+          "radioId": 1286201179,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ9C9WU",
+          "title": "Wannabe",
+          "alias": "Wannabe-Spice-Girls",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Spice Girls",
+          "artists": [
+            {
+              "id": "IWZ9ZC7C",
+              "name": "Spice Girls",
+              "link": "/nghe-si/Spice-Girls",
+              "spotlight": false,
+              "alias": "Spice-Girls",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/b/7b9d76a78403d9a4ed293ebf84bb9654_1411016037.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/b/7b9d76a78403d9a4ed293ebf84bb9654_1411016037.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEUIDC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/a/4/a4cf85911a0cfae53a711bc163eb645a_1309184449.jpg",
+          "link": "/bai-hat/Wannabe-Spice-Girls/ZWZ9C9WU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/a/4/a4cf85911a0cfae53a711bc163eb645a_1309184449.jpg",
+          "duration": 174,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1282295390,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7W6B9D",
+          "title": "Lush Life",
+          "alias": "Lush-Life-Zara-Larsson",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Zara Larsson",
+          "artists": [
+            {
+              "id": "IWZ9EBZC",
+              "name": "Zara Larsson",
+              "link": "/nghe-si/Zara-Larsson",
+              "spotlight": false,
+              "alias": "Zara-Larsson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/c/1/4/1c14c4e723fecd01beccca93e6115980.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/c/1/4/1c14c4e723fecd01beccca93e6115980.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZODFZ767"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/b/c/5/6bc5b307eabbf23d2853d93acbae75f2.jpg",
+          "link": "/bai-hat/Lush-Life-Zara-Larsson/ZW7W6B9D.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/b/c/5/6bc5b307eabbf23d2853d93acbae75f2.jpg",
+          "duration": 201,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1552582800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZOZIDF8C",
+            "title": "So Good",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/e/4/c/5e4cf924de591459d31fbb801ea17ab0.jpg",
+            "isoffical": true,
+            "link": "/album/So-Good-Zara-Larsson/ZOZIDF8C.html",
+            "isIndie": false,
+            "releaseDate": "17/03/2017",
+            "sortDescription": "Release: Mar 17, 2017\r\n℗ 2017 Record Company TEN, exclusively licensed by Epic Records, a division of Sony Music Entertainment",
+            "releasedAt": 1489683600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9EBZC",
+                "name": "Zara Larsson",
+                "link": "/nghe-si/Zara-Larsson",
+                "spotlight": false,
+                "alias": "Zara-Larsson",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/c/1/4/1c14c4e723fecd01beccca93e6115980.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/c/1/4/1c14c4e723fecd01beccca93e6115980.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZODFZ767",
+                "totalFollow": 7083
+              }
+            ],
+            "artistsNames": "Zara Larsson"
+          },
+          "indicators": [],
+          "radioId": 1285052276,
+          "isIndie": false,
+          "mvlink": "/video-clip/Lush-Life-Zara-Larsson/ZW7W6B9D.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6EBFD9",
+          "title": "Tik Tok.",
+          "alias": "Tik-Tok-Kesha",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Kesha",
+          "artists": [
+            {
+              "id": "IWZ9ZO60",
+              "name": "Kesha",
+              "link": "/Kesha",
+              "spotlight": false,
+              "alias": "Kesha",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/2/a2b90294f872f3b75d4b92ba544b19bf_1499356214.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/2/a2b90294f872f3b75d4b92ba544b19bf_1499356214.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCWEAE"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/d/e/de856be5cd46673720f0188bbca384a3_1418533638.jpg",
+          "link": "/bai-hat/Tik-Tok-Kesha/ZW6EBFD9.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/d/e/de856be5cd46673720f0188bbca384a3_1418533638.jpg",
+          "duration": 200,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z097",
+            "IWZ9Z08O"
+          ],
+          "indicators": [],
+          "radioId": 1284325158,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA8OADA",
+          "title": "Chandelier",
+          "alias": "Chandelier-Sia",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Sia",
+          "artists": [
+            {
+              "id": "IWZ97A9F",
+              "name": "Sia",
+              "link": "/nghe-si/Sia-USUK",
+              "spotlight": false,
+              "alias": "Sia-USUK",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/4/b/b/84bbb625eff1e62a7d4c9a152a66e22d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/4/b/b/84bbb625eff1e62a7d4c9a152a66e22d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZ9UE8A"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/6/3/a/263a28ab5c04997cf996ec09e5a5056f.jpg",
+          "link": "/bai-hat/Chandelier-Sia/ZWA8OADA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/6/3/a/263a28ab5c04997cf996ec09e5a5056f.jpg",
+          "duration": 218,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1394989200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097",
+            "IWZ9ZIUO",
+            "IWZ9Z09A"
+          ],
+          "album": {
+            "encodeId": "ZU7ZE7OE",
+            "title": "1000 Forms Of Fear (Deluxe Version)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/b/e/1/1be1db31444db22dead50799f93ba57d.jpg",
+            "isoffical": true,
+            "link": "/album/1000-Forms-Of-Fear-Deluxe-Version-Sia/ZU7ZE7OE.html",
+            "isIndie": false,
+            "releaseDate": "04/05/2015",
+            "sortDescription": "",
+            "releasedAt": 1430672400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ97A9F",
+                "name": "Sia",
+                "link": "/nghe-si/Sia-USUK",
+                "spotlight": false,
+                "alias": "Sia-USUK",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/4/b/b/84bbb625eff1e62a7d4c9a152a66e22d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/4/b/b/84bbb625eff1e62a7d4c9a152a66e22d.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOZ9UE8A",
+                "totalFollow": 44233
+              }
+            ],
+            "artistsNames": "Sia"
+          },
+          "indicators": [],
+          "radioId": 1286518263,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9BBU0F",
+          "title": "One Kiss",
+          "alias": "One-Kiss-Calvin-Harris-Dua-Lipa",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Calvin Harris, Dua Lipa",
+          "artists": [
+            {
+              "id": "IWZ9ZZ0B",
+              "name": "Calvin Harris",
+              "link": "/Calvin-Harris",
+              "spotlight": false,
+              "alias": "Calvin-Harris",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/a/5/8/6a585138d2c6f44d426f1be4b5602a66.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/a/5/8/6a585138d2c6f44d426f1be4b5602a66.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOU98OAC"
+            },
+            {
+              "id": "IWZA6EFA",
+              "name": "Dua Lipa",
+              "link": "/Dua-Lipa",
+              "spotlight": false,
+              "alias": "Dua-Lipa",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/b/c/0cbca465a68b128627b1d3c09bfedbd1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/c/b/c/0cbca465a68b128627b1d3c09bfedbd1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOE0OEID"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/c/3/c/1c3cef6a719b9f8157339a1de741d237.jpg",
+          "link": "/bai-hat/One-Kiss-Calvin-Harris-Dua-Lipa/ZW9BBU0F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/c/3/c/1c3cef6a719b9f8157339a1de741d237.jpg",
+          "duration": 214,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1544115600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097",
+            "IWZ9Z09A"
+          ],
+          "album": {
+            "encodeId": "ZOBDE8ZC",
+            "title": "One Kiss (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/c/8/d/8c8d61462946230d48c227ff50c92435.jpg",
+            "isoffical": true,
+            "link": "/album/One-Kiss-Single-Calvin-Harris-Dua-Lipa/ZOBDE8ZC.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "℗ 2018 Sony Music Entertainment UK Limited",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z09A"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZ0B",
+                "name": "Calvin Harris",
+                "link": "/Calvin-Harris",
+                "spotlight": false,
+                "alias": "Calvin-Harris",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/a/5/8/6a585138d2c6f44d426f1be4b5602a66.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/a/5/8/6a585138d2c6f44d426f1be4b5602a66.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOU98OAC",
+                "totalFollow": 15295
+              },
+              {
+                "id": "IWZA6EFA",
+                "name": "Dua Lipa",
+                "link": "/Dua-Lipa",
+                "spotlight": false,
+                "alias": "Dua-Lipa",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/c/b/c/0cbca465a68b128627b1d3c09bfedbd1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/c/b/c/0cbca465a68b128627b1d3c09bfedbd1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOE0OEID",
+                "totalFollow": 27801
+              }
+            ],
+            "artistsNames": "Calvin Harris, Dua Lipa"
+          },
+          "indicators": [],
+          "radioId": 1285890423,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZDEFCF",
+          "title": "Torn",
+          "alias": "Torn-Natalie-Imbruglia",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Natalie Imbruglia",
+          "artists": [
+            {
+              "id": "IWZ9ZCOZ",
+              "name": "Natalie Imbruglia",
+              "link": "/nghe-si/Natalie-Imbruglia",
+              "spotlight": false,
+              "alias": "Natalie-Imbruglia",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/6/f6acae191ca482a6d2190675e92cb687_1334558472.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/6/f6acae191ca482a6d2190675e92cb687_1334558472.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEUIOF"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/4/5/4558721b1aef289056a36f690d085283_1319212558.jpg",
+          "link": "/bai-hat/Torn-Natalie-Imbruglia/ZWZDEFCF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/4/5/4558721b1aef289056a36f690d085283_1319212558.jpg",
+          "duration": 245,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z097",
+            "IWZ9Z08O"
+          ],
+          "indicators": [],
+          "radioId": 1282793887,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZFBZB7",
+          "title": "Dance Again",
+          "alias": "Dance-Again-Jennifer-Lopez-Pitbull",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Jennifer Lopez, Pitbull",
+          "artists": [
+            {
+              "id": "IWZ9ZZA8",
+              "name": "Jennifer Lopez",
+              "link": "/nghe-si/Jennifer-Lopez",
+              "spotlight": false,
+              "alias": "Jennifer-Lopez",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/4/6/a/b46a66224bac4213f6453616b108e788.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/4/6/a/b46a66224bac4213f6453616b108e788.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEUZ8CW"
+            },
+            {
+              "id": "IWZ9ZEIF",
+              "name": "Pitbull",
+              "link": "/Pitbull",
+              "spotlight": false,
+              "alias": "Pitbull",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/7/b77dc720eb2a45161874450fda56336f_1354537808.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/7/b77dc720eb2a45161874450fda56336f_1354537808.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBIBBZ"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/4/2/2/4422132d2e4c3fcc7ecf3c086240fa81.jpg",
+          "link": "/bai-hat/Dance-Again-Jennifer-Lopez-Pitbull/ZWZFBZB7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/4/2/2/4422132d2e4c3fcc7ecf3c086240fa81.jpg",
+          "duration": 237,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1342976400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZU7U60DB",
+            "title": "Dance Again...The Hits",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/4/2/2/4422132d2e4c3fcc7ecf3c086240fa81.jpg",
+            "isoffical": true,
+            "link": "/album/Dance-Again-The-Hits-Jennifer-Lopez/ZU7U60DB.html",
+            "isIndie": false,
+            "releaseDate": "24/07/2012",
+            "sortDescription": "",
+            "releasedAt": 1343062800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZA8",
+                "name": "Jennifer Lopez",
+                "link": "/nghe-si/Jennifer-Lopez",
+                "spotlight": false,
+                "alias": "Jennifer-Lopez",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/4/6/a/b46a66224bac4213f6453616b108e788.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/4/6/a/b46a66224bac4213f6453616b108e788.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEUZ8CW",
+                "totalFollow": 11470
+              }
+            ],
+            "artistsNames": "Jennifer Lopez"
+          },
+          "indicators": [],
+          "radioId": 1282905672,
+          "isIndie": false,
+          "mvlink": "/video-clip/Dance-Again-Jennifer-Lopez-Pitbull/ZWZFBZB7.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7U80AI",
+          "title": "That’s My Girl",
+          "alias": "That-s-My-Girl-Fifth-Harmony",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Fifth Harmony",
+          "artists": [
+            {
+              "id": "IWZ9CE0A",
+              "name": "Fifth Harmony",
+              "link": "/nghe-si/Fifth-Harmony",
+              "spotlight": false,
+              "alias": "Fifth-Harmony",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWEZIC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/9/f9d8101bc33fedd209455cc39685b722_1464256489.jpg",
+          "link": "/bai-hat/That-s-My-Girl-Fifth-Harmony/ZW7U80AI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/f/9/f9d8101bc33fedd209455cc39685b722_1464256489.jpg",
+          "duration": 204,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1285192610,
+          "isIndie": false,
+          "mvlink": "/video-clip/That-s-My-Girl-Fifth-Harmony/ZW7U80AI.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7009DW",
+          "title": "I Really Like You",
+          "alias": "I-Really-Like-You-Carly-Rae-Jepsen",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Carly Rae Jepsen",
+          "artists": [
+            {
+              "id": "IWZ986B8",
+              "name": "Carly Rae Jepsen",
+              "link": "/nghe-si/Carly-Rae-Jepsen",
+              "spotlight": false,
+              "alias": "Carly-Rae-Jepsen",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/1/b/f/a1bff52475243577ce093a279161bb5d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/1/b/f/a1bff52475243577ce093a279161bb5d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEUZ7UC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/0/0/3/c003c870fa03b309a8c9d7c9669065cd.jpg",
+          "link": "/bai-hat/I-Really-Like-You-Carly-Rae-Jepsen/ZW7009DW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/0/0/3/c003c870fa03b309a8c9d7c9669065cd.jpg",
+          "duration": 204,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1484240400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZBF0IO",
+            "title": "Emotion",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/0/0/3/c003c870fa03b309a8c9d7c9669065cd.jpg",
+            "isoffical": true,
+            "link": "/album/Emotion-Carly-Rae-Jepsen/ZWZBF0IO.html",
+            "isIndie": false,
+            "releaseDate": "21/08/2015",
+            "sortDescription": "",
+            "releasedAt": 1440090000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ986B8",
+                "name": "Carly Rae Jepsen",
+                "link": "/nghe-si/Carly-Rae-Jepsen",
+                "spotlight": false,
+                "alias": "Carly-Rae-Jepsen",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/1/b/f/a1bff52475243577ce093a279161bb5d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/1/b/f/a1bff52475243577ce093a279161bb5d.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEUZ7UC",
+                "totalFollow": 7566
+              }
+            ],
+            "artistsNames": "Carly Rae Jepsen"
+          },
+          "indicators": [],
+          "radioId": 1284736417,
+          "isIndie": false,
+          "mvlink": "/video-clip/I-Really-Like-You-Carly-Rae-Jepsen/ZW7009DW.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7IUW0F",
+          "title": "Black Magic",
+          "alias": "Black-Magic-Little-Mix",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Little Mix",
+          "artists": [
+            {
+              "id": "IWZ98OB9",
+              "name": "Little Mix",
+              "link": "/nghe-si/Little-Mix",
+              "spotlight": false,
+              "alias": "Little-Mix",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/0/1/2/c012dec5223465d9dd230569a2590931.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/0/1/2/c012dec5223465d9dd230569a2590931.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEUZ7A8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/8/d/b/58dbeab1d1b26858c5e006266c2585ad.jpg",
+          "link": "/bai-hat/Black-Magic-Little-Mix/ZW7IUW0F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/8/d/b/58dbeab1d1b26858c5e006266c2585ad.jpg",
+          "duration": 212,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1597942800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1284974718,
+          "isIndie": false,
+          "mvlink": "/video-clip/Black-Magic-Little-Mix/ZW7IUW0F.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ9CW88",
+          "title": "...Baby One More Time",
+          "alias": "Baby-One-More-Time-Britney-Spears",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Britney Spears",
+          "artists": [
+            {
+              "id": "IWZ9Z0C6",
+              "name": "Britney Spears",
+              "link": "/Britney-Spears",
+              "spotlight": false,
+              "alias": "Britney-Spears",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9ECID"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/0/c/0cba771f043663ab677be1404d1dd84a_1288684476.jpg",
+          "link": "/bai-hat/Baby-One-More-Time-Britney-Spears/ZWZ9CW88.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/0/c/0cba771f043663ab677be1404d1dd84a_1288684476.jpg",
+          "duration": 211,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1282293627,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9CEBZC",
+          "title": "God is a woman",
+          "alias": "God-is-a-woman-Ariana-Grande",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ariana Grande",
+          "artists": [
+            {
+              "id": "IWZ98ABB",
+              "name": "Ariana Grande",
+              "link": "/nghe-si/Ariana-Grande",
+              "spotlight": false,
+              "alias": "Ariana-Grande",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZCZICU"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/3/3/2/03324935d4b232813b826404de332351.jpg",
+          "link": "/bai-hat/God-is-a-woman-Ariana-Grande/ZW9CEBZC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/3/3/2/03324935d4b232813b826404de332351.jpg",
+          "duration": 197,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1534352400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZODFOE07",
+            "title": "Sweetener",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/3/3/2/03324935d4b232813b826404de332351.jpg",
+            "isoffical": true,
+            "link": "/album/Sweetener-Ariana-Grande/ZODFOE07.html",
+            "isIndie": false,
+            "releaseDate": "17/08/2018",
+            "sortDescription": "Released: 16 Aug 2018\r\n℗ 2018 Republic Records, a Division of UMG Recordings, Inc.",
+            "releasedAt": 1534438800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98ABB",
+                "name": "Ariana Grande",
+                "link": "/nghe-si/Ariana-Grande",
+                "spotlight": false,
+                "alias": "Ariana-Grande",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZCZICU",
+                "totalFollow": 58432
+              }
+            ],
+            "artistsNames": "Ariana Grande"
+          },
+          "indicators": [],
+          "radioId": 1285921872,
+          "isIndie": false,
+          "mvlink": "/video-clip/God-is-a-woman-Ariana-Grande/ZW9CEBZC.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6OWFI8",
+          "title": "Since U Been Gone",
+          "alias": "Since-U-Been-Gone-Kelly-Clarkson",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Kelly Clarkson",
+          "artists": [
+            {
+              "id": "IWZ9ZOC8",
+              "name": "Kelly Clarkson",
+              "link": "/Kelly-Clarkson",
+              "spotlight": false,
+              "alias": "Kelly-Clarkson",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/9a5a4d0e3d0b32da4fc8a5b6f42d8be0_1425020295.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/a/9a5a4d0e3d0b32da4fc8a5b6f42d8be0_1425020295.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ79OII"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/1/3/138a381087bf125a7450db4c5b722741_1351932671.jpg",
+          "link": "/bai-hat/Since-U-Been-Gone-Kelly-Clarkson/ZW6OWFI8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/1/3/138a381087bf125a7450db4c5b722741_1351932671.jpg",
+          "duration": 190,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1283153695,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZAE0F6",
+          "title": "Lost Without You",
+          "alias": "Lost-Without-You-Delta-Goodrem",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Delta Goodrem",
+          "artists": [
+            {
+              "id": "IWZ9Z68D",
+              "name": "Delta Goodrem",
+              "link": "/nghe-si/Delta-Goodrem",
+              "spotlight": false,
+              "alias": "Delta-Goodrem",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/2/82eb6045a9998b562aa833c0cf08c659_1463197230.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/2/82eb6045a9998b562aa833c0cf08c659_1463197230.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEOZIA"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/d/0/3/cd03f519681a39c49587c7fe1676125f.jpg",
+          "link": "/bai-hat/Lost-Without-You-Delta-Goodrem/ZWZAE0F6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/d/0/3/cd03f519681a39c49587c7fe1676125f.jpg",
+          "duration": 251,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1452790800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZ97876",
+            "title": "Innocent Eyes",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/8/2/d/882df88f324e6aa89a1a14d18ef5a543.jpg",
+            "isoffical": true,
+            "link": "/album/Innocent-Eyes-Delta-Goodrem/ZWZ97876.html",
+            "isIndie": false,
+            "releaseDate": "21/03/2003",
+            "sortDescription": "Debut album của Delta Goodrem, đạt #1 ở Úc và bán được hơn 4.5 triệu bản toàn cầu (riêng ở Úc là 1.2 triệu bản). Album có 5 singles đạt #1 là Born to try, Lost without you, Innocent eyes, Not me not I và Predictable giúp Delta trở thành nghệ sĩ đầu tiên có 5 singles đạt #1 trong một debut album.",
+            "releasedAt": 1048179600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z68D",
+                "name": "Delta Goodrem",
+                "link": "/nghe-si/Delta-Goodrem",
+                "spotlight": false,
+                "alias": "Delta-Goodrem",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/2/82eb6045a9998b562aa833c0cf08c659_1463197230.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/2/82eb6045a9998b562aa833c0cf08c659_1463197230.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEOZIA",
+                "totalFollow": 606
+              }
+            ],
+            "artistsNames": "Delta Goodrem"
+          },
+          "indicators": [],
+          "radioId": 1282374371,
+          "isIndie": false,
+          "mvlink": "/video-clip/Lost-Without-You-Delta-Goodrem/ZWZAE0F6.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ9C6A7",
+          "title": "Bleeding Love",
+          "alias": "Bleeding-Love-Leona-Lewis",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Leona Lewis",
+          "artists": [
+            {
+              "id": "IWZ9ZOCA",
+              "name": "Leona Lewis",
+              "link": "/nghe-si/Leona-Lewis",
+              "spotlight": false,
+              "alias": "Leona-Lewis",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/7750c1dcfca03ff49dbf560f4a976c12_1386220115.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/7750c1dcfca03ff49dbf560f4a976c12_1386220115.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEUZ60F"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/c/8/c8c11067082c5a109225ba507c3db8e3_1292147713.jpg",
+          "link": "/bai-hat/Bleeding-Love-Leona-Lewis/ZWZ9C6A7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/c/8/c8c11067082c5a109225ba507c3db8e3_1292147713.jpg",
+          "duration": 263,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097",
+            "IWZ9Z09D"
+          ],
+          "indicators": [],
+          "radioId": 1282294790,
+          "isIndie": false,
+          "mvlink": "/video-clip/Bleeding-Love-Leona-Lewis/ZWZ9C6A7.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6AOCIU",
+          "title": "Can't Remember To Forget You",
+          "alias": "Can-t-Remember-To-Forget-You-Shakira-Rihanna",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Shakira, Rihanna",
+          "artists": [
+            {
+              "id": "IWZ9Z8DA",
+              "name": "Shakira",
+              "link": "/nghe-si/Shakira",
+              "spotlight": false,
+              "alias": "Shakira",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/2/0/9a205f9064eb1f5e486b1d617b010968.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/a/2/0/9a205f9064eb1f5e486b1d617b010968.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZ9Z0IB"
+            },
+            {
+              "id": "IWZ9Z0AU",
+              "name": "Rihanna",
+              "link": "/nghe-si/Rihanna",
+              "spotlight": false,
+              "alias": "Rihanna",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/7/9/8/879852cb8704c5c013354e15cc8d26dd.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/7/9/8/879852cb8704c5c013354e15cc8d26dd.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOU99CFE"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/9/a/9adafab2d924061525c52c695565ef22_1395376867.jpg",
+          "link": "/bai-hat/Can-t-Remember-To-Forget-You-Shakira-Rihanna/ZW6AOCIU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/9/a/9adafab2d924061525c52c695565ef22_1395376867.jpg",
+          "duration": 208,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZBOC69",
+            "title": "Shakira (Deluxe Edition)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/9/a/9adafab2d924061525c52c695565ef22_1395376867.jpg",
+            "isoffical": true,
+            "link": "/album/Shakira-Deluxe-Edition-Shakira/ZWZBOC69.html",
+            "isIndie": false,
+            "releaseDate": "2014",
+            "sortDescription": "Đây là album thứ 10 cùng tên của Shakira được ra mắt vào ngày 21/03/2014 bởi hãng ghi âm RCA Records. Cô đã bắt tay thực hiện album này từ năm 2011 và sau khoảng thời gian tạm dừng ca hát để thực hiện thiên chức làm mẹ thì 3 năm sau sản phẩm này mới hoàn tất để phát hành. Đây cũng là album song ngữ khi mà Shakira đưa vào album lần này 2 ca khúc mới được hát bằng tiếng Tây Ban Nha.\r\n\r\nĐĩa đơn đầu tiên trích từ album này là Can’t Remember To Forget You, khi nữ giám khảo The Voice US hợp tác cùng cô ca sỹ nổi loạn Rihanna. MV cho ca khúc này đã gây ra nhiều tranh cãi khi nội dung có nhiều cảnh nóng của cả hai. Đĩa đơn này đã đạt được vị trí thứ 15 tại Billboard Hot 100 Singles ngay tuần đầu ra mắt.\r\n\r\nEmpire được xác định là đĩa đơn thứ hai trích từ album của cô, phát hành ngày 24/03/2014. ",
+            "releasedAt": 1419958800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z8DA",
+                "name": "Shakira",
+                "link": "/nghe-si/Shakira",
+                "spotlight": false,
+                "alias": "Shakira",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/2/0/9a205f9064eb1f5e486b1d617b010968.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/a/2/0/9a205f9064eb1f5e486b1d617b010968.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOZ9Z0IB",
+                "totalFollow": 8565
+              }
+            ],
+            "artistsNames": "Shakira"
+          },
+          "indicators": [],
+          "radioId": 1283784627,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZDFCZ8",
+          "title": "Pocketful Of Sunshine",
+          "alias": "Pocketful-Of-Sunshine-Natasha-Bedingfield",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Natasha Bedingfield",
+          "artists": [
+            {
+              "id": "IWZ9ZCOB",
+              "name": "Natasha Bedingfield",
+              "link": "/nghe-si/Natasha-Bedingfield",
+              "spotlight": false,
+              "alias": "Natasha-Bedingfield",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/a/3a4bfa941880ab489d32bb9c642bdef3_1322894732.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/a/3a4bfa941880ab489d32bb9c642bdef3_1322894732.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEUIZI"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/1/a/1a2ec2d994231b0e2fe98cce7409b983_1319337862.jpg",
+          "link": "/bai-hat/Pocketful-Of-Sunshine-Natasha-Bedingfield/ZWZDFCZ8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/1/a/1a2ec2d994231b0e2fe98cce7409b983_1319337862.jpg",
+          "duration": 185,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z097",
+            "IWZ9Z08O"
+          ],
+          "album": {
+            "encodeId": "ZWZ9CFOB",
+            "title": "Pocketful Of Sunshine",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/f/1/5/3f15199a942f1af88c49962371463541.jpg",
+            "isoffical": true,
+            "link": "/album/Pocketful-Of-Sunshine-Natasha-Bedingfield/ZWZ9CFOB.html",
+            "isIndie": false,
+            "releaseDate": "22/01/2008",
+            "sortDescription": "",
+            "releasedAt": 1200934800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZCOB",
+                "name": "Natasha Bedingfield",
+                "link": "/nghe-si/Natasha-Bedingfield",
+                "spotlight": false,
+                "alias": "Natasha-Bedingfield",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/a/3a4bfa941880ab489d32bb9c642bdef3_1322894732.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/a/3a4bfa941880ab489d32bb9c642bdef3_1322894732.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEUIZI",
+                "totalFollow": 331
+              }
+            ],
+            "artistsNames": "Natasha Bedingfield"
+          },
+          "indicators": [],
+          "radioId": 1282797215,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6UID76",
+          "title": "Genie In A Bottle",
+          "alias": "Genie-In-A-Bottle-Christina-Aguilera",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Christina Aguilera",
+          "artists": [
+            {
+              "id": "IWZ9ZOCB",
+              "name": "Christina Aguilera",
+              "link": "/Christina-Aguilera",
+              "spotlight": false,
+              "alias": "Christina-Aguilera",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/c/2/8/1c28eafcafc198d52e5b06c22e5dd72d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/c/2/8/1c28eafcafc198d52e5b06c22e5dd72d.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZAD98Z"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/3/1/318c77e45644defabf5777166897b227_1355826119.jpg",
+          "link": "/bai-hat/Genie-In-A-Bottle-Christina-Aguilera/ZW6UID76.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/3/1/318c77e45644defabf5777166897b227_1355826119.jpg",
+          "duration": 218,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZA70OZ",
+            "title": "Genie In A Bottle (CDS)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/3/1/318c77e45644defabf5777166897b227_1355826119.jpg",
+            "isoffical": true,
+            "link": "/album/Genie-In-A-Bottle-CDS-Christina-Aguilera/ZWZA70OZ.html",
+            "isIndie": false,
+            "releaseDate": "1999",
+            "sortDescription": "Genie In A Bottle là debut single của nữ ca sĩ Cristina Aguilera nằm trong album Christina Aguilera. Single đã nằm trong top 10 của mọi BXH và No.1 BXH U.S. Billboard Hot 100, nó đã trở thành một trong những hit lớn nhất của cô.",
+            "releasedAt": 946573200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOCB",
+                "name": "Christina Aguilera",
+                "link": "/Christina-Aguilera",
+                "spotlight": false,
+                "alias": "Christina-Aguilera",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/c/2/8/1c28eafcafc198d52e5b06c22e5dd72d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/c/2/8/1c28eafcafc198d52e5b06c22e5dd72d.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZAD98Z",
+                "totalFollow": 18490
+              }
+            ],
+            "artistsNames": "Christina Aguilera"
+          },
+          "indicators": [],
+          "radioId": 1283405646,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW80E696",
+          "title": "Havana",
+          "alias": "Havana-Camila-Cabello-Young-Thug",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Camila Cabello, Young Thug",
+          "artists": [
+            {
+              "id": "IWZA66EW",
+              "name": "Camila Cabello",
+              "link": "/Camila-Cabello",
+              "spotlight": false,
+              "alias": "Camila-Cabello",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO6990OC"
+            },
+            {
+              "id": "IWZ9C9D0",
+              "name": "Young Thug",
+              "link": "/nghe-si/Young-Thug",
+              "spotlight": false,
+              "alias": "Young-Thug",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/e/b/2/2eb2ca37f771b651476e05e6b433e67a.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/e/b/2/2eb2ca37f771b651476e05e6b433e67a.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZUO786W9"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/a/3/e/6a3e3be0d4931bcea1577f2ff3f5192c.jpg",
+          "link": "/bai-hat/Havana-Camila-Cabello-Young-Thug/ZW80E696.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/a/3/e/6a3e3be0d4931bcea1577f2ff3f5192c.jpg",
+          "duration": 216,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1515690000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZO698FOC",
+            "title": "Camila",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/c/a/e/fcae56edd6540cdd0c1d17cc270b8564.jpg",
+            "isoffical": true,
+            "link": "/album/Camila-Camila-Cabello/ZO698FOC.html",
+            "isIndie": false,
+            "releaseDate": "12/01/2018",
+            "sortDescription": "2018 Simco Ltd. under exclusive license to Epic Records, a division of Sony Music Entertainment",
+            "releasedAt": 1515690000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA66EW",
+                "name": "Camila Cabello",
+                "link": "/Camila-Cabello",
+                "spotlight": false,
+                "alias": "Camila-Cabello",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/c/b/2/6cb2fbbda715e6b3926dc2b3da2028b8.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO6990OC",
+                "totalFollow": 51463
+              }
+            ],
+            "artistsNames": "Camila Cabello"
+          },
+          "indicators": [],
+          "radioId": 1285822036,
+          "isIndie": false,
+          "mvlink": "/video-clip/Havana-Camila-Cabello-Young-Thug/ZW80E696.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6OC8AO",
+          "title": "Domino",
+          "alias": "Domino-Jessie-J",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Jessie J",
+          "artists": [
+            {
+              "id": "IWZ96FC7",
+              "name": "Jessie J",
+              "link": "/nghe-si/Jessie-J",
+              "spotlight": false,
+              "alias": "Jessie-J",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/1870146f063231d6f3a7270c731e00c4_1516951546.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/1870146f063231d6f3a7270c731e00c4_1516951546.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWEZUW"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/6/767f1fe1f9f4efed67a1cac623760da8_1354295919.jpg",
+          "link": "/bai-hat/Domino-Jessie-J/ZW6OC8AO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/6/767f1fe1f9f4efed67a1cac623760da8_1354295919.jpg",
+          "duration": 229,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1283358330,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA8E707",
+          "title": "Here's to Never Growing Up",
+          "alias": "Here-s-to-Never-Growing-Up-Avril-Lavigne",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Avril Lavigne",
+          "artists": [
+            {
+              "id": "IWZ9ZOIC",
+              "name": "Avril Lavigne",
+              "link": "/Avril-Lavigne",
+              "spotlight": false,
+              "alias": "Avril-Lavigne",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9AAED"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/3/c/7/c3c7c153a8dafc77476f771a2179a26b.jpg",
+          "link": "/bai-hat/Here-s-to-Never-Growing-Up-Avril-Lavigne/ZWA8E707.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/3/c/7/c3c7c153a8dafc77476f771a2179a26b.jpg",
+          "duration": 214,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1383238800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097",
+            "IWZ9Z099"
+          ],
+          "album": {
+            "encodeId": "ZU8686O6",
+            "title": "Avril Lavigne (Expanded Edition)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/c/3/c/7/c3c7c153a8dafc77476f771a2179a26b.jpg",
+            "isoffical": true,
+            "link": "/album/Avril-Lavigne-Expanded-Edition-Avril-Lavigne/ZU8686O6.html",
+            "isIndie": false,
+            "releaseDate": "05/11/2013",
+            "sortDescription": "",
+            "releasedAt": 1383584400000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOIC",
+                "name": "Avril Lavigne",
+                "link": "/Avril-Lavigne",
+                "spotlight": false,
+                "alias": "Avril-Lavigne",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/48ff0f889ec0793ef5c8f32abec7cff7_1429095174.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9AAED",
+                "totalFollow": 7010
+              }
+            ],
+            "artistsNames": "Avril Lavigne"
+          },
+          "indicators": [
+            "explicit"
+          ],
+          "radioId": 1286552820,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7OCUWC",
+          "title": "Work from Home",
+          "alias": "Work-from-Home-Fifth-Harmony-Ty-Dolla-ign",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Fifth Harmony, Ty Dolla $ign",
+          "artists": [
+            {
+              "id": "IWZ9CE0A",
+              "name": "Fifth Harmony",
+              "link": "/nghe-si/Fifth-Harmony",
+              "spotlight": false,
+              "alias": "Fifth-Harmony",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWEZIC"
+            },
+            {
+              "id": "IWZ9FI60",
+              "name": "Ty Dolla $ign",
+              "link": "/nghe-si/Ty-Dolla-ign",
+              "spotlight": false,
+              "alias": "Ty-Dolla-ign",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/f/0f4d8874fd152539f7ac72462fa1624a_1429247223.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/f/0f4d8874fd152539f7ac72462fa1624a_1429247223.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWFA6E"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/b/3/b/0b3b735a269021b13e2789f12e59b22a.jpg",
+          "link": "/bai-hat/Work-from-Home-Fifth-Harmony-Ty-Dolla-ign/ZW7OCUWC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/b/3/b/0b3b735a269021b13e2789f12e59b22a.jpg",
+          "duration": 217,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1483030800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1285141193,
+          "isIndie": false,
+          "mvlink": "/video-clip/Work-from-Home-Fifth-Harmony-Ty-Dolla-ign/ZW7OCUWC.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6CFO60",
+          "title": "Bang Bang",
+          "alias": "Bang-Bang-Jessie-J-Ariana-Grande-Nicki-Minaj",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Jessie J, Ariana Grande, Nicki Minaj",
+          "artists": [
+            {
+              "id": "IWZ96FC7",
+              "name": "Jessie J",
+              "link": "/nghe-si/Jessie-J",
+              "spotlight": false,
+              "alias": "Jessie-J",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/8/1870146f063231d6f3a7270c731e00c4_1516951546.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/8/1870146f063231d6f3a7270c731e00c4_1516951546.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWEZUW"
+            },
+            {
+              "id": "IWZ98ABB",
+              "name": "Ariana Grande",
+              "link": "/nghe-si/Ariana-Grande",
+              "spotlight": false,
+              "alias": "Ariana-Grande",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZCZICU"
+            },
+            {
+              "id": "IWZ9ZD0Z",
+              "name": "Nicki Minaj",
+              "link": "/nghe-si/Nicki-Minaj",
+              "spotlight": false,
+              "alias": "Nicki-Minaj",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/7/7/7/0777836f16052706c685e9af1ee4e6d2.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/7/7/7/0777836f16052706c685e9af1ee4e6d2.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOE0ODEO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/c/7/9/8c7986771412053bce7150c770c8b200.jpg",
+          "link": "/bai-hat/Bang-Bang-Jessie-J-Ariana-Grande-Nicki-Minaj/ZW6CFO60.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/c/7/9/8c7986771412053bce7150c770c8b200.jpg",
+          "duration": 198,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1406678400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZB78AU",
+            "title": "My Everything (Deluxe)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/6/3/9/8639ebc14e2a591aab74cdaaf2ab4146.jpg",
+            "isoffical": true,
+            "link": "/album/My-Everything-Deluxe-Ariana-Grande/ZWZB78AU.html",
+            "isIndie": false,
+            "releaseDate": "25/08/2014",
+            "sortDescription": "My Everything là album thứ hai của Ariana Grande, được phát hành vào ngày 22/08/2014 bởi hãng ghi âm Universal. Trước đó, cô từng cho phát hành trước 3 ca khúc Problem, Break Free, Big Mistake.\r\n\r\nĐĩa đơn đầu tiên trích từ album này là Problem, \"tiểu Mariah Carey\" hợp tác cùng rapper đang lên Iggy Azalea đã mang lại nhiều thành công cho cô. Single này đã chiếm vị trí thứ 2 tại bảng xếp hạng Billboard 100, giành vị trí số 1 tại Anh và lọt vào Top 10 nhiều quốc gia. Problem mang về cho Ariana Grande 2 chứng nhận đĩa bạch kim tại Mỹ khi tiêu thụ được hơn 2 triệu bản, 1 đĩa bạc tại Anh khi thu về hơn 200,000 bản. Ca khúc này còn nhận được đề cử tại lễ trao giải MTV Video Music năm 2014 cho 3 hạng mục Best Pop Video, Best Female Video, Best Collaboration.\r\n\r\nSau hai tuần phát hành, album này đã chiếm vị trí số 1 tại Mỹ sau khi tiêu thụ được 169,000 bản, đồng thời  My Everything còn đem lại cho cô thành tích có hai album đạt ngôi vị quán quân cách nhau chỉ chưa đầy một năm. Hồi năm ngoái, Yours Truly được phát hành ngày 2/9/2013 của Ariana Grande cũng lập tức đạt thứ hạng cao nhất khi mới ra mắt.\r\n\r\nCác single được phát hành từ album:\r\n28/04/2014: Problem\r\n02/07/2014: Break Free",
+            "releasedAt": 1408899600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98ABB",
+                "name": "Ariana Grande",
+                "link": "/nghe-si/Ariana-Grande",
+                "spotlight": false,
+                "alias": "Ariana-Grande",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/0/4/7e04e3a66d79ca0a0e45118c33711030.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZWZCZICU",
+                "totalFollow": 58432
+              }
+            ],
+            "artistsNames": "Ariana Grande"
+          },
+          "indicators": [],
+          "radioId": 1283996169,
+          "isIndie": false,
+          "mvlink": "/video-clip/Bang-Bang-Jessie-J-Ariana-Grande-Nicki-Minaj/ZW6CFO60.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW606DUU",
+          "title": "One Step At A Time",
+          "alias": "One-Step-At-A-Time-Jordin-Sparks",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Jordin Sparks",
+          "artists": [
+            {
+              "id": "IWZ9ZZB0",
+              "name": "Jordin Sparks",
+              "link": "/nghe-si/Jordin-Sparks",
+              "spotlight": false,
+              "alias": "Jordin-Sparks",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/5/756cfd8847aa2c72342b18a0b75548e5_1335368230.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/5/756cfd8847aa2c72342b18a0b75548e5_1335368230.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEOWF7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/6/76418a870d74b9f4991bda908db5fe06_1337859321.jpg",
+          "link": "/bai-hat/One-Step-At-A-Time-Jordin-Sparks/ZW606DUU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/6/76418a870d74b9f4991bda908db5fe06_1337859321.jpg",
+          "duration": 205,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZWZA0BZ7",
+            "title": "Jordin Sparks",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/2/5/d/925d5a70358a13769a9620f9021262a2.jpg",
+            "isoffical": true,
+            "link": "/album/Jordin-Sparks-Jordin-Sparks/ZWZA0BZ7.html",
+            "isIndie": false,
+            "releaseDate": "19/11/2007",
+            "sortDescription": "Jordin Sparks là album đầu tay sau khi Jordin Sparks giành được vị trí quán quân của cuộc thi American Idol mùa thi thứ 6 vào năm 2007. Album phát hành vào ngày 20/11/2007 tại Mỹ. Sau một tuần phát hành, nó đã tiêu thụ được 119,000 bản và lọt vào Top 10 Billboard 200. \r\nTính đến nay, album này đã bán được hơn 3 triệu bản trên toàn thế giới và được chứng nhận đĩa bạch kim khi cán mốc 1 triệu album được bán ra vào ngày 12/12/2008.\r\nĐĩa đơn đầu tiên trích từ album này là Tatto, nó đã giành được vị trí thứ 8 của Billboard Hot 100 Singles. No Air với phần song ca với Chris Brown là đĩa đơn thứ 2 trích từ album thì gây ấn tượng tốt hơn khi đạt được vị trứ 3 của Billboard Hot 100 Singles. Single thứ 3 được Jordin phát hành là One Step At A Time, được ra mắt vào ngày 10/1/2008 và nó cũng dễ dàng lọt vào Top 20 của Billboard Hot 100 Singles. Đồng thời, cô gái trẻ vừa tròn 16 tuổi lúc bấy giờ trở thành ca sỹ đầu tiên bước ra từ cuộc thi American Idol có 4 đĩa đơn lọt vào Top 20 của Billboard, trước đó là ca khúc đăng quang This Is My Now cũng lọt vào Top bảng xếp hạng ưu tín này của Mỹ.\r\nNgoài việc nhận được chứng nhận đĩa bạch kim tại Mỹ, album này còn nhận được đĩa vàng tại nhiều quốc gia khác như Áo, Canada, New Zealand, Anh.\r\nPhiên bản Deluxe của album này được phát hành kèm theo 3 ca khúc mới là: Virginia Is For Lovers, Save Me, Worth The Wait",
+            "releasedAt": 1195405200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB0",
+                "name": "Jordin Sparks",
+                "link": "/nghe-si/Jordin-Sparks",
+                "spotlight": false,
+                "alias": "Jordin-Sparks",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/5/756cfd8847aa2c72342b18a0b75548e5_1335368230.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/5/756cfd8847aa2c72342b18a0b75548e5_1335368230.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEOWF7",
+                "totalFollow": 919
+              }
+            ],
+            "artistsNames": "Jordin Sparks"
+          },
+          "indicators": [],
+          "radioId": 1282951711,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA8IZDU",
+          "title": "Worth It",
+          "alias": "Worth-It-Fifth-Harmony",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Fifth Harmony",
+          "artists": [
+            {
+              "id": "IWZ9CE0A",
+              "name": "Fifth Harmony",
+              "link": "/nghe-si/Fifth-Harmony",
+              "spotlight": false,
+              "alias": "Fifth-Harmony",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEWEZIC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/3/d/6/b3d639e34bac2c646249bd53a0409a25.jpg",
+          "link": "/bai-hat/Worth-It-Fifth-Harmony/ZWA8IZDU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/3/d/6/b3d639e34bac2c646249bd53a0409a25.jpg",
+          "duration": 185,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1501779600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZU7ZB7CE",
+            "title": "Worth It (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/e/9/2/5e92bf8ef22697229077668c4b5f129b.jpg",
+            "isoffical": true,
+            "link": "/album/Worth-It-Single-Fifth-Harmony/ZU7ZB7CE.html",
+            "isIndie": false,
+            "releaseDate": "26/05/2017",
+            "sortDescription": "",
+            "releasedAt": 1495731600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9CE0A",
+                "name": "Fifth Harmony",
+                "link": "/nghe-si/Fifth-Harmony",
+                "spotlight": false,
+                "alias": "Fifth-Harmony",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/77fa8d5c19a7fd4130d331bc00272c8f_1483671290.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEWEZIC",
+                "totalFollow": 6653
+              }
+            ],
+            "artistsNames": "Fifth Harmony"
+          },
+          "indicators": [],
+          "radioId": 1286501365,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDWZCIC",
+          "title": "Ice Cream (with Selena Gomez)",
+          "alias": "Ice-Cream-with-Selena-Gomez-BLACKPINK",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "BLACKPINK",
+          "artists": [
+            {
+              "id": "IWZA7DE0",
+              "name": "BLACKPINK",
+              "link": "/nghe-si/BLACKPINK",
+              "spotlight": false,
+              "alias": "BLACKPINK",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZ9UA7E"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/9/1/6/79162d1b6172ab702e7e64482094588b.jpg",
+          "link": "/bai-hat/Ice-Cream-with-Selena-Gomez-BLACKPINK/ZWDWZCIC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/9/1/6/79162d1b6172ab702e7e64482094588b.jpg",
+          "duration": 176,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1601571600,
+          "genreIds": [
+            "IWZ9Z08W",
+            "IWZ9Z09W"
+          ],
+          "album": {
+            "encodeId": "6OZDUCD6",
+            "title": "Ice Cream (with Selena Gomez) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/c/2/f/4c2fad3c097661580b5a74ee4ea7f098.jpg",
+            "isoffical": true,
+            "link": "/album/Ice-Cream-with-Selena-Gomez-Single-BLACKPINK/6OZDUCD6.html",
+            "isIndie": false,
+            "releaseDate": "28/08/2020",
+            "sortDescription": "",
+            "releasedAt": 1598547600000,
+            "genreIds": [
+              "IWZ9Z08W",
+              "IWZ9Z09W"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA7DE0",
+                "name": "BLACKPINK",
+                "link": "/nghe-si/BLACKPINK",
+                "spotlight": false,
+                "alias": "BLACKPINK",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/1/0/3/71031e4984f431fe18cf18cc19af2e9d.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOZ9UA7E",
+                "totalFollow": 809391
+              }
+            ],
+            "artistsNames": "BLACKPINK"
+          },
+          "indicators": [],
+          "radioId": 1364171710,
+          "isIndie": false,
+          "mvlink": "/video-clip/Ice-Cream-with-Selena-Gomez-BLACKPINK/ZWDWZCIC.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZE7UIFA",
+          "title": "Nonsense",
+          "alias": "Nonsense-Sabrina-Carpenter",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Sabrina Carpenter",
+          "artists": [
+            {
+              "id": "IWZ9CUB9",
+              "name": "Sabrina Carpenter",
+              "link": "/nghe-si/Sabrina-Carpenter",
+              "spotlight": false,
+              "alias": "Sabrina-Carpenter",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/c/c/1/7cc1f3378ca955619f9389822a20e69f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/c/c/1/7cc1f3378ca955619f9389822a20e69f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB6966U"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/5/3/8/c53844b0afa39db0086da6cf28370fc4.jpg",
+          "link": "/bai-hat/Nonsense-Sabrina-Carpenter/ZZE7UIFA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/5/3/8/c53844b0afa39db0086da6cf28370fc4.jpg",
+          "duration": 164,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1657818000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6BU9O760",
+            "title": "emails i can't send",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/4/9/2/5492962df69d7fe2e0265b2f31b8886b.jpg",
+            "isoffical": true,
+            "link": "/album/emails-i-can-t-send-Sabrina-Carpenter/6BU9O760.html",
+            "isIndie": false,
+            "releaseDate": "15/07/2022",
+            "sortDescription": "",
+            "releasedAt": 1657818000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9CUB9",
+                "name": "Sabrina Carpenter",
+                "link": "/nghe-si/Sabrina-Carpenter",
+                "spotlight": false,
+                "alias": "Sabrina-Carpenter",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/c/c/1/7cc1f3378ca955619f9389822a20e69f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/c/c/1/7cc1f3378ca955619f9389822a20e69f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB6966U",
+                "totalFollow": 57898
+              }
+            ],
+            "artistsNames": "Sabrina Carpenter"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/Nonsense-Sabrina-Carpenter/ZZE7UIFA.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZOZ60BC",
+          "title": "she's all i wanna be",
+          "alias": "she-s-all-i-wanna-be-Tate-McRae",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tate McRae",
+          "artists": [
+            {
+              "id": "IW6ZO0IE",
+              "name": "Tate McRae",
+              "link": "/nghe-si/Tate-McRae",
+              "spotlight": false,
+              "alias": "Tate-McRae",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/f/b/e/1fbe74c029ca23e895128a303d90a9df.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/f/b/e/1fbe74c029ca23e895128a303d90a9df.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "689U9CAI"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/7/a/f/37afa3a96f6e768fb388aeb9da3b724f.jpg",
+          "link": "/bai-hat/she-s-all-i-wanna-be-Tate-McRae/ZZOZ60BC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/7/a/f/37afa3a96f6e768fb388aeb9da3b724f.jpg",
+          "duration": 207,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1643907600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6ACO8AE9",
+            "title": "she's all i wanna be (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/1/5/b/515bab603e0d1cdf2dfd8e73e6be5949.jpg",
+            "isoffical": true,
+            "link": "/album/she-s-all-i-wanna-be-Single-Tate-McRae/6ACO8AE9.html",
+            "isIndie": false,
+            "releaseDate": "04/02/2022",
+            "sortDescription": "",
+            "releasedAt": 1643907600000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZO0IE",
+                "name": "Tate McRae",
+                "link": "/nghe-si/Tate-McRae",
+                "spotlight": false,
+                "alias": "Tate-McRae",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/f/b/e/1fbe74c029ca23e895128a303d90a9df.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/f/b/e/1fbe74c029ca23e895128a303d90a9df.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "689U9CAI",
+                "totalFollow": 3771
+              }
+            ],
+            "artistsNames": "Tate McRae"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZO9FAFC9",
+          "title": "Marilyn Monroe",
+          "alias": "Marilyn-Monroe-Astrid-S",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Astrid S",
+          "artists": [
+            {
+              "id": "IWZAZ70F",
+              "name": "Astrid S",
+              "link": "/nghe-si/Astrid-S",
+              "spotlight": false,
+              "alias": "Astrid-S",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/1/d1a9e601e5d7c277ec4b1f935fd65c43_1463114423.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/1/d1a9e601e5d7c277ec4b1f935fd65c43_1463114423.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB6A807"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/4/b/b/d4bb8092013c101fbb7fe197a61c4d94.jpg",
+          "link": "/bai-hat/Marilyn-Monroe-Astrid-S/ZO9FAFC9.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/4/b/b/d4bb8092013c101fbb7fe197a61c4d94.jpg",
+          "duration": 175,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1614902400,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "676CZ7O6",
+            "title": "Leave It Beautiful (Complete)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/8/3/f/783ffd8fe0a2eb18f9395eb7302a82a6.jpg",
+            "isoffical": true,
+            "link": "/album/Leave-It-Beautiful-Complete-Astrid-S/676CZ7O6.html",
+            "isIndie": false,
+            "releaseDate": "05/03/2021",
+            "sortDescription": "",
+            "releasedAt": 1614877200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAZ70F",
+                "name": "Astrid S",
+                "link": "/nghe-si/Astrid-S",
+                "spotlight": false,
+                "alias": "Astrid-S",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/1/d1a9e601e5d7c277ec4b1f935fd65c43_1463114423.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/1/d1a9e601e5d7c277ec4b1f935fd65c43_1463114423.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB6A807",
+                "totalFollow": 302
+              }
+            ],
+            "artistsNames": "Astrid S"
+          },
+          "indicators": [],
+          "radioId": 1430496639,
+          "isIndie": false,
+          "mvlink": "/video-clip/Marilyn-Monroe-Astrid-S/ZO9FAFC9.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWA09IWO",
+          "title": "Cool",
+          "alias": "Cool-Gwen-Stefani",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Gwen Stefani",
+          "artists": [
+            {
+              "id": "IWZ9ZZ6O",
+              "name": "Gwen Stefani",
+              "link": "/nghe-si/Gwen-Stefani",
+              "spotlight": false,
+              "alias": "Gwen-Stefani",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/c/8c56601717b2a837e22df9e6d19c46fd_1455596329.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/c/8c56601717b2a837e22df9e6d19c46fd_1455596329.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEOWU6"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/1/c/6/01c6a5beefb9ab284867f09f3364e484.jpg",
+          "link": "/bai-hat/Cool-Gwen-Stefani/ZWA09IWO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/1/c/6/01c6a5beefb9ab284867f09f3364e484.jpg",
+          "duration": 189,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1101081600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZOZZU8EB",
+            "title": "Love Angel Music Baby",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/1/c/6/01c6a5beefb9ab284867f09f3364e484.jpg",
+            "isoffical": true,
+            "link": "/album/Love-Angel-Music-Baby-Gwen-Stefani/ZOZZU8EB.html",
+            "isIndie": false,
+            "releaseDate": "23/11/2004",
+            "sortDescription": "",
+            "releasedAt": 1101142800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZ6O",
+                "name": "Gwen Stefani",
+                "link": "/nghe-si/Gwen-Stefani",
+                "spotlight": false,
+                "alias": "Gwen-Stefani",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/c/8c56601717b2a837e22df9e6d19c46fd_1455596329.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/c/8c56601717b2a837e22df9e6d19c46fd_1455596329.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UAEOWU6",
+                "totalFollow": 285
+              }
+            ],
+            "artistsNames": "Gwen Stefani"
+          },
+          "indicators": [],
+          "radioId": 1286079485,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6Z9UAOC",
+          "title": "Red Flags",
+          "alias": "Red-Flags-Mimi-Webb",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Mimi Webb",
+          "artists": [
+            {
+              "id": "IW6ZBO6D",
+              "name": "Mimi Webb",
+              "link": "/nghe-si/Mimi-Webb",
+              "spotlight": false,
+              "alias": "Mimi-Webb",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/d/9/1/fd9171cda434e8e49965b0146074a50d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/d/9/1/fd9171cda434e8e49965b0146074a50d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7WAIEA"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/9/b/059bca7e0191ed3e3bad535f803f76f4.jpg",
+          "link": "/bai-hat/Red-Flags-Mimi-Webb/Z6Z9UAOC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/9/b/059bca7e0191ed3e3bad535f803f76f4.jpg",
+          "duration": 142,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1673370000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6B8I0Z66",
+            "title": "Red Flags (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/d/3/b/ad3b72d49755aea796197adec33e840c.jpg",
+            "isoffical": true,
+            "link": "/album/Red-Flags-Single-Mimi-Webb/6B8I0Z66.html",
+            "isIndie": false,
+            "releaseDate": "13/01/2023",
+            "sortDescription": "",
+            "releasedAt": 1673542800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6ZBO6D",
+                "name": "Mimi Webb",
+                "link": "/nghe-si/Mimi-Webb",
+                "spotlight": false,
+                "alias": "Mimi-Webb",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/d/9/1/fd9171cda434e8e49965b0146074a50d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/d/9/1/fd9171cda434e8e49965b0146074a50d.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7WAIEA",
+                "totalFollow": 27
+              }
+            ],
+            "artistsNames": "Mimi Webb"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW606ZO0",
+          "title": "Fergalicious",
+          "alias": "Fergalicious-Fergie-Will-i-am",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Fergie, Will.i.am",
+          "artists": [
+            {
+              "id": "IWZ9Z6FB",
+              "name": "Fergie",
+              "link": "/nghe-si/Fergie",
+              "spotlight": false,
+              "alias": "Fergie",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/c/9cf16c63ae7ae07438666d8a2298795c_1467298339.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/c/9cf16c63ae7ae07438666d8a2298795c_1467298339.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEO6I0"
+            },
+            {
+              "id": "IWZ9ZEA7",
+              "name": "Will.i.am",
+              "link": "/nghe-si/Will-i-am",
+              "spotlight": false,
+              "alias": "Will-i-am",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/9/d99119ca42e35bfa7fbc7fba9ab1d88a_1393209979.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/9/d99119ca42e35bfa7fbc7fba9ab1d88a_1393209979.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEUZ7D6"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/3/5/7/3357846065756919ad3c5f669a6b1562.jpg",
+          "link": "/bai-hat/Fergalicious-Fergie-Will-i-am/ZW606ZO0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/3/5/7/3357846065756919ad3c5f669a6b1562.jpg",
+          "duration": 295,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1271635200,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z09B"
+          ],
+          "indicators": [
+            "explicit"
+          ],
+          "radioId": 1282949913,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW60COCU",
+          "title": "Hot N Cold",
+          "alias": "Hot-N-Cold-Katy-Perry",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Katy Perry",
+          "artists": [
+            {
+              "id": "IWZ9ZOCU",
+              "name": "Katy Perry",
+              "link": "/nghe-si/Katy-Perry",
+              "spotlight": false,
+              "alias": "Katy-Perry",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/0/6/6/0066f5f9111c922f15c4ff12ab6c202e.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/0/6/6/0066f5f9111c922f15c4ff12ab6c202e.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZWZAFCIO"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/b/2/4/0b24f8655410c2325bda9e999591b858.jpg",
+          "link": "/bai-hat/Hot-N-Cold-Katy-Perry/ZW60COCU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/b/2/4/0b24f8655410c2325bda9e999591b858.jpg",
+          "duration": 220,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1227484800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "indicators": [],
+          "radioId": 1282972894,
+          "isIndie": false,
+          "mvlink": "/video-clip/Hot-N-Cold-Katy-Perry/ZW60COCU.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZU00ZD6F",
+          "title": "Mirror",
+          "alias": "Mirror-Sigrid",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Sigrid",
+          "artists": [
+            {
+              "id": "IWZD7IUB",
+              "name": "Sigrid",
+              "link": "/nghe-si/Sigrid",
+              "spotlight": false,
+              "alias": "Sigrid",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/1/c1a1e78fceeaea8155d8315c46285cfa_1488939737.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/1/c1a1e78fceeaea8155d8315c46285cfa_1488939737.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UB6BIC6"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/d/7/7/0d77d15e3e5bdee92f057d5b2d79edcd.jpg",
+          "link": "/bai-hat/Mirror-Sigrid/ZU00ZD6F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/d/7/7/0d77d15e3e5bdee92f057d5b2d79edcd.jpg",
+          "duration": 156,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1621875600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "68OO6OAW",
+            "title": "Mirror (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/9/4/f/e94f7cb893532c8060fa8f355c31baec.jpg",
+            "isoffical": true,
+            "link": "/album/Mirror-Single-Sigrid/68OO6OAW.html",
+            "isIndie": false,
+            "releaseDate": "26/05/2021",
+            "sortDescription": "",
+            "releasedAt": 1621962000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZD7IUB",
+                "name": "Sigrid",
+                "link": "/nghe-si/Sigrid",
+                "spotlight": false,
+                "alias": "Sigrid",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/1/c1a1e78fceeaea8155d8315c46285cfa_1488939737.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/1/c1a1e78fceeaea8155d8315c46285cfa_1488939737.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UB6BIC6",
+                "totalFollow": 267
+              }
+            ],
+            "artistsNames": "Sigrid"
+          },
+          "indicators": [],
+          "radioId": 1444423792,
+          "isIndie": false,
+          "mvlink": "/video-clip/Mirror-Sigrid/ZU00ZD6F.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ9C8A6",
+          "title": "Womanizer",
+          "alias": "Womanizer-Britney-Spears",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Britney Spears",
+          "artists": [
+            {
+              "id": "IWZ9Z0C6",
+              "name": "Britney Spears",
+              "link": "/Britney-Spears",
+              "spotlight": false,
+              "alias": "Britney-Spears",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9ECID"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/6/5/4/b6548f98e88cc34270d25e883f730b3d.jpg",
+          "link": "/bai-hat/Womanizer-Britney-Spears/ZWZ9C8A6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/6/5/4/b6548f98e88cc34270d25e883f730b3d.jpg",
+          "duration": 223,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1228150800,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZUAWDFA0",
+            "title": "Circus (Deluxe Version)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/b/5/3/0b53325503a37c99e4d3449d4f475b80.jpg",
+            "isoffical": true,
+            "link": "/album/Circus-Deluxe-Version-Britney-Spears/ZUAWDFA0.html",
+            "isIndie": false,
+            "releaseDate": "02/12/2008",
+            "sortDescription": "",
+            "releasedAt": 1228150800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9Z0C6",
+                "name": "Britney Spears",
+                "link": "/Britney-Spears",
+                "spotlight": false,
+                "alias": "Britney-Spears",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/9001118dd8e4a254bc87c17374bdd2f6_1516955881.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9ECID",
+                "totalFollow": 35929
+              }
+            ],
+            "artistsNames": "Britney Spears"
+          },
+          "indicators": [],
+          "radioId": 1282295270,
+          "isIndie": false,
+          "mvlink": "/video-clip/Womanizer-Britney-Spears/ZWZ9C8A6.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZDUEOI",
+          "title": "Gypsy",
+          "alias": "Gypsy-Shakira",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Shakira",
+          "artists": [
+            {
+              "id": "IWZ9Z8DA",
+              "name": "Shakira",
+              "link": "/nghe-si/Shakira",
+              "spotlight": false,
+              "alias": "Shakira",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/a/2/0/9a205f9064eb1f5e486b1d617b010968.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/a/2/0/9a205f9064eb1f5e486b1d617b010968.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZ9Z0IB"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/e/e/eed92ef987b57992a8d8914e1424f891_1313768319.jpg",
+          "link": "/bai-hat/Gypsy-Shakira/ZWZDUEOI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/e/e/eed92ef987b57992a8d8914e1424f891_1313768319.jpg",
+          "duration": 199,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z097",
+            "IWZ9Z08O"
+          ],
+          "indicators": [],
+          "radioId": 1282751773,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWEDIEBZ",
+          "title": "Sweet Melody",
+          "alias": "Sweet-Melody-Little-Mix",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Little Mix",
+          "artists": [
+            {
+              "id": "IWZ98OB9",
+              "name": "Little Mix",
+              "link": "/nghe-si/Little-Mix",
+              "spotlight": false,
+              "alias": "Little-Mix",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/0/1/2/c012dec5223465d9dd230569a2590931.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/0/1/2/c012dec5223465d9dd230569a2590931.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEUZ7A8"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/a/7/7/8a77d1fe7ccb34b958f14ffc45280e33.jpg",
+          "link": "/bai-hat/Sweet-Melody-Little-Mix/ZWEDIEBZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/a/7/7/8a77d1fe7ccb34b958f14ffc45280e33.jpg",
+          "duration": 213,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1604595600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "6ZWAOIUU",
+            "title": "Sweet Melody",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/3/e/7/13e78b3d32a7533ea518a39cf149e7f1.jpg",
+            "isoffical": true,
+            "link": "/album/Sweet-Melody-Little-Mix/6ZWAOIUU.html",
+            "isIndie": false,
+            "releaseDate": "23/10/2020",
+            "sortDescription": "",
+            "releasedAt": 1603386000000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98OB9",
+                "name": "Little Mix",
+                "link": "/nghe-si/Little-Mix",
+                "spotlight": false,
+                "alias": "Little-Mix",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/0/1/2/c012dec5223465d9dd230569a2590931.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/0/1/2/c012dec5223465d9dd230569a2590931.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEUZ7A8",
+                "totalFollow": 6545
+              }
+            ],
+            "artistsNames": "Little Mix"
+          },
+          "indicators": [],
+          "radioId": 1389504932,
+          "isIndie": false,
+          "mvlink": "/video-clip/Sweet-Melody-Little-Mix/ZWEDIEBZ.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOAEB87U",
+          "title": "Lover",
+          "alias": "Lover-Taylor-Swift",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Taylor Swift",
+          "artists": [
+            {
+              "id": "IWZ9ZOA8",
+              "name": "Taylor Swift",
+              "link": "/nghe-si/Taylor-Swift",
+              "spotlight": false,
+              "alias": "Taylor-Swift",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOU8C777"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/a/e/3/dae3bed13921fee45034f45ed8921794.jpg",
+          "link": "/bai-hat/Lover-Taylor-Swift/ZOAEB87U.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/a/e/3/dae3bed13921fee45034f45ed8921794.jpg",
+          "duration": 221,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1566432000,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "S7DB9AD8",
+            "title": "Lover",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/5/3/7/a537c16b2b1247e23ea926814340b5a4.jpg",
+            "isoffical": true,
+            "link": "/album/Lover-Taylor-Swift/S7DB9AD8.html",
+            "isIndie": false,
+            "releaseDate": "23/08/2019",
+            "sortDescription": "",
+            "releasedAt": 1566493200000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZOA8",
+                "name": "Taylor Swift",
+                "link": "/nghe-si/Taylor-Swift",
+                "spotlight": false,
+                "alias": "Taylor-Swift",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/a/4/0/ca40f130b36e29565dd5fff31db623fa.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOU8C777",
+                "totalFollow": 206308
+              }
+            ],
+            "artistsNames": "Taylor Swift"
+          },
+          "indicators": [],
+          "radioId": 1437672278,
+          "isIndie": false,
+          "mvlink": "/video-clip/Lover-Taylor-Swift/ZOAEB87U.html",
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": false,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAC6BW7",
+          "title": "Lady Marmalade",
+          "alias": "Lady-Marmalade-Christina-Aguilera-Lil-Kim-Mya-P-nk",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Nhiều nghệ sĩ",
+          "artists": [
+            {
+              "id": "IWZ9ZOCB",
+              "name": "Christina Aguilera",
+              "link": "/Christina-Aguilera",
+              "spotlight": false,
+              "alias": "Christina-Aguilera",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/c/2/8/1c28eafcafc198d52e5b06c22e5dd72d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/c/2/8/1c28eafcafc198d52e5b06c22e5dd72d.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZAD98Z"
+            },
+            {
+              "id": "IWZ9ZO8E",
+              "name": "Lil' Kim",
+              "link": "/nghe-si/Lil-Kim",
+              "spotlight": false,
+              "alias": "Lil-Kim",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/f/7fdc1a630c238af0815181f9faa190f5_1285756333.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/f/7fdc1a630c238af0815181f9faa190f5_1285756333.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEWFWB"
+            },
+            {
+              "id": "IWZ9ZCI0",
+              "name": "Mya",
+              "link": "/nghe-si/Mya",
+              "spotlight": false,
+              "alias": "Mya",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/b/cb82e0f1452733ba02edae50631b215d_1336291731.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/b/cb82e0f1452733ba02edae50631b215d_1336291731.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UAEUI0U"
+            },
+            {
+              "id": "IWZ9ZE07",
+              "name": "P!nk",
+              "link": "/nghe-si/Pink-USUK",
+              "spotlight": false,
+              "alias": "Pink-USUK",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/f/e/6/efe6007ad15f75b67d84d2a1947f6455.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/f/e/6/efe6007ad15f75b67d84d2a1947f6455.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOZ9UDU0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/6/2/f/162f28b83c671816e22d6a3c8409e9a8.jpg",
+          "link": "/bai-hat/Lady-Marmalade-Christina-Aguilera-Lil-Kim-Mya-P-nk/ZWAC6BW7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/6/2/f/162f28b83c671816e22d6a3c8409e9a8.jpg",
+          "duration": 265,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1547139600,
+          "genreIds": [
+            "IWZ9Z08O",
+            "IWZ9Z097"
+          ],
+          "album": {
+            "encodeId": "ZUAIO09W",
+            "title": "2000s XL",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/6/2/f/162f28b83c671816e22d6a3c8409e9a8.jpg",
+            "isoffical": true,
+            "link": "/album/2000s-XL-Various-Artists/ZUAIO09W.html",
+            "isIndie": false,
+            "releaseDate": "25/09/2020",
+            "sortDescription": "",
+            "releasedAt": 1600966800000,
+            "genreIds": [
+              "IWZ9Z08O",
+              "IWZ9Z097"
+            ],
+            "PR": false
+          },
+          "indicators": [],
+          "radioId": 1286722794,
+          "isIndie": false,
+          "mvlink": "/video-clip/Lady-Marmalade-Christina-Aguilera-Lil-Kim-Mya-P-nk/ZWAC6BW7.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        }
+      ],
+      "total": 63,
+      "totalDuration": 13124
+    },
+    "like": 468,
+    "listen": 62103,
+    "liked": false
+  },
+  "timestamp": 1679135761328
+}
