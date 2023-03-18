@@ -30,4 +30,5 @@ urlpatterns = [
     path('api/login/', TokenObtainPairView.as_view()),
     path('api/token/refresh/', TokenRefreshView.as_view()),
     path('', include('accounts.urls')),
+    path('', include('artists.urls')),
 ]
