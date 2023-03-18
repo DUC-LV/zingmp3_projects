@@ -42,7 +42,7 @@ INSTALLED_APPS = [
     'banners',
     'playlists',
     'playlist_detail',
-    'accounts'
+    'accounts',
 ]
 
 MIDDLEWARE = [

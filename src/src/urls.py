@@ -29,5 +29,5 @@ urlpatterns = [
     path('', include('playlist_detail.urls')),
     path('api/login/', TokenObtainPairView.as_view()),
     path('api/token/refresh/', TokenRefreshView.as_view()),
-    path('', include('accounts.urls'))
+    path('', include('accounts.urls')),
 ]

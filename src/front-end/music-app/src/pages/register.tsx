@@ -9,7 +9,7 @@ import axiosInstance from "../services/axiosInstance";
 
 const Register = () => {
 	const username = useFormInput('');
-	const email = useFormInput('')
+	const email = useFormInput('');
 	const password = useFormInput('');
 	const router = useRouter();
 	const handleRegister = (e:any) => {
