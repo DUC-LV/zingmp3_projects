@@ -1,0 +1,1941 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZWZBCIZ7",
+    "title": "Những Bài Hát Hay Nhất Của Tóc Tiên",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/1/5/f/b15f7223405952cea169faa6fd3b8acc.jpg",
+    "isoffical": true,
+    "link": "/album/Nhung-Bai-Hat-Hay-Nhat-Cua-Toc-Tien-Toc-Tien/ZWZBCIZ7.html",
+    "isIndie": false,
+    "releaseDate": "",
+    "sortDescription": "Like this hay like that thì vẫn vào đây like nhạc",
+    "releasedAt": 0,
+    "genreIds": [
+      "IWZ9Z08I"
+    ],
+    "PR": false,
+    "artists": [
+      {
+        "id": "IWZ9ZUCI",
+        "name": "Tóc Tiên",
+        "link": "/Toc-Tien",
+        "spotlight": false,
+        "alias": "Toc-Tien",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+        "isOA": true,
+        "isOABrand": false,
+        "playlistId": "ZWZBCIZ7",
+        "totalFollow": 91011
+      }
+    ],
+    "artistsNames": "Tóc Tiên",
+    "playItemMode": 0,
+    "subType": 20,
+    "uid": 0,
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/b/1/5/f/b15f7223405952cea169faa6fd3b8acc.jpg",
+    "isShuffle": true,
+    "isPrivate": false,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "distributor": "",
+    "description": "Like this hay like that thì vẫn vào đây like nhạc",
+    "aliasTitle": "Nhung-Bai-Hat-Hay-Nhat-Cua-Toc-Tien-Toc-Tien",
+    "sectionId": "album",
+    "contentLastUpdate": 1677595842,
+    "artist": {
+      "id": "IWZ9ZUCI",
+      "name": "Tóc Tiên",
+      "link": "/nghe-si/Toc-Tien",
+      "spotlight": false,
+      "alias": "Toc-Tien",
+      "playlistId": "ZWZBCIZ7",
+      "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg"
+    },
+    "genres": [
+      {
+        "id": "IWZ9Z08I",
+        "name": "Việt Nam",
+        "title": "Việt Nam",
+        "alias": "viet-nam",
+        "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "Z6WFC8IW",
+          "title": "Like This Like That",
+          "alias": "Like-This-Like-That-Toc-Tien-tlinh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, tlinh",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IW68Z8DW",
+              "name": "tlinh",
+              "link": "/tlinh",
+              "spotlight": false,
+              "alias": "tlinh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/c/6/7/dc67d75a543439f9d0232174ded85bd3.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/c/6/7/dc67d75a543439f9d0232174ded85bd3.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6ZIEUFF7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/3/d/c/33dc58b5f509fb6a2d5cc88ae8c9f6a2.jpg",
+          "link": "/bai-hat/Like-This-Like-That-Toc-Tien-tlinh/Z6WFC8IW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/3/d/c/33dc58b5f509fb6a2d5cc88ae8c9f6a2.jpg",
+          "duration": 225,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1667282400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B6CZE8C",
+            "title": "CONG",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/7/8/e/778e5f8de8acfb018bdca038d3e52086.jpg",
+            "isoffical": true,
+            "link": "/album/CONG-Toc-Tien/6B6CZE8C.html",
+            "isIndie": false,
+            "releaseDate": "01/11/2022",
+            "sortDescription": "",
+            "releasedAt": 1667282400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6WU6WUD",
+          "title": "906090",
+          "alias": "906090-Toc-Tien-Mew-Amazing",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Mew Amazing",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ9E99D",
+              "name": "Mew Amazing",
+              "link": "/nghe-si/Mew-Amazing",
+              "spotlight": false,
+              "alias": "Mew-Amazing",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/9/2/f/c92f34b9ebe3579063cdbb82b64d7ee4.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/9/2/f/c92f34b9ebe3579063cdbb82b64d7ee4.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOBWDWIB"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/e/e/1/1ee19270545210d8de618e94ee6f1f14.jpg",
+          "link": "/bai-hat/906090-Toc-Tien-Mew-Amazing/Z6WU6WUD.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/e/e/1/1ee19270545210d8de618e94ee6f1f14.jpg",
+          "duration": 209,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1666180800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B66UUDI",
+            "title": "906090 (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/e/5/c/4e5c1e685dad41e0767d5c845b51d63a.jpg",
+            "isoffical": true,
+            "link": "/album/906090-Single-Toc-Tien-Mew-Amazing/6B66UUDI.html",
+            "isIndie": false,
+            "releaseDate": "19/10/2022",
+            "sortDescription": "",
+            "releasedAt": 1666180800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              },
+              {
+                "id": "IWZ9E99D",
+                "name": "Mew Amazing",
+                "link": "/nghe-si/Mew-Amazing",
+                "spotlight": false,
+                "alias": "Mew-Amazing",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/9/2/f/c92f34b9ebe3579063cdbb82b64d7ee4.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/9/2/f/c92f34b9ebe3579063cdbb82b64d7ee4.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOBWDWIB",
+                "totalFollow": 711
+              }
+            ],
+            "artistsNames": "Tóc Tiên, Mew Amazing"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/906090-Toc-Tien-Mew-Amazing/Z6WU6WUD.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9CF998",
+          "title": "#CATENA",
+          "alias": "CATENA-Toc-Tien-Touliver",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Touliver",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/Touliver",
+              "spotlight": false,
+              "alias": "Touliver",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCZCB"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/0/3/6/90368c6fa9dfb60ecd2a3ce1fd474696.jpg",
+          "link": "/bai-hat/CATENA-Toc-Tien-Touliver/ZW9CF998.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/0/3/6/90368c6fa9dfb60ecd2a3ce1fd474696.jpg",
+          "duration": 231,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZODUF0BW",
+            "title": "#CATENA (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/0/3/6/90368c6fa9dfb60ecd2a3ce1fd474696.jpg",
+            "isoffical": true,
+            "link": "/album/CATENA-Single-Toc-Tien-Touliver/ZODUF0BW.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              },
+              {
+                "id": "IWZ986AE",
+                "name": "Touliver",
+                "link": "/Touliver",
+                "spotlight": false,
+                "alias": "Touliver",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCZCB",
+                "totalFollow": 104521
+              }
+            ],
+            "artistsNames": "Tóc Tiên, Touliver"
+          },
+          "indicators": [],
+          "radioId": 1285923103,
+          "isIndie": false,
+          "mvlink": "/video-clip/CATENA-Toc-Tien-Touliver/ZW9CF998.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZ9IZAU0",
+          "title": "Em Đã Có Người Mới",
+          "alias": "Em-Da-Co-Nguoi-Moi-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/6/2/5262ea33b0406c7e2889d21e33c9aaaa.jpg",
+          "link": "/bai-hat/Em-Da-Co-Nguoi-Moi-Toc-Tien/ZZ9IZAU0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/6/2/5262ea33b0406c7e2889d21e33c9aaaa.jpg",
+          "duration": 200,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1638982800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BIFABU7",
+            "title": "Yêu Rồi Yêu Rồi Yêu (EP)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/2/6/2/5262ea33b0406c7e2889d21e33c9aaaa.jpg",
+            "isoffical": true,
+            "link": "/album/Yeu-Roi-Yeu-Roi-Yeu-EP-Toc-Tien/6BIFABU7.html",
+            "isIndie": false,
+            "releaseDate": "16/12/2021",
+            "sortDescription": "",
+            "releasedAt": 1639587600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6WFC8UA",
+          "title": "Nếu Anh Là Em",
+          "alias": "Neu-Anh-La-Em-Toc-Tien-Hua-Kim-Tuyen",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Hứa Kim Tuyền",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZCOZ0I",
+              "name": "Hứa Kim Tuyền",
+              "link": "/Hua-Kim-Tuyen",
+              "spotlight": false,
+              "alias": "Hua-Kim-Tuyen",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6UW9BUZA"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/7/8/e/778e5f8de8acfb018bdca038d3e52086.jpg",
+          "link": "/bai-hat/Neu-Anh-La-Em-Toc-Tien-Hua-Kim-Tuyen/Z6WFC8UA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/7/8/e/778e5f8de8acfb018bdca038d3e52086.jpg",
+          "duration": 273,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1667282400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B6EDBOU",
+            "title": "Nếu Anh Là Em (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/5/4/8/3548066fc3716a7410cec24cda1acaab.jpg",
+            "isoffical": true,
+            "link": "/album/Neu-Anh-La-Em-Single-Toc-Tien-Hua-Kim-Tuyen/6B6EDBOU.html",
+            "isIndie": false,
+            "releaseDate": "07/11/2022",
+            "sortDescription": "",
+            "releasedAt": 1667754000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              },
+              {
+                "id": "IWZCOZ0I",
+                "name": "Hứa Kim Tuyền",
+                "link": "/Hua-Kim-Tuyen",
+                "spotlight": false,
+                "alias": "Hua-Kim-Tuyen",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9BUZA",
+                "totalFollow": 16210
+              }
+            ],
+            "artistsNames": "Tóc Tiên, Hứa Kim Tuyền"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/Neu-Anh-La-Em-Toc-Tien-Hua-Kim-Tuyen/Z6WFC8UA.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW79ABDE",
+          "title": "Em Không Là Duy Nhất",
+          "alias": "Em-Khong-La-Duy-Nhat-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/1/6/1648b6e7471b456f8aa2f9f19c93e5be_1488428433.jpg",
+          "link": "/bai-hat/Em-Khong-La-Duy-Nhat-Toc-Tien/ZW79ABDE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/1/6/1648b6e7471b456f8aa2f9f19c93e5be_1488428433.jpg",
+          "duration": 281,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOZ00UOB",
+            "title": "Em Không Là Duy Nhất (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/1/6/1648b6e7471b456f8aa2f9f19c93e5be_1488428433.jpg",
+            "isoffical": true,
+            "link": "/album/Em-Khong-La-Duy-Nhat-Single-Toc-Tien/ZOZ00UOB.html",
+            "isIndie": false,
+            "releaseDate": "2017",
+            "sortDescription": "Ngay từ lần đầu tiên trình diễn trong buổi Offline FC vào ngày 19.2, Em không là duy nhấtđã “đốn tim” hoàn toàn các fan của Tóc Tiên bởi giai điệu đẹp, ca từ sâu sắc và đặc biệt là câu hát“Chọn con tim hay là nghe lý trí. Chọn yêu anh hay chọn phút giây biệt ly” vô cùng ấn tượng, dễ thuộc và dễ nhớ. Em không là duy nhất là bản Ballad buồn do nhạc sĩ Lương Bằng Quang viết riêng cho giọng hát của Tóc Tiên.\r\n \r\nChia sẻ về sự chuyển hướng đột ngột từ dòng nhạc EDM sang Ballad, Tóc Tiên “thú nhận” rằng cô từng có thời gian thiếu feeling (cảm xúc) với những bản tình ca buồn. Tuy nhiên sau khi nghe bản demo của ca khúc Em không là duy nhất, cộng hưởng thêm nhiều câu chuyện của những người xung quanh khá giống với nội dung bài hát, Tóc Tiên đã tìm lại được cảm xúc và tự tin trình bày ca khúc này. Và nữ ca sĩ cũng tin rằng Em không là duy nhất chắc chắn sẽ chạm vào trái tim của rất nhiều khán giả vì ai cũng từng yêu hết mình, cũng từng ít nhiều đau khổ vì tình yêu. Chính vì vậy họ sẽ dễ dàng tìm thấy mình trong bài hát – đặc biệt là phái nữ. “Bài hát này Tiên đặc biệt dành riêng cho các bạn nữ - những người luôn chịu nhiều thiệt thòi hơn trong tình yêu” – Tóc Tiên chia sẻ.",
+            "releasedAt": 1514653200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285479216,
+          "isIndie": false,
+          "mvlink": "/video-clip/Em-Khong-La-Duy-Nhat-Toc-Tien/ZW79ABDE.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW8IZ060",
+          "title": "Hôm Nay Tôi Cô Đơn Quá",
+          "alias": "Hom-Nay-Toi-Co-Don-Qua-Toc-Tien-Rhymastic",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Rhymastic",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ97U7U",
+              "name": "Rhymastic",
+              "link": "/Rhymastic",
+              "spotlight": false,
+              "alias": "Rhymastic",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ76DE0"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/d/7df58098752de92365ac1080bc79a495_1503939281.jpg",
+          "link": "/bai-hat/Hom-Nay-Toi-Co-Don-Qua-Toc-Tien-Rhymastic/ZW8IZ060.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/d/7df58098752de92365ac1080bc79a495_1503939281.jpg",
+          "duration": 230,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1493553600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZO69007O",
+            "title": "Hôm Nay Tôi Cô Đơn Quá (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/d/7df58098752de92365ac1080bc79a495_1503939281.jpg",
+            "isoffical": true,
+            "link": "/album/Hom-Nay-Toi-Co-Don-Qua-Single-Toc-Tien/ZO69007O.html",
+            "isIndie": false,
+            "releaseDate": "30/08/2017",
+            "sortDescription": "",
+            "releasedAt": 1504026000000,
+            "genreIds": [
+              "IWZ9Z08I"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285829611,
+          "isIndie": false,
+          "mvlink": "/video-clip/Hom-Nay-Toi-Co-Don-Qua-Toc-Tien-Rhymastic/ZW8IZ060.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZ9IZDZ7",
+          "title": "Ngày Tận Thế",
+          "alias": "Ngay-Tan-The-Toc-Tien-Da-LAB-Touliver",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Da LAB, Touliver",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZAWB8O",
+              "name": "Da LAB",
+              "link": "/Da-LAB-Band",
+              "spotlight": false,
+              "alias": "Da-LAB-Band",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/9/2/a/392ab010906e349aba4e22c4bf3c4b5b.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/9/2/a/392ab010906e349aba4e22c4bf3c4b5b.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO6989UF"
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/Touliver",
+              "spotlight": false,
+              "alias": "Touliver",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCZCB"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/f/8/9/3f89f6264a35d6d890e9fa3fdf160948.jpg",
+          "link": "/bai-hat/Ngay-Tan-The-Toc-Tien-Da-LAB-Touliver/ZZ9IZDZ7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/f/8/9/3f89f6264a35d6d890e9fa3fdf160948.jpg",
+          "duration": 232,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1582218000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BIFBAED",
+            "title": "Ngày Tận Thế (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/f/8/9/3f89f6264a35d6d890e9fa3fdf160948.jpg",
+            "isoffical": true,
+            "link": "/album/Ngay-Tan-The-Single-Toc-Tien/6BIFBAED.html",
+            "isIndie": false,
+            "releaseDate": "12/02/2020",
+            "sortDescription": "",
+            "releasedAt": 1581440400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6FDCDC",
+          "title": "Ngày Mai",
+          "alias": "Ngay-Mai-Toc-Tien-Touliver-Long-Halo",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Tóc Tiên, Touliver, Long Halo",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/Touliver",
+              "spotlight": false,
+              "alias": "Touliver",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCZCB"
+            },
+            {
+              "id": "IWZAUBZU",
+              "name": "Long Halo",
+              "link": "/nghe-si/Long-Halo.IWZAUBZU",
+              "spotlight": false,
+              "alias": "Long-Halo.IWZAUBZU",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W8ZIW"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/9/3/937c82d28846b6bf0d137ebca9fd8a60_1424110483.jpg",
+          "link": "/bai-hat/Ngay-Mai-Toc-Tien-Touliver-Long-Halo/ZW6FDCDC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/9/3/937c82d28846b6bf0d137ebca9fd8a60_1424110483.jpg",
+          "duration": 274,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0CW"
+          ],
+          "album": {
+            "encodeId": "ZWZBCO9D",
+            "title": "The Remix (EP 1)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/9/3/937c82d28846b6bf0d137ebca9fd8a60_1424110483.jpg",
+            "isoffical": true,
+            "link": "/album/The-Remix-EP-1-Toc-Tien-Touliver-Long-Halo/ZWZBCO9D.html",
+            "isIndie": false,
+            "releaseDate": "2015",
+            "sortDescription": "Là một trong những team tạo được ấn tượng mạnh nhất tại cuộc thi The Remix, Hoàng Touliver, Long Halo và Tóc Tiên được xem là \"bộ ba hoàn hảo\" được cả giới chuyên môn đánh giá cao và khán giả hâm mộ cuồng nhiệt. \r\n\r\nNgay sau khi giành được giải 1 trong tuần thi thứ 4, team No.05 tung sản phẩm chung đầu tiên là 4 ca khúc mà nhóm đã trinh diễn từ đầu chương trình và rất được khán giả yêu thích.",
+            "releasedAt": 1451494800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              },
+              {
+                "id": "IWZ986AE",
+                "name": "Touliver",
+                "link": "/Touliver",
+                "spotlight": false,
+                "alias": "Touliver",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCZCB",
+                "totalFollow": 104521
+              },
+              {
+                "id": "IWZAUBZU",
+                "name": "Long Halo",
+                "link": "/nghe-si/Long-Halo.IWZAUBZU",
+                "spotlight": false,
+                "alias": "Long-Halo.IWZAUBZU",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W8ZIW",
+                "totalFollow": 133
+              }
+            ],
+            "artistsNames": "Tóc Tiên,Touliver,Long Halo"
+          },
+          "indicators": [],
+          "radioId": 1284670758,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZDFDB6F",
+          "title": "1 Cọng Tóc Mai",
+          "alias": "1-Cong-Toc-Mai-Toc-Tien-Touliver",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Touliver",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/Touliver",
+              "spotlight": false,
+              "alias": "Touliver",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCZCB"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/0/7/c/c07c3ae64b05904e2e3c1cf274cced69.jpg",
+          "link": "/bai-hat/1-Cong-Toc-Mai-Toc-Tien-Touliver/ZZDFDB6F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/0/7/c/c07c3ae64b05904e2e3c1cf274cced69.jpg",
+          "duration": 197,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1656594000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD",
+            "IWZ97FCE"
+          ],
+          "album": {
+            "encodeId": "6BUZU6OW",
+            "title": "1 Cọng Tóc Mai (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/e/2/b/2e2bb52ce5bc6188c1c5ccfb88119832.jpg",
+            "isoffical": true,
+            "link": "/album/1-Cong-Toc-Mai-Single-Toc-Tien-Touliver/6BUZU6OW.html",
+            "isIndie": false,
+            "releaseDate": "30/06/2022",
+            "sortDescription": "",
+            "releasedAt": 1656522000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD",
+              "IWZ97FCE"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              },
+              {
+                "id": "IWZ986AE",
+                "name": "Touliver",
+                "link": "/Touliver",
+                "spotlight": false,
+                "alias": "Touliver",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCZCB",
+                "totalFollow": 104521
+              }
+            ],
+            "artistsNames": "Tóc Tiên, Touliver"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/1-Cong-Toc-Mai-Toc-Tien-Touliver/ZZDFDB6F.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6WFC9BZ",
+          "title": "Khá Khen",
+          "alias": "Kha-Khen-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/7/8/e/778e5f8de8acfb018bdca038d3e52086.jpg",
+          "link": "/bai-hat/Kha-Khen-Toc-Tien/Z6WFC9BZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/7/8/e/778e5f8de8acfb018bdca038d3e52086.jpg",
+          "duration": 186,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1667282400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B6CZE8C",
+            "title": "CONG",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/7/8/e/778e5f8de8acfb018bdca038d3e52086.jpg",
+            "isoffical": true,
+            "link": "/album/CONG-Toc-Tien/6B6CZE8C.html",
+            "isIndie": false,
+            "releaseDate": "01/11/2022",
+            "sortDescription": "",
+            "releasedAt": 1667282400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/Kha-Khen-Toc-Tien/Z6WFC9BZ.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZCOAABI",
+          "title": "mang ghế ra sân ngồi hát",
+          "alias": "mang-ghe-ra-san-ngoi-hat-Hua-Kim-Tuyen-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hứa Kim Tuyền, Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZCOZ0I",
+              "name": "Hứa Kim Tuyền",
+              "link": "/Hua-Kim-Tuyen",
+              "spotlight": false,
+              "alias": "Hua-Kim-Tuyen",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6UW9BUZA"
+            },
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/8/e/6/68e65f67ba718bc806e155bc76dfad5b.jpg",
+          "link": "/bai-hat/mang-ghe-ra-san-ngoi-hat-Hua-Kim-Tuyen-Toc-Tien/ZZCOAABI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/8/e/6/68e65f67ba718bc806e155bc76dfad5b.jpg",
+          "duration": 211,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1653998400,
+          "genreIds": [
+            "IWZ97FCD",
+            "IWZ9Z08I"
+          ],
+          "album": {
+            "encodeId": "6BO87U8Z",
+            "title": "COLOURS",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/8/e/6/68e65f67ba718bc806e155bc76dfad5b.jpg",
+            "isoffical": true,
+            "link": "/album/COLOURS-Hua-Kim-Tuyen/6BO87U8Z.html",
+            "isIndie": false,
+            "releaseDate": "31/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1653930000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZCOZ0I",
+                "name": "Hứa Kim Tuyền",
+                "link": "/Hua-Kim-Tuyen",
+                "spotlight": false,
+                "alias": "Hua-Kim-Tuyen",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9BUZA",
+                "totalFollow": 16210
+              }
+            ],
+            "artistsNames": "Hứa Kim Tuyền"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWCIDFZC",
+          "title": "Nơi Em Là Bình Yên",
+          "alias": "Noi-Em-La-Binh-Yen-Toc-Tien-Binz",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên, Binz",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ96FEI",
+              "name": "Binz",
+              "link": "/Binz",
+              "spotlight": false,
+              "alias": "Binz",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBECI6"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/b/6/d/8b6dbe16fa28ac9021ea75b47fcf1415.jpg",
+          "link": "/bai-hat/Noi-Em-La-Binh-Yen-Toc-Tien-Binz/ZWCIDFZC.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/b/6/d/8b6dbe16fa28ac9021ea75b47fcf1415.jpg",
+          "duration": 203,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1596114000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6IABZCZU",
+            "title": "Nơi Em Là Bình Yên (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/f/0/b/6f0b3f590730a0fc8c4d3e1ac42952ca.jpg",
+            "isoffical": true,
+            "link": "/album/Noi-Em-La-Binh-Yen-Single-Toc-Tien-Binz/6IABZCZU.html",
+            "isIndie": false,
+            "releaseDate": "30/07/2020",
+            "sortDescription": "",
+            "releasedAt": 1596042000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              },
+              {
+                "id": "IWZ96FEI",
+                "name": "Binz",
+                "link": "/Binz",
+                "spotlight": false,
+                "alias": "Binz",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBECI6",
+                "totalFollow": 383470
+              }
+            ],
+            "artistsNames": "Tóc Tiên, Binz"
+          },
+          "indicators": [],
+          "radioId": 1331751334,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZ9IZAOF",
+          "title": "Mình Yêu Đến Đây Thôi",
+          "alias": "Minh-Yeu-Den-Day-Thoi-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/6/2/5262ea33b0406c7e2889d21e33c9aaaa.jpg",
+          "link": "/bai-hat/Minh-Yeu-Den-Day-Thoi-Toc-Tien/ZZ9IZAOF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/6/2/5262ea33b0406c7e2889d21e33c9aaaa.jpg",
+          "duration": 286,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1639846800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BIFABU7",
+            "title": "Yêu Rồi Yêu Rồi Yêu (EP)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/2/6/2/5262ea33b0406c7e2889d21e33c9aaaa.jpg",
+            "isoffical": true,
+            "link": "/album/Yeu-Roi-Yeu-Roi-Yeu-EP-Toc-Tien/6BIFABU7.html",
+            "isIndie": false,
+            "releaseDate": "16/12/2021",
+            "sortDescription": "",
+            "releasedAt": 1639587600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7U9IUE",
+          "title": "I'm In Love (Phụ Nữ Là Để Yêu)",
+          "alias": "I-m-In-Love-Phu-Nu-La-De-Yeu-Toc-Tien",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465528310.jpg",
+          "link": "/bai-hat/I-m-In-Love-Phu-Nu-La-De-Yeu-Toc-Tien/ZW7U9IUE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465528310.jpg",
+          "duration": 222,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZCUAUW",
+            "title": "I'm In Love (Phụ Nữ Là Để Yêu)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465528310.jpg",
+            "isoffical": true,
+            "link": "/album/I-m-In-Love-Phu-Nu-La-De-Yeu-Toc-Tien/ZWZCUAUW.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "Phụ nữ là để yêu, cần phải nâng cao nữ quyền và ngăn chặn tình trạng bạo hành trong gia đình là thông điệp ý nghĩa mà bộ đôi Tóc Tiên và Tiên Tiên muốn gửi gắm trong video ca nhạc “I’m in love”. \r\n\r\nĐặc biệt, sự xuất hiện của Tiên Tiên trong video ca nhạc khiến nhiều người ngạc nhiên bởi hình ảnh dịu dàng, đằm thắm khác hẳn với phong cách thường thấy ở cô. Trong khi đó, Tóc Tiên sẽ xuất hiện với hình ảnh tinh khôi và thuần khiết, nữ tính nhưng vẫn rất cá tính và đầy quyến rũ.\r\n\r\nCa khúc chủ đề trong video ca nhạc sẽ do “phù thủy âm nhạc” Hoàng Touliver phối theo phong cách R&B nhẹ nhàng tình cảm. Sau khi ra mắt video ca nhạc “I’m in love” vào hôm nay 10-6, Tóc Tiên cho biết cô sẽ tiếp tục hướng đến những sản phẩm và dự án âm nhạc mang tính cộng đồng nhiều hơn.",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285197125,
+          "isIndie": false,
+          "mvlink": "/video-clip/I-m-In-Love-Phu-Nu-La-De-Yeu-Toc-Tien/ZW7U9IUE.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEB6CF",
+          "title": "Nước Mắt Em Lau Bằng Tình Yêu Mới",
+          "alias": "Nuoc-Mat-Em-Lau-Bang-Tinh-Yeu-Moi-Da-LAB-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Da LAB, Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZAWB8O",
+              "name": "Da LAB",
+              "link": "/Da-LAB-Band",
+              "spotlight": false,
+              "alias": "Da-LAB-Band",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/9/2/a/392ab010906e349aba4e22c4bf3c4b5b.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/9/2/a/392ab010906e349aba4e22c4bf3c4b5b.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO6989UF"
+            },
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/c/4/c/ac4c90ddaddc5fcf6c565d59400e7f7c.jpg",
+          "link": "/bai-hat/Nuoc-Mat-Em-Lau-Bang-Tinh-Yeu-Moi-Da-LAB-Toc-Tien/ZWAEB6CF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/c/4/c/ac4c90ddaddc5fcf6c565d59400e7f7c.jpg",
+          "duration": 286,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z089"
+          ],
+          "album": {
+            "encodeId": "Z870B00W",
+            "title": "Nước Mắt Em Lau Bằng Tình Yêu Mới (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/c/4/c/ac4c90ddaddc5fcf6c565d59400e7f7c.jpg",
+            "isoffical": true,
+            "link": "/album/Nuoc-Mat-Em-Lau-Bang-Tinh-Yeu-Moi-Single-Da-LAB-Toc-Tien/Z870B00W.html",
+            "isIndie": false,
+            "releaseDate": "31/12/2019",
+            "sortDescription": "",
+            "releasedAt": 1577725200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z089"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZAWB8O",
+                "name": "Da LAB",
+                "link": "/Da-LAB-Band",
+                "spotlight": false,
+                "alias": "Da-LAB-Band",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/9/2/a/392ab010906e349aba4e22c4bf3c4b5b.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/9/2/a/392ab010906e349aba4e22c4bf3c4b5b.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO6989UF",
+                "totalFollow": 72181
+              },
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Da LAB, Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1286786407,
+          "isIndie": false,
+          "mvlink": "/video-clip/Nuoc-Mat-Em-Lau-Bang-Tinh-Yeu-Moi-Da-LAB-Toc-Tien/ZWAEB6CF.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9BCOFB",
+          "title": "Phút Giây Tuyệt Vời",
+          "alias": "Phut-Giay-Tuyet-Voi-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/3/b/b/23bbff5f8003b4b0a3f31ecb59b02abd.jpg",
+          "link": "/bai-hat/Phut-Giay-Tuyet-Voi-Toc-Tien/ZW9BCOFB.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/3/b/b/23bbff5f8003b4b0a3f31ecb59b02abd.jpg",
+          "duration": 220,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOBF07I6",
+            "title": "Phút Giây Tuyệt Vời (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/3/b/b/23bbff5f8003b4b0a3f31ecb59b02abd.jpg",
+            "isoffical": true,
+            "link": "/album/Phut-Giay-Tuyet-Voi-Single-Toc-Tien/ZOBF07I6.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285891765,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7FZZ6D",
+          "title": "Walk Away",
+          "alias": "Walk-Away-Toc-Tien",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/d/fdde6122efe6abd2eb6a0db7e3e0ddea_1493952467.jpg",
+          "link": "/bai-hat/Walk-Away-Toc-Tien/ZW7FZZ6D.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/f/d/fdde6122efe6abd2eb6a0db7e3e0ddea_1493952467.jpg",
+          "duration": 175,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCE"
+          ],
+          "album": {
+            "encodeId": "ZOZ886U9",
+            "title": "Walk Away (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/f/d/fdde6122efe6abd2eb6a0db7e3e0ddea_1493952467.jpg",
+            "isoffical": true,
+            "link": "/album/Walk-Away-Single-Toc-Tien/ZOZ886U9.html",
+            "isIndie": false,
+            "releaseDate": "2017",
+            "sortDescription": "",
+            "releasedAt": 1514653200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285787793,
+          "isIndie": false,
+          "mvlink": "/video-clip/Walk-Away-Toc-Tien/ZW7FZZ6D.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW708I9O",
+          "title": "D.C.M.A",
+          "alias": "D-C-M-A-Toc-Tien-BigDaddy-Andree-Touliver-Long-Halo",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Nhiều nghệ sĩ",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ977E7",
+              "name": "BigDaddy",
+              "link": "/Big-Daddy",
+              "spotlight": false,
+              "alias": "Big-Daddy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/1/6/c816dddda0ed0df2f5acc169b27f092a.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/8/1/6/c816dddda0ed0df2f5acc169b27f092a.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBOC6C"
+            },
+            {
+              "id": "IWZ96F6I",
+              "name": "Andree",
+              "link": "/Andree",
+              "spotlight": false,
+              "alias": "Andree",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/e/0e5552cf553e9673113f04d8fa163e8e_1426576411.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/e/0e5552cf553e9673113f04d8fa163e8e_1426576411.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9EWU6"
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/Touliver",
+              "spotlight": false,
+              "alias": "Touliver",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCZCB"
+            },
+            {
+              "id": "IWZAUBZU",
+              "name": "Long Halo",
+              "link": "/nghe-si/Long-Halo.IWZAUBZU",
+              "spotlight": false,
+              "alias": "Long-Halo.IWZAUBZU",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/2/7/1a27769dccc5d485f84a9b68bd666be0.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W8ZIW"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/5/a5770da425db0bd4d1c397badb944075_1465453571.jpg",
+          "link": "/bai-hat/D-C-M-A-Toc-Tien-BigDaddy-Andree-Touliver-Long-Halo/ZW708I9O.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/a/5/a5770da425db0bd4d1c397badb944075_1465453571.jpg",
+          "duration": 259,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1428235200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "indicators": [],
+          "radioId": 1284923367,
+          "isIndie": false,
+          "mvlink": "/video-clip/D-C-M-A-Toc-Tien-BigDaddy-Andree-Touliver-Long-Halo/ZW708I9O.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7O8W6U",
+          "title": "Big Girls Don't Cry",
+          "alias": "Big-Girls-Don-t-Cry-Toc-Tien",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Tóc Tiên",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/d/2/9/fd29d76c211a7750c27c1533f4f90677.jpg",
+          "link": "/bai-hat/Big-Girls-Don-t-Cry-Toc-Tien/ZW7O8W6U.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/d/2/9/fd29d76c211a7750c27c1533f4f90677.jpg",
+          "duration": 211,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1420045200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0CW"
+          ],
+          "album": {
+            "encodeId": "ZWZCUAUW",
+            "title": "I'm In Love (Phụ Nữ Là Để Yêu)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465528310.jpg",
+            "isoffical": true,
+            "link": "/album/I-m-In-Love-Phu-Nu-La-De-Yeu-Toc-Tien/ZWZCUAUW.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "Phụ nữ là để yêu, cần phải nâng cao nữ quyền và ngăn chặn tình trạng bạo hành trong gia đình là thông điệp ý nghĩa mà bộ đôi Tóc Tiên và Tiên Tiên muốn gửi gắm trong video ca nhạc “I’m in love”. \r\n\r\nĐặc biệt, sự xuất hiện của Tiên Tiên trong video ca nhạc khiến nhiều người ngạc nhiên bởi hình ảnh dịu dàng, đằm thắm khác hẳn với phong cách thường thấy ở cô. Trong khi đó, Tóc Tiên sẽ xuất hiện với hình ảnh tinh khôi và thuần khiết, nữ tính nhưng vẫn rất cá tính và đầy quyến rũ.\r\n\r\nCa khúc chủ đề trong video ca nhạc sẽ do “phù thủy âm nhạc” Hoàng Touliver phối theo phong cách R&B nhẹ nhàng tình cảm. Sau khi ra mắt video ca nhạc “I’m in love” vào hôm nay 10-6, Tóc Tiên cho biết cô sẽ tiếp tục hướng đến những sản phẩm và dự án âm nhạc mang tính cộng đồng nhiều hơn.",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285124110,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7O6UB7",
+          "title": "The Beat Of Celebration",
+          "alias": "The-Beat-Of-Celebration-Toc-Tien-BigDaddy-JustaTee-Touliver",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Nhiều nghệ sĩ",
+          "artists": [
+            {
+              "id": "IWZ9ZUCI",
+              "name": "Tóc Tiên",
+              "link": "/Toc-Tien",
+              "spotlight": false,
+              "alias": "Toc-Tien",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCIZ7"
+            },
+            {
+              "id": "IWZ977E7",
+              "name": "BigDaddy",
+              "link": "/Big-Daddy",
+              "spotlight": false,
+              "alias": "Big-Daddy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/8/1/6/c816dddda0ed0df2f5acc169b27f092a.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/8/1/6/c816dddda0ed0df2f5acc169b27f092a.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBOC6C"
+            },
+            {
+              "id": "IWZ96FZE",
+              "name": "JustaTee",
+              "link": "/JustaTee",
+              "spotlight": true,
+              "alias": "JustaTee",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/5/3/b/f53b7859f2f0aaf5c1363eb80e75c29b.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/5/3/b/f53b7859f2f0aaf5c1363eb80e75c29b.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBOC6B"
+            },
+            {
+              "id": "IWZ986AE",
+              "name": "Touliver",
+              "link": "/Touliver",
+              "spotlight": false,
+              "alias": "Touliver",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/f/b/fbda1ad619ecc4717a99a23eea7f4b5f_1510287266.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBCZCB"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/b/c/bc651a76019b3c4b43adee7e5c7b116d_1453343485.jpg",
+          "link": "/bai-hat/The-Beat-Of-Celebration-Toc-Tien-BigDaddy-JustaTee-Touliver/ZW7O6UB7.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/b/c/bc651a76019b3c4b43adee7e5c7b116d_1453343485.jpg",
+          "duration": 194,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0CW"
+          ],
+          "album": {
+            "encodeId": "ZWZCW8F9",
+            "title": "T Mini Album",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/b/c/bc651a76019b3c4b43adee7e5c7b116d_1453343485.jpg",
+            "isoffical": true,
+            "link": "/album/T-Mini-Album-Toc-Tien/ZWZCW8F9.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "Cùng với MV Big Girls Don’t Cry, Tóc Tiên còn gửi tặng đến khán giả minialbum có cái tên ngắn gọn- T. Đây được xem là sản phẩm âm nhạc chính thức của cô sau đúng một năm hoạt động chính tại thị trường trong nước và chỉ phát hành vài ca khúc rải rác trên các kênh online. \r\n\r\nAlbum -T- tập hợp 4 ca khúc do chính những tác giả trẻ là bạn bè thân thiết viết riêng cho Tóc Tiên như Big Girls Don’t Cry (Châu Đăng Khoa), Không thể tìm lại bình yên (Soobin Hoàng Sơn), I’m In Love (Vũ Đức Thiện) và The Beat of Celebration (JustaTee).  Album –T- cũng là sản phẩm kỉ niệm một năm làm việc với nhau từ chương trình The Remix của bộ ba Tóc Tiên- Hoàng Touliver và Long Halo khi hai người bạn này tiếp tục đảm nhận phần sản xuất, hoà âm phối khí, thu âm cho các ca khúc của album.",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZUCI",
+                "name": "Tóc Tiên",
+                "link": "/Toc-Tien",
+                "spotlight": false,
+                "alias": "Toc-Tien",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/2/2/0/9/2209495c8a8ad13a01f13fb60a5769d1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZBCIZ7",
+                "totalFollow": 91011
+              }
+            ],
+            "artistsNames": "Tóc Tiên"
+          },
+          "indicators": [],
+          "radioId": 1285116544,
+          "isIndie": false,
+          "mvlink": "/video-clip/The-Beat-Of-Celebration-Toc-Tien-BigDaddy-JustaTee-Touliver/ZW7O6UB7.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        }
+      ],
+      "total": 21,
+      "totalDuration": 4805
+    },
+    "like": 5310,
+    "listen": 0,
+    "liked": false
+  },
+  "timestamp": 1679239085914
+}

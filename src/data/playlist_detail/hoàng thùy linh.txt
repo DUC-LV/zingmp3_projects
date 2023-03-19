@@ -1,0 +1,2359 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZOZ9678O",
+    "title": "Những Bài Hát Hay Nhất Của Hoàng Thùy Linh",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/2/6/8/5268ca89ac8eece34a05285999c7903d.jpg",
+    "isoffical": true,
+    "link": "/album/Nhung-Bai-Hat-Hay-Nhat-Cua-Hoang-Thuy-Linh-Hoang-Thuy-Linh/ZOZ9678O.html",
+    "isIndie": false,
+    "releaseDate": "",
+    "sortDescription": "'See Tình' và series Hit tạo nên thương hiệu",
+    "releasedAt": 0,
+    "genreIds": [
+      "IWZ9Z08I",
+      "IWZ97FCD"
+    ],
+    "PR": false,
+    "artists": [
+      {
+        "id": "IWZ9ZZB6",
+        "name": "Hoàng Thùy Linh",
+        "link": "/Hoang-Thuy-Linh",
+        "spotlight": false,
+        "alias": "Hoang-Thuy-Linh",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+        "isOA": true,
+        "isOABrand": false,
+        "playlistId": "ZOZ9678O",
+        "totalFollow": 133409
+      }
+    ],
+    "artistsNames": "Hoàng Thùy Linh",
+    "playItemMode": 0,
+    "subType": 20,
+    "uid": 256,
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/5/2/6/8/5268ca89ac8eece34a05285999c7903d.jpg",
+    "isShuffle": true,
+    "isPrivate": false,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "distributor": "",
+    "description": "'See Tình' và series Hit tạo nên thương hiệu",
+    "aliasTitle": "Nhung-Bai-Hat-Hay-Nhat-Cua-Hoang-Thuy-Linh-Hoang-Thuy-Linh",
+    "sectionId": "album",
+    "contentLastUpdate": 1677593960,
+    "artist": {
+      "id": "IWZ9ZZB6",
+      "name": "Hoàng Thùy Linh",
+      "link": "/nghe-si/Hoang-Thuy-Linh",
+      "spotlight": false,
+      "alias": "Hoang-Thuy-Linh",
+      "playlistId": "ZOZ9678O",
+      "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/a/7/0/b/a70b5dfde01b33839b8d4eafcee6edf9.jpg",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg"
+    },
+    "genres": [
+      {
+        "id": "IWZ9Z08I",
+        "name": "Việt Nam",
+        "title": "Việt Nam",
+        "alias": "viet-nam",
+        "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html"
+      },
+      {
+        "id": "IWZ97FCD",
+        "name": "V-Pop",
+        "title": "V-Pop",
+        "alias": "v-pop",
+        "link": "/the-loai-album/V-Pop/IWZ97FCD.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "ZZZBIW69",
+          "title": "See Tình",
+          "alias": "See-Tinh-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/See-Tinh-Hoang-Thuy-Linh/ZZZBIW69.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 185,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1645362000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZFWDA8B",
+          "title": "Bo Xì Bo",
+          "alias": "Bo-Xi-Bo-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Bo-Xi-Bo-Hoang-Thuy-Linh/ZZFWDA8B.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 172,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1660197600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZ060D0C",
+          "title": "Gieo Quẻ",
+          "alias": "Gieo-Que-Hoang-Thuy-Linh-Den",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Đen",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IWZ99B0B",
+              "name": "Đen",
+              "link": "/nghe-si/Den",
+              "spotlight": false,
+              "alias": "Den",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/2/2/90223f08b220e52a78ac5c0dd739256f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/2/2/90223f08b220e52a78ac5c0dd739256f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W7BEI"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Gieo-Que-Hoang-Thuy-Linh-Den/ZZ060D0C.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 199,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1641042000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD",
+            "IWZ98I0D"
+          ],
+          "album": {
+            "encodeId": "69F880FI",
+            "title": "Gieo Quẻ (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/6/4/c/464c5aca0d54cc5712b79cf656ffc967.jpg",
+            "isoffical": true,
+            "link": "/album/Gieo-Que-Single-Hoang-Thuy-Linh-Den/69F880FI.html",
+            "isIndie": false,
+            "releaseDate": "01/01/2022",
+            "sortDescription": "",
+            "releasedAt": 1640970000000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              },
+              {
+                "id": "IWZ99B0B",
+                "name": "Đen",
+                "link": "/nghe-si/Den",
+                "spotlight": false,
+                "alias": "Den",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/0/2/2/90223f08b220e52a78ac5c0dd739256f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/0/2/2/90223f08b220e52a78ac5c0dd739256f.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6B7W7BEI",
+                "totalFollow": 509810
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh, Đen"
+          },
+          "indicators": [],
+          "radioId": 1490032773,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZFWDA8D",
+          "title": "Hạ Phỏm",
+          "alias": "Ha-Phom-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Ha-Phom-Hoang-Thuy-Linh/ZZFWDA8D.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 196,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1660197600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8O0Z",
+          "title": "Để Mị Nói Cho Mà Nghe",
+          "alias": "De-Mi-Noi-Cho-Ma-Nghe-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/De-Mi-Noi-Cho-Ma-Nghe-Hoang-Thuy-Linh/ZWBO8O0Z.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 193,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1561294800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAECA",
+            "title": "Để Mị Nói Cho Mà Nghe",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/c/4/6/1c4628cbb1072f9ac1e2eb6011555790.jpg",
+            "isoffical": true,
+            "link": "/album/De-Mi-Noi-Cho-Ma-Nghe-Hoang-Thuy-Linh/60EWAECA.html",
+            "isIndie": false,
+            "releaseDate": "23/06/2019",
+            "sortDescription": "",
+            "releasedAt": 1561222800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321493722,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8OOO",
+          "title": "Kẻ Cắp Gặp Bà Già",
+          "alias": "Ke-Cap-Gap-Ba-Gia-Hoang-Thuy-Linh-Binz",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Binz",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IWZ96FEI",
+              "name": "Binz",
+              "link": "/Binz",
+              "spotlight": false,
+              "alias": "Binz",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/8/9/1/4891c7eef87e3ac85a50a2fba2674f5a.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZBECI6"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/Ke-Cap-Gap-Ba-Gia-Hoang-Thuy-Linh-Binz/ZWBO8OOO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 231,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1571576400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAFI6",
+            "title": "Hoàng",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+            "isoffical": true,
+            "link": "/album/Hoang-Hoang-Thuy-Linh/60EWAFI6.html",
+            "isIndie": false,
+            "releaseDate": "20/10/2019",
+            "sortDescription": "",
+            "releasedAt": 1571504400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321680045,
+          "isIndie": false,
+          "mvlink": "/video-clip/Ke-Cap-Gap-Ba-Gia-Hoang-Thuy-Linh-Binz/ZWBO8OOO.html",
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8OO0",
+          "title": "Em Đây Chẳng Phải Thúy Kiều",
+          "alias": "Em-Day-Chang-Phai-Thuy-Kieu-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/Em-Day-Chang-Phai-Thuy-Kieu-Hoang-Thuy-Linh/ZWBO8OO0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 214,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1571576400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAFI6",
+            "title": "Hoàng",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+            "isoffical": true,
+            "link": "/album/Hoang-Hoang-Thuy-Linh/60EWAFI6.html",
+            "isIndie": false,
+            "releaseDate": "20/10/2019",
+            "sortDescription": "",
+            "releasedAt": 1571504400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321680048,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8OWF",
+          "title": "Duyên Âm",
+          "alias": "Duyen-Am-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/Duyen-Am-Hoang-Thuy-Linh/ZWBO8OWF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 179,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1571576400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAFI6",
+            "title": "Hoàng",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+            "isoffical": true,
+            "link": "/album/Hoang-Hoang-Thuy-Linh/60EWAFI6.html",
+            "isIndie": false,
+            "releaseDate": "20/10/2019",
+            "sortDescription": "",
+            "releasedAt": 1571504400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321680049,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZFWDA8A",
+          "title": "không một bài hát nào có thể diễn tả cảm xúc của em lúc này.",
+          "alias": "khong-mot-bai-hat-nao-co-the-dien-ta-cam-xuc-cua-em-luc-nay-Hoang-Thuy-Linh-Thanh-Bui",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Thanh Bùi",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IWZ9609I",
+              "name": "Thanh Bùi",
+              "link": "/Thanh-Bui",
+              "spotlight": false,
+              "alias": "Thanh-Bui",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/d/4d44f915b1f0bfcb65a8edb951f74e2f_1456905133.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/d/4d44f915b1f0bfcb65a8edb951f74e2f_1456905133.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZA77IC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/khong-mot-bai-hat-nao-co-the-dien-ta-cam-xuc-cua-em-luc-nay-Hoang-Thuy-Linh-Thanh-Bui/ZZFWDA8A.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 241,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1660197600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8O08",
+          "title": "Tứ Phủ",
+          "alias": "Tu-Phu-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/Tu-Phu-Hoang-Thuy-Linh/ZWBO8O08.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 264,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1565269200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAECD",
+            "title": "Tứ Phủ",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/8/9/9/b899b049c6e380a84e82c60733366030.jpg",
+            "isoffical": true,
+            "link": "/album/Tu-Phu-Hoang-Thuy-Linh/60EWAECD.html",
+            "isIndie": false,
+            "releaseDate": "08/08/2019",
+            "sortDescription": "",
+            "releasedAt": 1565197200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321680082,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8OOI",
+          "title": "Lắm Mối Tối Ngồi Không",
+          "alias": "Lam-Moi-Toi-Ngoi-Khong-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/Lam-Moi-Toi-Ngoi-Khong-Hoang-Thuy-Linh/ZWBO8OOI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 194,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1571576400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAFI6",
+            "title": "Hoàng",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+            "isoffical": true,
+            "link": "/album/Hoang-Hoang-Thuy-Linh/60EWAFI6.html",
+            "isIndie": false,
+            "releaseDate": "20/10/2019",
+            "sortDescription": "",
+            "releasedAt": 1571504400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321680047,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7UFIWZ",
+          "title": "Bánh trôi nước",
+          "alias": "Banh-troi-nuoc-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/5/5/4/d5544c1f95afbb5d0cbfe26a9c7d53b6.jpg",
+          "link": "/bai-hat/Banh-troi-nuoc-Hoang-Thuy-Linh/ZW7UFIWZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/5/5/4/d5544c1f95afbb5d0cbfe26a9c7d53b6.jpg",
+          "duration": 267,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1646092800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOUO9FFD",
+            "title": "SIX",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/d/c/dcbdfd74dbc950128110851f2a8689c2_1475232278.jpg",
+            "isoffical": true,
+            "link": "/album/SIX-Hoang-Thuy-Linh-Triple-D-3D/ZOUO9FFD.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "Các ca khúc của #team06 trong cuộc thi The Remix",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0CW"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              },
+              {
+                "id": "IWZ98A8O",
+                "name": "Triple D (3D)",
+                "link": "/nghe-si/Triple-D-3D",
+                "spotlight": false,
+                "alias": "Triple-D-3D",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/777a18a227d8eaca36a1c997bee007ba_1426561598.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/777a18a227d8eaca36a1c997bee007ba_1426561598.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UW9A09D",
+                "totalFollow": 6338
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh, Triple D (3D)"
+          },
+          "indicators": [],
+          "radioId": 1285222856,
+          "isIndie": false,
+          "mvlink": "/video-clip/Banh-troi-nuoc-Hoang-Thuy-Linh/ZW7UFIWZ.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6WC8E6",
+          "title": "Rơi",
+          "alias": "Roi-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/0/8/08a940441661fcbee0056ffc5b3620d0_1350268366.jpg",
+          "link": "/bai-hat/Roi-Hoang-Thuy-Linh/ZW6WC8E6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/0/8/08a940441661fcbee0056ffc5b3620d0_1350268366.jpg",
+          "duration": 232,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1325350800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZAUDW8",
+            "title": "Mini Album 2012",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/0/8/08a940441661fcbee0056ffc5b3620d0_1350268366.jpg",
+            "isoffical": true,
+            "link": "/album/Mini-Album-2012-Hoang-Thuy-Linh/ZWZAUDW8.html",
+            "isIndie": false,
+            "releaseDate": "2012",
+            "sortDescription": "Năm bài hát trong album thuộc về năm thể loại âm nhạc khác nhau bao gồm Chill out, Acoustic, Alternative Rock, Jazz kết hợp Hip hop và RnB kết hợp với dàn dây. Thông qua đây, Hoàng Thùy Linh cũng muốn chứng tỏ cho người yêu nhạc và những nhà chuyên môn hiểu rằng, việc cô chọn hát nhạc giải trí không đồng nghĩa với việc ở những thể loại khác tôi không thể làm được. \r\n\r\n“Tôi muốn lắng lại. Sự thay đổi này không phải vì tôi đã chán những cái mình đã làm trước đó, mà chỉ đơn thuần là muốn dung hòa những gì mình đang theo đuổi. Là nghệ sĩ ai cũng cần khán giả nhưng tôi cũng hy vọng những người trong nghề công nhận sức lao động của mình. Bản thân tôi cũng hiểu rõ một người nghệ sĩ phải làm gì đó để người khác cảm nhận được âm nhạc của mình rất văn minh”, Hoàng Thùy Linh chia sẻ.\r\n\r\nNữ ca sĩ 24 tuổi không nhắc lại quá khứ, cô không muốn sử dụng thứ bàn đạp cũ kỹ để đẩy album đến gần hơn với khán giả. Cô muốn công chúng nhìn vào những gì cô đã và đang làm, con đường cô đang muốn bước tiếp. Hoàng Thùy Linh nói: “Tôi muốn khi người khác nhắc đến cái tên Hoàng Thùy Linh, họ đều tôn trọng”.",
+            "releasedAt": 1356886800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1283105572,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZFWDA8C",
+          "title": "Trưởng Nữ Chạy Trốn",
+          "alias": "Truong-Nu-Chay-Tron-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Truong-Nu-Chay-Tron-Hoang-Thuy-Linh/ZZFWDA8C.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 195,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1660197600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZFWDA88",
+          "title": "Lúc Thấy Lúc Không",
+          "alias": "Luc-Thay-Luc-Khong-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Luc-Thay-Luc-Khong-Hoang-Thuy-Linh/ZZFWDA88.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 173,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1660197600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWEE0EZ",
+          "title": "Khi Tình Yêu Đủ Lớn",
+          "alias": "Khi-Tinh-Yeu-Du-Lon-Hoang-Thuy-Linh-Rtee",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Rtee",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IWZAWZOU",
+              "name": "Rtee",
+              "link": "/Rtee-Rap",
+              "spotlight": false,
+              "alias": "Rtee-Rap",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/5/2/a/352af7b2f2aea408a3dea84fe60f876e.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/5/2/a/352af7b2f2aea408a3dea84fe60f876e.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODEA67E"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/c/d/0/4cd04d078bee3663fc16e366d3b980b4.jpg",
+          "link": "/bai-hat/Khi-Tinh-Yeu-Du-Lon-Hoang-Thuy-Linh-Rtee/ZOWEE0EZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/c/d/0/4cd04d078bee3663fc16e366d3b980b4.jpg",
+          "duration": 263,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607605200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6Z797W8Z",
+            "title": "Khi Tình Yêu Đủ Lớn",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/4/c/d/0/4cd04d078bee3663fc16e366d3b980b4.jpg",
+            "isoffical": true,
+            "link": "/album/Khi-Tinh-Yeu-Du-Lon-Hoang-Thuy-Linh-Rtee/6Z797W8Z.html",
+            "isIndie": false,
+            "releaseDate": "10/12/2020",
+            "sortDescription": "",
+            "releasedAt": 1607533200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              },
+              {
+                "id": "IWZAWZOU",
+                "name": "Rtee",
+                "link": "/Rtee-Rap",
+                "spotlight": false,
+                "alias": "Rtee-Rap",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/5/2/a/352af7b2f2aea408a3dea84fe60f876e.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/5/2/a/352af7b2f2aea408a3dea84fe60f876e.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZODEA67E",
+                "totalFollow": 20313
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh, Rtee"
+          },
+          "indicators": [],
+          "radioId": 1394947591,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZFWDA89",
+          "title": "Bắt Vía",
+          "alias": "Bat-Via-Hoang-Thuy-Linh-Wren-Evans-Mew-Amazing",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Wren Evans, Mew Amazing",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IW6BCICZ",
+              "name": "Wren Evans",
+              "link": "/Wren-Evans-IW6BCICZ",
+              "spotlight": false,
+              "alias": "Wren-Evans-IW6BCICZ",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/0/4/b/d04baf3f95ebb309204527e1342b7c85.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/0/4/b/d04baf3f95ebb309204527e1342b7c85.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "68BZI9C7"
+            },
+            {
+              "id": "IWZ9E99D",
+              "name": "Mew Amazing",
+              "link": "/nghe-si/Mew-Amazing",
+              "spotlight": false,
+              "alias": "Mew-Amazing",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/9/2/f/c92f34b9ebe3579063cdbb82b64d7ee4.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/9/2/f/c92f34b9ebe3579063cdbb82b64d7ee4.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOBWDWIB"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Bat-Via-Hoang-Thuy-Linh-Wren-Evans-Mew-Amazing/ZZFWDA89.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 204,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1660197600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BUFWEZD",
+            "title": "LINK",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+            "isoffical": true,
+            "link": "/album/LINK-Hoang-Thuy-Linh/6BUFWEZD.html",
+            "isIndie": false,
+            "releaseDate": "11/08/2022",
+            "sortDescription": "",
+            "releasedAt": 1660150800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW78WZ9O",
+          "title": "I'm Gonna Break",
+          "alias": "I-m-Gonna-Break-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/5/5/4/d5544c1f95afbb5d0cbfe26a9c7d53b6.jpg",
+          "link": "/bai-hat/I-m-Gonna-Break-Hoang-Thuy-Linh/ZW78WZ9O.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/5/5/4/d5544c1f95afbb5d0cbfe26a9c7d53b6.jpg",
+          "duration": 265,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1646092800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOUO9FFD",
+            "title": "SIX",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/d/c/dcbdfd74dbc950128110851f2a8689c2_1475232278.jpg",
+            "isoffical": true,
+            "link": "/album/SIX-Hoang-Thuy-Linh-Triple-D-3D/ZOUO9FFD.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "Các ca khúc của #team06 trong cuộc thi The Remix",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0CW"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              },
+              {
+                "id": "IWZ98A8O",
+                "name": "Triple D (3D)",
+                "link": "/nghe-si/Triple-D-3D",
+                "spotlight": false,
+                "alias": "Triple-D-3D",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/7/777a18a227d8eaca36a1c997bee007ba_1426561598.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/7/777a18a227d8eaca36a1c997bee007ba_1426561598.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UW9A09D",
+                "totalFollow": 6338
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh, Triple D (3D)"
+          },
+          "indicators": [],
+          "radioId": 1285235586,
+          "isIndie": false,
+          "streamingStatus": 2,
+          "streamPrivileges": [
+            2
+          ],
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZCOFWFF",
+          "title": "Đánh Đố",
+          "alias": "Danh-Do-Hoang-Thuy-Linh-Thanh-Lam-Tung-Duong",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Thanh Lam, Tùng Dương",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IWZ9ZIFZ",
+              "name": "Thanh Lam",
+              "link": "/nghe-si/Thanh-Lam",
+              "spotlight": false,
+              "alias": "Thanh-Lam",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/5/758d440b5698fff7ed4b4513ff149951_1514360442.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/5/758d440b5698fff7ed4b4513ff149951_1514360442.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZOEU8CI8"
+            },
+            {
+              "id": "IWZ9Z8ZC",
+              "name": "Tùng Dương",
+              "link": "/nghe-si/Tung-Duong",
+              "spotlight": false,
+              "alias": "Tung-Duong",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/e/0e8c2af877aeb63d90cc1224ca1b30cb_1510800534.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/e/0e8c2af877aeb63d90cc1224ca1b30cb_1510800534.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "ZO697D0Z"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "link": "/bai-hat/Danh-Do-Hoang-Thuy-Linh-Thanh-Lam-Tung-Duong/ZZCOFWFF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/5/1/a/051a297c016cf26e33c9b48f45d0977d.jpg",
+          "duration": 268,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1654092000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BO89O7Z",
+            "title": "Đánh Đố (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/2/6/0/f26015aa3a8f3fed50e971c6504e93b8.jpg",
+            "isoffical": true,
+            "link": "/album/Danh-Do-Single-Hoang-Thuy-Linh-Thanh-Lam-Tung-Duong/6BO89O7Z.html",
+            "isIndie": false,
+            "releaseDate": "01/06/2022",
+            "sortDescription": "",
+            "releasedAt": 1654016400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              },
+              {
+                "id": "IWZ9ZIFZ",
+                "name": "Thanh Lam",
+                "link": "/nghe-si/Thanh-Lam",
+                "spotlight": false,
+                "alias": "Thanh-Lam",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/5/758d440b5698fff7ed4b4513ff149951_1514360442.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/5/758d440b5698fff7ed4b4513ff149951_1514360442.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZOEU8CI8",
+                "totalFollow": 51566
+              },
+              {
+                "id": "IWZ9Z8ZC",
+                "name": "Tùng Dương",
+                "link": "/nghe-si/Tung-Duong",
+                "spotlight": false,
+                "alias": "Tung-Duong",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/0/e/0e8c2af877aeb63d90cc1224ca1b30cb_1510800534.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/0/e/0e8c2af877aeb63d90cc1224ca1b30cb_1510800534.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "ZO697D0Z",
+                "totalFollow": 6501
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh, Thanh Lam, Tùng Dương"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBO8OOW",
+          "title": "Kẽo Cà Kẽo Kẹt",
+          "alias": "Keo-Ca-Keo-Ket-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "link": "/bai-hat/Keo-Ca-Keo-Ket-Hoang-Thuy-Linh/ZWBO8OOW.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+          "duration": 195,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1571576400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60EWAFI6",
+            "title": "Hoàng",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/1/1/e/4/11e4291c81072da4d521c2e74dfab3a2.jpg",
+            "isoffical": true,
+            "link": "/album/Hoang-Hoang-Thuy-Linh/60EWAFI6.html",
+            "isIndie": false,
+            "releaseDate": "20/10/2019",
+            "sortDescription": "",
+            "releasedAt": 1571504400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1321680046,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW698FZ6",
+          "title": "High",
+          "alias": "High-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/5/0/1/f50187fd6c8d52a114dc9f9c4541a9d9.jpg",
+          "link": "/bai-hat/High-Hoang-Thuy-Linh/ZW698FZ6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/5/0/1/f50187fd6c8d52a114dc9f9c4541a9d9.jpg",
+          "duration": 272,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1356973200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZBBEF0",
+            "title": "Just You",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/1/7/175ea13daa3a84d0980b97d37695b35d_1422863510.jpg",
+            "isoffical": true,
+            "link": "/album/Just-You-Hoang-Thuy-Linh/ZWZBBEF0.html",
+            "isIndie": false,
+            "releaseDate": "2015",
+            "sortDescription": "",
+            "releasedAt": 1451494800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0CW"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1283741336,
+          "isIndie": false,
+          "mvlink": "/video-clip/High-Hoang-Thuy-Linh/ZW698FZ6.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9EWCB8",
+          "title": "Fall in Love",
+          "alias": "Fall-in-Love-Hoang-Thuy-Linh-Kimmese",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh, Kimmese",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            },
+            {
+              "id": "IWZ9ZC8U",
+              "name": "Kimmese",
+              "link": "/Kimmese",
+              "spotlight": false,
+              "alias": "Kimmese",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/2/62bf1edb36141f114521ec4bb4175579_1513753905.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/2/62bf1edb36141f114521ec4bb4175579_1513753905.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODEA6I0"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/b/2/0/4b20a137278c4884f7fbee854596024b.jpg",
+          "link": "/bai-hat/Fall-in-Love-Hoang-Thuy-Linh-Kimmese/ZW9EWCB8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/b/2/0/4b20a137278c4884f7fbee854596024b.jpg",
+          "duration": 306,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1646308800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOEEE0OF",
+            "title": "Fall In Love (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/7/0/0/270046cee2a5e6b13bda35660be3881e.jpg",
+            "isoffical": true,
+            "link": "/album/Fall-In-Love-Single-Hoang-Thuy-Linh-Kimmese/ZOEEE0OF.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0CW"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              },
+              {
+                "id": "IWZ9ZC8U",
+                "name": "Kimmese",
+                "link": "/Kimmese",
+                "spotlight": false,
+                "alias": "Kimmese",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/6/2/62bf1edb36141f114521ec4bb4175579_1513753905.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/6/2/62bf1edb36141f114521ec4bb4175579_1513753905.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZODEA6I0",
+                "totalFollow": 35369
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh, Kimmese"
+          },
+          "indicators": [],
+          "radioId": 1285954891,
+          "isIndie": false,
+          "mvlink": "/video-clip/Fall-in-Love-Hoang-Thuy-Linh-Kimmese/ZW9EWCB8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW698FZU",
+          "title": "Crazy",
+          "alias": "Crazy-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/f/d/fd106ea0bdafa62751a66706b3a27040_1386518756.jpg",
+          "link": "/bai-hat/Crazy-Hoang-Thuy-Linh/ZW698FZU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/f/d/fd106ea0bdafa62751a66706b3a27040_1386518756.jpg",
+          "duration": 251,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1356973200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0CW"
+          ],
+          "album": {
+            "encodeId": "ZWZB0FED",
+            "title": "Hoàng Thùy Linh 2013 (EP)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/f/d/fd106ea0bdafa62751a66706b3a27040_1386518756.jpg",
+            "isoffical": true,
+            "link": "/album/Hoang-Thuy-Linh-2013-EP-Hoang-Thuy-Linh/ZWZB0FED.html",
+            "isIndie": false,
+            "releaseDate": "2013",
+            "sortDescription": "",
+            "releasedAt": 1388422800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0CW"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1283741333,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZBF9A8",
+          "title": "Ngày Không Anh",
+          "alias": "Ngay-Khong-Anh-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/d/f/df1c374b309315d4c138b5b6cbe8408f_1305774310.jpg",
+          "link": "/bai-hat/Ngay-Khong-Anh-Hoang-Thuy-Linh/ZWZBF9A8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/d/f/df1c374b309315d4c138b5b6cbe8408f_1305774310.jpg",
+          "duration": 214,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1293814800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "indicators": [],
+          "radioId": 1282660981,
+          "isIndie": false,
+          "mvlink": "/video-clip/Ngay-Khong-Anh-Hoang-Thuy-Linh/ZWZBF9A8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ968OA",
+          "title": "Cho Nhau Lối Đi Riêng",
+          "alias": "Cho-Nhau-Loi-Di-Rieng-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/0/2/4/0/0240766b61da0554a7229e553f63cd1a.jpg",
+          "link": "/bai-hat/Cho-Nhau-Loi-Di-Rieng-Hoang-Thuy-Linh/ZWZ968OA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/0/2/4/0/0240766b61da0554a7229e553f63cd1a.jpg",
+          "duration": 223,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1262278800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZ9ZW9F",
+            "title": "Nhịp Đập Giấc Mơ",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+            "isoffical": true,
+            "link": "/album/Nhip-Dap-Giac-Mo-Hoang-Thuy-Linh/ZWZ9ZW9F.html",
+            "isIndie": false,
+            "releaseDate": "30/03/2010",
+            "sortDescription": "Album\r\nđầu tay chính thức của diễn viên - ca sĩ Hoàng Thùy Linh. Mang đậm màu sắc\r\nPop-Dance, album đánh dấu sự trưởng thành rất lớn của cô trong sự nghiệp cũng\r\nnhư tư duy về âm nhạc.",
+            "releasedAt": 1269882000000,
+            "genreIds": [
+              "IWZ9Z08I"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1282268795,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZBEU0O",
+          "title": "Đừng Vội Vàng",
+          "alias": "Dung-Voi-Vang-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/d/f/df1c374b309315d4c138b5b6cbe8408f_1305774310.jpg",
+          "link": "/bai-hat/Dung-Voi-Vang-Hoang-Thuy-Linh/ZWZBEU0O.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/d/f/df1c374b309315d4c138b5b6cbe8408f_1305774310.jpg",
+          "duration": 257,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1293814800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "indicators": [],
+          "radioId": 1282655499,
+          "isIndie": false,
+          "mvlink": "/video-clip/Dung-Voi-Vang-Hoang-Thuy-Linh/ZWZBEU0O.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ968OO",
+          "title": "Rung Động",
+          "alias": "Rung-Dong-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+          "link": "/bai-hat/Rung-Dong-Hoang-Thuy-Linh/ZWZ968OO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+          "duration": 211,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1262278800,
+          "genreIds": [
+            "IWZ9Z088",
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZ9ZW9F",
+            "title": "Nhịp Đập Giấc Mơ",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+            "isoffical": true,
+            "link": "/album/Nhip-Dap-Giac-Mo-Hoang-Thuy-Linh/ZWZ9ZW9F.html",
+            "isIndie": false,
+            "releaseDate": "30/03/2010",
+            "sortDescription": "Album\r\nđầu tay chính thức của diễn viên - ca sĩ Hoàng Thùy Linh. Mang đậm màu sắc\r\nPop-Dance, album đánh dấu sự trưởng thành rất lớn của cô trong sự nghiệp cũng\r\nnhư tư duy về âm nhạc.",
+            "releasedAt": 1269882000000,
+            "genreIds": [
+              "IWZ9Z08I"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1282268787,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWZ968O0",
+          "title": "Nhịp Đập Giấc Mơ",
+          "alias": "Nhip-Dap-Giac-Mo-Hoang-Thuy-Linh",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hoàng Thùy Linh",
+          "artists": [
+            {
+              "id": "IWZ9ZZB6",
+              "name": "Hoàng Thùy Linh",
+              "link": "/Hoang-Thuy-Linh",
+              "spotlight": false,
+              "alias": "Hoang-Thuy-Linh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ9678O"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+          "link": "/bai-hat/Nhip-Dap-Giac-Mo-Hoang-Thuy-Linh/ZWZ968O0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+          "duration": 244,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1262278800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZ9ZW9F",
+            "title": "Nhịp Đập Giấc Mơ",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/e/0/e046bafdfb0c2ceed86ba9ae68426c41_1286042994.jpg",
+            "isoffical": true,
+            "link": "/album/Nhip-Dap-Giac-Mo-Hoang-Thuy-Linh/ZWZ9ZW9F.html",
+            "isIndie": false,
+            "releaseDate": "30/03/2010",
+            "sortDescription": "Album\r\nđầu tay chính thức của diễn viên - ca sĩ Hoàng Thùy Linh. Mang đậm màu sắc\r\nPop-Dance, album đánh dấu sự trưởng thành rất lớn của cô trong sự nghiệp cũng\r\nnhư tư duy về âm nhạc.",
+            "releasedAt": 1269882000000,
+            "genreIds": [
+              "IWZ9Z08I"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9ZZB6",
+                "name": "Hoàng Thùy Linh",
+                "link": "/Hoang-Thuy-Linh",
+                "spotlight": false,
+                "alias": "Hoang-Thuy-Linh",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/4/1/1741879554929eba1c94675a71a6baea.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ9678O",
+                "totalFollow": 133409
+              }
+            ],
+            "artistsNames": "Hoàng Thùy Linh"
+          },
+          "indicators": [],
+          "radioId": 1282268784,
+          "isIndie": false,
+          "mvlink": "/video-clip/Nhip-Dap-Giac-Mo-Hoang-Thuy-Linh/ZWZ968O0.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        }
+      ],
+      "total": 28,
+      "totalDuration": 6308
+    },
+    "like": 18847,
+    "listen": 0,
+    "liked": false
+  },
+  "timestamp": 1679227311984
+}

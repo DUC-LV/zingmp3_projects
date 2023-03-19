@@ -1,0 +1,1239 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZWZCU80C",
+    "title": "Những Bài Hát Hay Nhất Của Hòa Minzy",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/a/e/9/aae98c264c71d089e2c2d9f01112aee7.jpg",
+    "isoffical": true,
+    "link": "/album/Nhung-Bai-Hat-Hay-Nhat-Cua-Hoa-Minzy-Hoa-Minzy/ZWZCU80C.html",
+    "isIndie": false,
+    "releaseDate": "",
+    "sortDescription": "'Thị Mầu' Hòa Minzy và những bản Hit đỉnh nhất",
+    "releasedAt": 0,
+    "genreIds": [
+      "IWZ9Z08I",
+      "IWZ97FCD"
+    ],
+    "PR": false,
+    "artists": [
+      {
+        "id": "IWZ9DDFI",
+        "name": "Hòa Minzy",
+        "link": "/Hoa-Minzy",
+        "spotlight": true,
+        "alias": "Hoa-Minzy",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+        "isOA": true,
+        "isOABrand": false,
+        "playlistId": "ZWZCU80C",
+        "totalFollow": 250883
+      }
+    ],
+    "artistsNames": "Hòa Minzy",
+    "playItemMode": 0,
+    "subType": 20,
+    "uid": 0,
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/cover/a/a/e/9/aae98c264c71d089e2c2d9f01112aee7.jpg",
+    "isShuffle": true,
+    "isPrivate": false,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "distributor": "",
+    "description": "'Thị Mầu' Hòa Minzy và những bản Hit đỉnh nhất",
+    "aliasTitle": "Nhung-Bai-Hat-Hay-Nhat-Cua-Hoa-Minzy-Hoa-Minzy",
+    "sectionId": "album",
+    "contentLastUpdate": 1678017773,
+    "artist": {
+      "id": "IWZ9DDFI",
+      "name": "Hòa Minzy",
+      "link": "/nghe-si/Hoa-Minzy",
+      "spotlight": true,
+      "alias": "Hoa-Minzy",
+      "playlistId": "ZWZCU80C",
+      "cover": "https://zmp3-static.zmdcdn.me/skins/zmp3-v5.2/images/default_cover.png",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg"
+    },
+    "genres": [
+      {
+        "id": "IWZ9Z08I",
+        "name": "Việt Nam",
+        "title": "Việt Nam",
+        "alias": "viet-nam",
+        "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html"
+      },
+      {
+        "id": "IWZ97FCD",
+        "name": "V-Pop",
+        "title": "V-Pop",
+        "alias": "v-pop",
+        "link": "/the-loai-album/V-Pop/IWZ97FCD.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "Z67AIAIE",
+          "title": "Thị Mầu",
+          "alias": "Thi-Mau-Hoa-Minzy-Masew",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy, Masew",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            },
+            {
+              "id": "IWZFD77I",
+              "name": "Masew",
+              "link": "/Masew",
+              "spotlight": false,
+              "alias": "Masew",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO697IEW"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/b/5/7/5b57e6c61848cfed2fa19cd31b293898.jpg",
+          "link": "/bai-hat/Thi-Mau-Hoa-Minzy-Masew/Z67AIAIE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/b/5/7/5b57e6c61848cfed2fa19cd31b293898.jpg",
+          "duration": 205,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1678017600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B9IBC9E",
+            "title": "Thị Mầu (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/b/5/7/5b57e6c61848cfed2fa19cd31b293898.jpg",
+            "isoffical": true,
+            "link": "/album/Thi-Mau-Single-Hoa-Minzy-Masew/6B9IBC9E.html",
+            "isIndie": false,
+            "releaseDate": "05/03/2023",
+            "sortDescription": "",
+            "releasedAt": 1678017600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCE"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              },
+              {
+                "id": "IWZFD77I",
+                "name": "Masew",
+                "link": "/Masew",
+                "spotlight": false,
+                "alias": "Masew",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO697IEW",
+                "totalFollow": 403711
+              }
+            ],
+            "artistsNames": "Hòa Minzy, Masew"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6708WAZ",
+          "title": "Bật Tình Yêu Lên",
+          "alias": "Bat-Tinh-Yeu-Len-Tang-Duy-Tan-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Tăng Duy Tân, Hòa Minzy",
+          "artists": [
+            {
+              "id": "IW6W8FO8",
+              "name": "Tăng Duy Tân",
+              "link": "/Tang-Duy-Tan",
+              "spotlight": false,
+              "alias": "Tang-Duy-Tan",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/d/d/a/ddda5f9fec1f2ef6c499831661727263.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/d/d/a/ddda5f9fec1f2ef6c499831661727263.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6UW9B9UA"
+            },
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/d/5/c/2d5cc8bc9f930ce292c464e929ea31fb.jpg",
+          "link": "/bai-hat/Bat-Tinh-Yeu-Len-Tang-Duy-Tan-Hoa-Minzy/Z6708WAZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/d/5/c/2d5cc8bc9f930ce292c464e929ea31fb.jpg",
+          "duration": 204,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1676358120,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B8C80U7",
+            "title": "Bật Tình Yêu Lên (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/d/5/c/2d5cc8bc9f930ce292c464e929ea31fb.jpg",
+            "isoffical": true,
+            "link": "/album/Bat-Tinh-Yeu-Len-Single-Tang-Duy-Tan-Hoa-Minzy/6B8C80U7.html",
+            "isIndie": false,
+            "releaseDate": "14/02/2023",
+            "sortDescription": "",
+            "releasedAt": 1676358120000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6W8FO8",
+                "name": "Tăng Duy Tân",
+                "link": "/Tang-Duy-Tan",
+                "spotlight": false,
+                "alias": "Tang-Duy-Tan",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/d/d/a/ddda5f9fec1f2ef6c499831661727263.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/d/d/a/ddda5f9fec1f2ef6c499831661727263.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9B9UA",
+                "totalFollow": 48721
+              },
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Tăng Duy Tân, Hòa Minzy"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBOU8OF",
+          "title": "Không Thể Cùng Nhau Suốt Kiếp",
+          "alias": "Khong-The-Cung-Nhau-Suot-Kiep-Hoa-Minzy-Mr-Siro",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy, Mr. Siro",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            },
+            {
+              "id": "IWZ98609",
+              "name": "Mr. Siro",
+              "link": "/Mr-Siro",
+              "spotlight": true,
+              "alias": "Mr-Siro",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/d/d/c/dddc859b6759898ee13efe2627230ec3.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/d/d/c/dddc859b6759898ee13efe2627230ec3.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZAEZZD"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/7/8/6/17861cfa5213a52daec2c556101fb421.jpg",
+          "link": "/bai-hat/Khong-The-Cung-Nhau-Suot-Kiep-Hoa-Minzy-Mr-Siro/ZWBOU8OF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/7/8/6/17861cfa5213a52daec2c556101fb421.jpg",
+          "duration": 301,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1589374800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "60BCZ88W",
+            "title": "Không Thể Cùng Nhau Suốt Kiếp (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/8/c/2/38c2f7382b41582ed1557bef7b7267ff.jpg",
+            "isoffical": true,
+            "link": "/album/Khong-The-Cung-Nhau-Suot-Kiep-Single-Hoa-Minzy-Mr-Siro/60BCZ88W.html",
+            "isIndie": false,
+            "releaseDate": "13/05/2020",
+            "sortDescription": "",
+            "releasedAt": 1589302800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              },
+              {
+                "id": "IWZ98609",
+                "name": "Mr. Siro",
+                "link": "/Mr-Siro",
+                "spotlight": true,
+                "alias": "Mr-Siro",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/d/d/c/dddc859b6759898ee13efe2627230ec3.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/d/d/c/dddc859b6759898ee13efe2627230ec3.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZAEZZD",
+                "totalFollow": 808007
+              }
+            ],
+            "artistsNames": "Hòa Minzy, Mr. Siro"
+          },
+          "indicators": [],
+          "radioId": 1321493791,
+          "isIndie": false,
+          "mvlink": "/video-clip/Khong-The-Cung-Nhau-Suot-Kiep-Hoa-Minzy-Mr-Siro/ZWBOU8OF.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9C0DOU",
+          "title": "Rời Bỏ",
+          "alias": "Roi-Bo-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/6/4/7/2647844cdbd9360beb32a6ca7da1ab7e.jpg",
+          "link": "/bai-hat/Roi-Bo-Hoa-Minzy/ZW9C0DOU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/6/4/7/2647844cdbd9360beb32a6ca7da1ab7e.jpg",
+          "duration": 277,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOCOZI6B",
+            "title": "Rời Bỏ (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/6/4/7/2647844cdbd9360beb32a6ca7da1ab7e.jpg",
+            "isoffical": true,
+            "link": "/album/Roi-Bo-Single-Hoa-Minzy/ZOCOZI6B.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285899687,
+          "isIndie": false,
+          "mvlink": "/video-clip/Roi-Bo-Hoa-Minzy/ZW9C0DOU.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9D0EAI",
+          "title": "Nàng Tiên Cá",
+          "alias": "Nang-Tien-Ca-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/2/a/2/1/2a21d9b651c229d343e7ee5503b18b2a.jpg",
+          "link": "/bai-hat/Nang-Tien-Ca-Hoa-Minzy/ZW9D0EAI.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/2/a/2/1/2a21d9b651c229d343e7ee5503b18b2a.jpg",
+          "duration": 212,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0CW"
+          ],
+          "album": {
+            "encodeId": "ZOD76DC0",
+            "title": "Nàng Tiên Cá (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/a/2/1/2a21d9b651c229d343e7ee5503b18b2a.jpg",
+            "isoffical": true,
+            "link": "/album/Nang-Tien-Ca-Single-Hoa-Minzy/ZOD76DC0.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0CW"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285924757,
+          "isIndie": false,
+          "mvlink": "/video-clip/Nang-Tien-Ca-Hoa-Minzy/ZW9D0EAI.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9BC87F",
+          "title": "Cứ Yêu Đi (100 Ngày Bên Em OST)",
+          "alias": "Cu-Yeu-Di-100-Ngay-Ben-Em-OST-Duc-Phuc-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Đức Phúc, Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZA66AO",
+              "name": "Đức Phúc",
+              "link": "/Duc-Phuc",
+              "spotlight": true,
+              "alias": "Duc-Phuc",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZAWCCO"
+            },
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/c/3/e/fc3eb0432274bd4718ece22c34aa6097.jpg",
+          "link": "/bai-hat/Cu-Yeu-Di-100-Ngay-Ben-Em-OST-Duc-Phuc-Hoa-Minzy/ZW9BC87F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/c/3/e/fc3eb0432274bd4718ece22c34aa6097.jpg",
+          "duration": 285,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0BA"
+          ],
+          "album": {
+            "encodeId": "ZOBFO69D",
+            "title": "Cứ Yêu Đi (100 Ngày Bên Em OST) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/c/3/e/fc3eb0432274bd4718ece22c34aa6097.jpg",
+            "isoffical": true,
+            "link": "/album/Cu-Yeu-Di-100-Ngay-Ben-Em-OST-Single-Duc-Phuc-Hoa-Minzy/ZOBFO69D.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZA66AO",
+                "name": "Đức Phúc",
+                "link": "/Duc-Phuc",
+                "spotlight": true,
+                "alias": "Duc-Phuc",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/b/7/b/4b7ba1fea4308c8822f00148bc4275c4.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZAWCCO",
+                "totalFollow": 412968
+              },
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Đức Phúc, Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285892324,
+          "isIndie": false,
+          "mvlink": "/video-clip/Cu-Yeu-Di-100-Ngay-Ben-Em-OST-Duc-Phuc-Hoa-Minzy/ZW9BC87F.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW9EAI76",
+          "title": "Chấp Nhận",
+          "alias": "Chap-Nhan-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/1/f/d/b1fd458008d15ffad79303adbb1a46c1.jpg",
+          "link": "/bai-hat/Chap-Nhan-Hoa-Minzy/ZW9EAI76.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/1/f/d/b1fd458008d15ffad79303adbb1a46c1.jpg",
+          "duration": 247,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZU006CDZ",
+            "title": "Chấp Nhận (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/b/1/f/d/b1fd458008d15ffad79303adbb1a46c1.jpg",
+            "isoffical": true,
+            "link": "/album/Chap-Nhan-Single-Hoa-Minzy/ZU006CDZ.html",
+            "isIndie": false,
+            "releaseDate": "2018",
+            "sortDescription": "",
+            "releasedAt": 1546189200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285976693,
+          "isIndie": false,
+          "mvlink": "/video-clip/Chap-Nhan-Hoa-Minzy/ZW9EAI76.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZUB7U9Z9",
+          "title": "Bi Hài",
+          "alias": "Bi-Hai-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/f/4/6/3f469184f0aaf6b83054b95e9c46e665.jpg",
+          "link": "/bai-hat/Bi-Hai-Hoa-Minzy/ZUB7U9Z9.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/f/4/6/3f469184f0aaf6b83054b95e9c46e665.jpg",
+          "duration": 317,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1636640400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "S99A809D",
+            "title": "Bi Hài (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/f/4/6/3f469184f0aaf6b83054b95e9c46e665.jpg",
+            "isoffical": true,
+            "link": "/album/Bi-Hai-Single-Hoa-Minzy/S99A809D.html",
+            "isIndie": false,
+            "releaseDate": "11/11/2021",
+            "sortDescription": "",
+            "releasedAt": 1636563600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1464697976,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW79FZD0",
+          "title": "Tìm Một Nửa Cô Đơn",
+          "alias": "Tim-Mot-Nua-Co-Don-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/9/5/953e544024c8d457262d29ced00973d1_1489391397.jpg",
+          "link": "/bai-hat/Tim-Mot-Nua-Co-Don-Hoa-Minzy/ZW79FZD0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/9/5/953e544024c8d457262d29ced00973d1_1489391397.jpg",
+          "duration": 320,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOZI7OBB",
+            "title": "Tìm Một Nửa Cô Đơn (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/9/5/953e544024c8d457262d29ced00973d1_1489391397.jpg",
+            "isoffical": true,
+            "link": "/album/Tim-Mot-Nua-Co-Don-Single-Hoa-Minzy/ZOZI7OBB.html",
+            "isIndie": false,
+            "releaseDate": "2017",
+            "sortDescription": "",
+            "releasedAt": 1514653200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285518528,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAD8Z8F",
+          "title": "Chỉ Là Tình Cờ",
+          "alias": "Chi-La-Tinh-Co-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/1/5/a/815a562b13c5f848325dd40f2a7be5b1.jpg",
+          "link": "/bai-hat/Chi-La-Tinh-Co-Hoa-Minzy/ZWAD8Z8F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/1/5/a/815a562b13c5f848325dd40f2a7be5b1.jpg",
+          "duration": 279,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZUDICWE9",
+            "title": "Chỉ Là Tình Cờ (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/1/5/a/815a562b13c5f848325dd40f2a7be5b1.jpg",
+            "isoffical": true,
+            "link": "/album/Chi-La-Tinh-Co-Single-Hoa-Minzy/ZUDICWE9.html",
+            "isIndie": false,
+            "releaseDate": "2019",
+            "sortDescription": "",
+            "releasedAt": 1577725200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1286760817,
+          "isIndie": false,
+          "mvlink": "/video-clip/Chi-La-Tinh-Co-Hoa-Minzy/ZWAD8Z8F.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7U8UI6",
+          "title": "Vì Anh Là Của Em",
+          "alias": "Vi-Anh-La-Cua-Em-Hoa-Minzy",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465210324.jpg",
+          "link": "/bai-hat/Vi-Anh-La-Cua-Em-Hoa-Minzy/ZW7U8UI6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465210324.jpg",
+          "duration": 223,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZCU9OE",
+            "title": "Vì Anh Là Của Em (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/7/e/7efa1b239a5907a2ea291b1cb4a3e52d_1465210324.jpg",
+            "isoffical": true,
+            "link": "/album/Vi-Anh-La-Cua-Em-Single-Hoa-Minzy/ZWZCU9OE.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "\"Vì anh là của em\" là sáng tác của nhạc sĩ Khắc Hưng. Ca khúc được Hòa Minzy lên ý tưởng thực hiện một phim ngắn dài gần 30 phút với nhiều tình tiết dễ thương, hài hước.\r\n\r\nPhim ngắn \" Vì Anh là của Em \" nói về câu chuyện tuổi học trò khi Hòa Minzy hóa thân thành một cô gái chỉ lo chăm chỉ học tập mà không để ý về hình thức bên ngoài. Chính sự xuất hiện của nam chính đã làm thay đổi hoàn toàn hình ảnh cô lớp trưởng. Lựa chọn nội dung khá quen thuộc nhưng qua cách thể hiện của Hòa Minzy và dàn diễn viên, phim ngắn này trở nên mới lạ và cuốn hút người xem.",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285193543,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW6CIAZ6",
+          "title": "Thư Chưa Gửi Anh",
+          "alias": "Thu-Chua-Gui-Anh-Hoa-Minzy",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/c/f/cf316d1f19c81e902216c1ac778e1803_1418396274.jpg",
+          "link": "/bai-hat/Thu-Chua-Gui-Anh-Hoa-Minzy/ZW6CIAZ6.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/c/f/cf316d1f19c81e902216c1ac778e1803_1418396274.jpg",
+          "duration": 208,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1388509200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZWZBA9F0",
+            "title": "Gửi",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/c/f/cf316d1f19c81e902216c1ac778e1803_1418396274.jpg",
+            "isoffical": true,
+            "link": "/album/Gui-Hoa-Minzy/ZWZBA9F0.html",
+            "isIndie": false,
+            "releaseDate": "2014",
+            "sortDescription": "Single Gửi của Hòa Minzy là một sáng tác mới của Nguyễn Duy Anh dành riêng cho Hòa Minzy quán quân của Học viện ngôi sao. \r\nHòa Minzy tâm sự trong single mới của mình: \"Một ca khúc mà Hòa đã ấp ủ rất lâu rồi. Một ca khúc mà nói lên mọi cảm xúc của Hòa ở một quãng thời gian nào đó. Nó là công sức và nó là cảm xúc thật. Và chắc chắn em phải cảm kích anh vô cùng Duy Anh Nguyễn ạ. Bài hát anh lấy cảm hứng từ 1 bộ phim và ca khúc trong bô phim ấy. Dựa trên cảm xúc thật của anh dành cho người bạn gái của mình mà nó lại vô tình đúng với cảm xúc của em. Thật may mắn khi a đã tặng bài hát này cho em...\"",
+            "releasedAt": 1419958800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1283905269,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW789IAA",
+          "title": "Sống Không Hối Tiếc",
+          "alias": "Song-Khong-Hoi-Tiec-Hoa-Minzy",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/1/9/1984d81195fd84b347d2550270a5eee0_1479728393.jpg",
+          "link": "/bai-hat/Song-Khong-Hoi-Tiec-Hoa-Minzy/ZW789IAA.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/1/9/1984d81195fd84b347d2550270a5eee0_1479728393.jpg",
+          "duration": 275,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZOU7W7WE",
+            "title": "Sống Không Hối Tiếc (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/1/9/1984d81195fd84b347d2550270a5eee0_1479728393.jpg",
+            "isoffical": true,
+            "link": "/album/Song-Khong-Hoi-Tiec-Single-Hoa-Minzy/ZOU7W7WE.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285263797,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZW7OAW9C",
+          "title": "Ăn Gì Đây (Version 2)",
+          "alias": "An-Gi-Day-Version-2-Mr-T-Hoa-Minzy",
+          "isOffical": true,
+          "username": "mp3",
+          "artistsNames": "Mr.T, Hòa Minzy",
+          "artists": [
+            {
+              "id": "IWZ96D6F",
+              "name": "Mr.T",
+              "link": "/Mr-T",
+              "spotlight": false,
+              "alias": "Mr-T",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/d/7/d7def7c67a4c914e4c53352e7f6e40ad_1455596241.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/d/7/d7def7c67a4c914e4c53352e7f6e40ad_1455596241.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODEF9DI"
+            },
+            {
+              "id": "IWZ9DDFI",
+              "name": "Hòa Minzy",
+              "link": "/Hoa-Minzy",
+              "spotlight": true,
+              "alias": "Hoa-Minzy",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZCU80C"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/covers/9/2/9265575cd39085cdcc7b145dc5f1c3e5_1455855611.jpg",
+          "link": "/bai-hat/An-Gi-Day-Version-2-Mr-T-Hoa-Minzy/ZW7OAW9C.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/covers/9/2/9265575cd39085cdcc7b145dc5f1c3e5_1455855611.jpg",
+          "duration": 245,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z089"
+          ],
+          "album": {
+            "encodeId": "ZWZCWCEE",
+            "title": "Tự Nhiên Buồn (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/covers/9/2/9265575cd39085cdcc7b145dc5f1c3e5_1455855611.jpg",
+            "isoffical": true,
+            "link": "/album/Tu-Nhien-Buon-Single-Hoa-Minzy/ZWZCWCEE.html",
+            "isIndie": false,
+            "releaseDate": "2016",
+            "sortDescription": "Single online mới của Hòa Minzy chỉ mói ra mắt nhưng đã nhận được sự yêu mến của các khán giả Zing MP3. Lời Việt của Trịnh Nhật Anh.",
+            "releasedAt": 1483117200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ9DDFI",
+                "name": "Hòa Minzy",
+                "link": "/Hoa-Minzy",
+                "spotlight": true,
+                "alias": "Hoa-Minzy",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/cover/6/c/1/0/6c10f74bd8b84500f2b4647cebef7801.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZCU80C",
+                "totalFollow": 250883
+              }
+            ],
+            "artistsNames": "Hòa Minzy"
+          },
+          "indicators": [],
+          "radioId": 1285132270,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        }
+      ],
+      "total": 14,
+      "totalDuration": 3598
+    },
+    "like": 27830,
+    "listen": 0,
+    "liked": false
+  },
+  "timestamp": 1679239922526
+}

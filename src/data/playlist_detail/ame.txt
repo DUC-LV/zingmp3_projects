@@ -1,0 +1,2001 @@
+{
+  "err": 0,
+  "msg": "Success",
+  "data": {
+    "encodeId": "ZZ7F60I7",
+    "title": "Những Bài Hát Hay Nhất Của AMEE",
+    "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/images/b/0/4/c/b04c5a560ddbade0b9af9e36b165907e.jpg",
+    "isoffical": true,
+    "link": "/album/Nhung-Bai-Hat-Hay-Nhat-Cua-AMEE-AMEE/ZZ7F60I7.html",
+    "isIndie": false,
+    "releaseDate": "",
+    "sortDescription": "Ưng quá chừng bộ sưu tập Hit của AMEE",
+    "releasedAt": 0,
+    "genreIds": [
+      "IWZ9Z08I",
+      "IWZ97FCD"
+    ],
+    "PR": false,
+    "artists": [
+      {
+        "id": "IW6WBZWO",
+        "name": "AMEE",
+        "link": "/AMEE",
+        "spotlight": false,
+        "alias": "AMEE",
+        "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+        "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+        "isOA": true,
+        "isOABrand": false,
+        "playlistId": "ZZ7F60I7",
+        "totalFollow": 393260
+      }
+    ],
+    "artistsNames": "AMEE",
+    "playItemMode": 0,
+    "subType": 20,
+    "uid": 298,
+    "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w600_r1x1_jpeg/images/b/0/4/c/b04c5a560ddbade0b9af9e36b165907e.jpg",
+    "isShuffle": true,
+    "isPrivate": false,
+    "userName": "Zing MP3",
+    "isAlbum": false,
+    "textType": "Playlist",
+    "isSingle": false,
+    "distributor": "",
+    "description": "Ưng quá chừng bộ sưu tập Hit của AMEE",
+    "aliasTitle": "Nhung-Bai-Hat-Hay-Nhat-Cua-AMEE-AMEE",
+    "sectionId": "album",
+    "contentLastUpdate": 1678639399,
+    "artist": {
+      "id": "IW6WBZWO",
+      "name": "AMEE",
+      "link": "/nghe-si/AMEE",
+      "spotlight": false,
+      "alias": "AMEE",
+      "playlistId": "ZZ7F60I7",
+      "cover": "https://photo-zmp3.zmdcdn.me/cover_artist/e/1/6/5/e1657e9fef44756a562c6dc83109efff.jpg",
+      "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg"
+    },
+    "genres": [
+      {
+        "id": "IWZ9Z08I",
+        "name": "Việt Nam",
+        "title": "Việt Nam",
+        "alias": "viet-nam",
+        "link": "/the-loai-album/Viet-Nam/IWZ9Z08I.html"
+      },
+      {
+        "id": "IWZ97FCD",
+        "name": "V-Pop",
+        "title": "V-Pop",
+        "alias": "v-pop",
+        "link": "/the-loai-album/V-Pop/IWZ97FCD.html"
+      }
+    ],
+    "song": {
+      "items": [
+        {
+          "encodeId": "Z67ABCIF",
+          "title": "ưng quá chừng",
+          "alias": "ung-qua-chung-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/4/a/0/f/4a0f8a63e8d51047362916d5b4aa2ecb.jpg",
+          "link": "/bai-hat/ung-qua-chung-AMEE/Z67ABCIF.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/4/a/0/f/4a0f8a63e8d51047362916d5b4aa2ecb.jpg",
+          "duration": 82,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1678017600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6B9WIIB8",
+            "title": "ưng quá chừng (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/1/0/e/a10ea9f886dddc4574c0ebab6a1701be.jpg",
+            "isoffical": true,
+            "link": "/album/ung-qua-chung-Single-AMEE/6B9WIIB8.html",
+            "isIndie": false,
+            "releaseDate": "05/03/2023",
+            "sortDescription": "",
+            "releasedAt": 1678017600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZBFZ0F8",
+          "title": "hai mươi hai (22)",
+          "alias": "hai-muoi-hai-22-Hua-Kim-Tuyen-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Hứa Kim Tuyền, AMEE",
+          "artists": [
+            {
+              "id": "IWZCOZ0I",
+              "name": "Hứa Kim Tuyền",
+              "link": "/Hua-Kim-Tuyen",
+              "spotlight": false,
+              "alias": "Hua-Kim-Tuyen",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6UW9BUZA"
+            },
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/6/d/e/b6de6c0857b19e1c921f2d379817d491.jpg",
+          "link": "/bai-hat/hai-muoi-hai-22-Hua-Kim-Tuyen-AMEE/ZZBFZ0F8.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/6/d/e/b6de6c0857b19e1c921f2d379817d491.jpg",
+          "duration": 239,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1653480000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BO6AU68",
+            "title": "hai mươi hai (22) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/a/0/d/fa0dd90fce6538b52f1f3b87999f5ed1.jpg",
+            "isoffical": true,
+            "link": "/album/hai-muoi-hai-22-Single-Hua-Kim-Tuyen-AMEE/6BO6AU68.html",
+            "isIndie": false,
+            "releaseDate": "25/05/2022",
+            "sortDescription": "",
+            "releasedAt": 1653411600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZCOZ0I",
+                "name": "Hứa Kim Tuyền",
+                "link": "/Hua-Kim-Tuyen",
+                "spotlight": false,
+                "alias": "Hua-Kim-Tuyen",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/c/4/8/9/c48961cbfb3b46320879476f84743f9f.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9BUZA",
+                "totalFollow": 16210
+              },
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "Hứa Kim Tuyền, AMEE"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/hai-muoi-hai-22-Hua-Kim-Tuyen-AMEE/ZZBFZ0F8.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZC7BEII",
+          "title": "Shay Nắnggg",
+          "alias": "Shay-Nanggg-AMEE-Obito",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Obito",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IW6Z6DUA",
+              "name": "Obito",
+              "link": "/Obito",
+              "spotlight": false,
+              "alias": "Obito",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/6/1/9/96193466e833f6a9c627289d73cb86aa.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/6/1/9/96193466e833f6a9c627289d73cb86aa.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6UW9C0AI"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/0/8/4/7084f2cd75ebf35936af4d1c878e1abe.jpg",
+          "link": "/bai-hat/Shay-Nanggg-AMEE-Obito/ZZC7BEII.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/0/8/4/7084f2cd75ebf35936af4d1c878e1abe.jpg",
+          "duration": 208,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1654516800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6BOAOU8E",
+            "title": "Shay Nắnggg (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/9/1/e/591e0cc0b521b0a3819b58cdb1cf03a1.jpg",
+            "isoffical": true,
+            "link": "/album/Shay-Nanggg-Single-AMEE-Obito/6BOAOU8E.html",
+            "isIndie": false,
+            "releaseDate": "06/06/2022",
+            "sortDescription": "",
+            "releasedAt": 1654448400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IW6Z6DUA",
+                "name": "Obito",
+                "link": "/Obito",
+                "spotlight": false,
+                "alias": "Obito",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/9/6/1/9/96193466e833f6a9c627289d73cb86aa.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/9/6/1/9/96193466e833f6a9c627289d73cb86aa.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9C0AI",
+                "totalFollow": 36686
+              }
+            ],
+            "artistsNames": "AMEE, Obito"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZOUI007",
+          "title": "thay mọi cô gái yêu anh",
+          "alias": "thay-moi-co-gai-yeu-anh-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/c/4/a/4/c4a49014b42161249400b76a35cf5b99.jpg",
+          "link": "/bai-hat/thay-moi-co-gai-yeu-anh-AMEE/ZZOUI007.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/c/4/a/4/c4a49014b42161249400b76a35cf5b99.jpg",
+          "duration": 215,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1644148800,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6ACOUF0O",
+            "title": "thay mọi cô gái yêu anh (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/8/6/1/98619893eaa546483b718df2373e2eea.jpg",
+            "isoffical": true,
+            "link": "/album/thay-moi-co-gai-yeu-anh-Single-AMEE/6ACOUF0O.html",
+            "isIndie": false,
+            "releaseDate": "06/02/2022",
+            "sortDescription": "",
+            "releasedAt": 1644080400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWACD68E",
+          "title": "Anh Nhà Ở Đâu Thế?",
+          "alias": "Anh-Nha-O-Dau-The-AMEE-B-Ray",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, B Ray",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZAOAZZ",
+              "name": "B Ray",
+              "link": "/B-Ray-Rapper",
+              "spotlight": false,
+              "alias": "B-Ray-Rapper",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/f/e/3/5fe35499b5e15948356e32cfe7a6474c.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/f/e/3/5fe35499b5e15948356e32cfe7a6474c.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODEAZBA"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/5/2/7/8/527879fe969864e5e149db25432debb0.jpg",
+          "link": "/bai-hat/Anh-Nha-O-Dau-The-AMEE-B-Ray/ZWACD68E.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/5/2/7/8/527879fe969864e5e149db25432debb0.jpg",
+          "duration": 217,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZUAZIE6U",
+            "title": "Anh Nhà Ở Đâu Thế? (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/5/2/7/8/527879fe969864e5e149db25432debb0.jpg",
+            "isoffical": true,
+            "link": "/album/Anh-Nha-O-Dau-The-Single-AMEE-B-Ray/ZUAZIE6U.html",
+            "isIndie": false,
+            "releaseDate": "2019",
+            "sortDescription": "",
+            "releasedAt": 1577725200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IWZAOAZZ",
+                "name": "B Ray",
+                "link": "/B-Ray-Rapper",
+                "spotlight": false,
+                "alias": "B-Ray-Rapper",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/f/e/3/5fe35499b5e15948356e32cfe7a6474c.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/f/e/3/5fe35499b5e15948356e32cfe7a6474c.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZODEAZBA",
+                "totalFollow": 270591
+              }
+            ],
+            "artistsNames": "AMEE, B Ray"
+          },
+          "indicators": [],
+          "radioId": 1286745445,
+          "isIndie": false,
+          "mvlink": "/video-clip/Anh-Nha-O-Dau-The-AMEE-B-Ray/ZWACD68E.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6UWAWOO",
+          "title": "dỗi ít thôi ôm đê",
+          "alias": "doi-it-thoi-om-de-Phuc-Du-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Phúc Du, AMEE",
+          "artists": [
+            {
+              "id": "IW6U8EWE",
+              "name": "Phúc Du",
+              "link": "/nghe-si/Phuc-Du",
+              "spotlight": false,
+              "alias": "Phuc-Du",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/7/e/1a7e64e1f30a76363795b897d535e62d.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/7/e/1a7e64e1f30a76363795b897d535e62d.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6UW9BCAZ"
+            },
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/b/e/b/c/bebcb0c1d890a036142474afbe7929de.jpg",
+          "link": "/bai-hat/doi-it-thoi-om-de-Phuc-Du-AMEE/Z6UWAWOO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/b/e/b/c/bebcb0c1d890a036142474afbe7929de.jpg",
+          "duration": 188,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1669982400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z089"
+          ],
+          "album": {
+            "encodeId": "6B76UE9O",
+            "title": "dỗi ít thôi ôm đê (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/4/a/0/74a0a2bab59d287837756d9b97b0c5f6.jpg",
+            "isoffical": true,
+            "link": "/album/doi-it-thoi-om-de-Single-Phuc-Du-AMEE/6B76UE9O.html",
+            "isIndie": false,
+            "releaseDate": "02/12/2022",
+            "sortDescription": "",
+            "releasedAt": 1669982400000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z089"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6U8EWE",
+                "name": "Phúc Du",
+                "link": "/nghe-si/Phuc-Du",
+                "spotlight": false,
+                "alias": "Phuc-Du",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/a/7/e/1a7e64e1f30a76363795b897d535e62d.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/a/7/e/1a7e64e1f30a76363795b897d535e62d.jpg",
+                "isOA": false,
+                "isOABrand": false,
+                "playlistId": "6UW9BCAZ",
+                "totalFollow": 10315
+              },
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "Phúc Du, AMEE"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "mvlink": "/video-clip/doi-it-thoi-om-de-Phuc-Du-AMEE/Z6UWAWOO.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEIADU",
+          "title": "Anh Đánh Rơi Người Yêu Này! (Thật Tuyệt Vời Khi Ở Bên Em OST)",
+          "alias": "Anh-Danh-Roi-Nguoi-Yeu-Nay-That-Tuyet-Voi-Khi-O-Ben-Em-OST-Andiez-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Andiez, AMEE",
+          "artists": [
+            {
+              "id": "IWZ98O8W",
+              "name": "Andiez",
+              "link": "/Andiez",
+              "spotlight": false,
+              "alias": "Andiez",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/c/2/8/ac28312bfd39a049f88e5fcf05ced0c1.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/c/2/8/ac28312bfd39a049f88e5fcf05ced0c1.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO698C98"
+            },
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/3/0/8/c/308c5809bbfa86de59709090245b9819.jpg",
+          "link": "/bai-hat/Anh-Danh-Roi-Nguoi-Yeu-Nay-That-Tuyet-Voi-Khi-O-Ben-Em-OST-Andiez-AMEE/ZWAEIADU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/3/0/8/c/308c5809bbfa86de59709090245b9819.jpg",
+          "duration": 208,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0BA",
+            "IWZ9Z0C8"
+          ],
+          "album": {
+            "encodeId": "ZZ7ACU66",
+            "title": "Thật Tuyệt Vời Khi Ở Bên Em OST",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/3/0/8/c/308c5809bbfa86de59709090245b9819.jpg",
+            "isoffical": true,
+            "link": "/album/That-Tuyet-Voi-Khi-O-Ben-Em-OST-Andiez-AMEE/ZZ7ACU66.html",
+            "isIndie": false,
+            "releaseDate": "2019",
+            "sortDescription": "",
+            "releasedAt": 1577725200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0BA",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98O8W",
+                "name": "Andiez",
+                "link": "/Andiez",
+                "spotlight": false,
+                "alias": "Andiez",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/c/2/8/ac28312bfd39a049f88e5fcf05ced0c1.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/c/2/8/ac28312bfd39a049f88e5fcf05ced0c1.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZO698C98",
+                "totalFollow": 51653
+              },
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "Andiez, AMEE"
+          },
+          "indicators": [],
+          "radioId": 1286773900,
+          "isIndie": false,
+          "mvlink": "/video-clip/Anh-Danh-Roi-Nguoi-Yeu-Nay-That-Tuyet-Voi-Khi-O-Ben-Em-OST-Andiez-AMEE/ZWAEIADU.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWADZU90",
+          "title": "Đen Đá Không Đường",
+          "alias": "Den-Da-Khong-Duong-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/c/9/f/8c9f583a79f97a92cd585c8c2d526cfc.jpg",
+          "link": "/bai-hat/Den-Da-Khong-Duong-AMEE/ZWADZU90.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/c/9/f/8c9f583a79f97a92cd585c8c2d526cfc.jpg",
+          "duration": 182,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0C8"
+          ],
+          "album": {
+            "encodeId": "ZUBCFWZD",
+            "title": "Đen Đá Không Đường (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/c/9/f/8c9f583a79f97a92cd585c8c2d526cfc.jpg",
+            "isoffical": true,
+            "link": "/album/Den-Da-Khong-Duong-Single-AMEE/ZUBCFWZD.html",
+            "isIndie": false,
+            "releaseDate": "2019",
+            "sortDescription": "",
+            "releasedAt": 1577725200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1286757420,
+          "isIndie": false,
+          "mvlink": "/video-clip/Den-Da-Khong-Duong-AMEE/ZWADZU90.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAFIZZ0",
+          "title": "Trời Giấu Trời Mang Đi",
+          "alias": "Troi-Giau-Troi-Mang-Di-AMEE-ViruSs",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, ViruSs",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IW6WB0WD",
+              "name": "ViruSs",
+              "link": "/VirusS",
+              "spotlight": false,
+              "alias": "VirusS",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/3/d/8/e3d8c33f54ab51e308fc9019ed139a0c.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/3/d/8/e3d8c33f54ab51e308fc9019ed139a0c.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "6UW9BB0E"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/9/d/9/6/9d9648688a40aecb85f8b70ebe21e82e.jpg",
+          "link": "/bai-hat/Troi-Giau-Troi-Mang-Di-AMEE-ViruSs/ZWAFIZZ0.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/9/d/9/6/9d9648688a40aecb85f8b70ebe21e82e.jpg",
+          "duration": 258,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZA9UAOOU",
+            "title": "Trời Giấu Trời Mang Đi (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/d/9/6/9d9648688a40aecb85f8b70ebe21e82e.jpg",
+            "isoffical": true,
+            "link": "/album/Troi-Giau-Troi-Mang-Di-Single-AMEE-ViruSs/ZA9UAOOU.html",
+            "isIndie": false,
+            "releaseDate": "2019",
+            "sortDescription": "",
+            "releasedAt": 1577725200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IW6WB0WD",
+                "name": "ViruSs",
+                "link": "/VirusS",
+                "spotlight": false,
+                "alias": "VirusS",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/e/3/d/8/e3d8c33f54ab51e308fc9019ed139a0c.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/e/3/d/8/e3d8c33f54ab51e308fc9019ed139a0c.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "6UW9BB0E",
+                "totalFollow": 36417
+              }
+            ],
+            "artistsNames": "AMEE, ViruSs"
+          },
+          "indicators": [],
+          "radioId": 1286792280,
+          "isIndie": false,
+          "mvlink": "/video-clip/Troi-Giau-Troi-Mang-Di-AMEE-ViruSs/ZWAFIZZ0.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWDB0OZ9",
+          "title": "Em Bé",
+          "alias": "Em-Be-AMEE-Karik",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Karik",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZ96F6O",
+              "name": "Karik",
+              "link": "/Karik",
+              "spotlight": true,
+              "alias": "Karik",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/e/e/74ee12d1aecebbb986c69e31d198cd04.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/e/e/74ee12d1aecebbb986c69e31d198cd04.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZWZ9DADA"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/1/3/5/d/135df4817f98350b0969a2c5beec68e5.jpg",
+          "link": "/bai-hat/Em-Be-AMEE-Karik/ZWDB0OZ9.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/1/3/5/d/135df4817f98350b0969a2c5beec68e5.jpg",
+          "duration": 192,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1600776000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6UB7IZWF",
+            "title": "Em Bé (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/2/3/a/5/23a5544441522c22463702e254da1e95.jpg",
+            "isoffical": true,
+            "link": "/album/Em-Be-Single-AMEE-Karik/6UB7IZWF.html",
+            "isIndie": false,
+            "releaseDate": "20/09/2020",
+            "sortDescription": "",
+            "releasedAt": 1600534800000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IWZ96F6O",
+                "name": "Karik",
+                "link": "/Karik",
+                "spotlight": true,
+                "alias": "Karik",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/4/e/e/74ee12d1aecebbb986c69e31d198cd04.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/4/e/e/74ee12d1aecebbb986c69e31d198cd04.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZWZ9DADA",
+                "totalFollow": 509398
+              }
+            ],
+            "artistsNames": "AMEE, Karik"
+          },
+          "indicators": [],
+          "radioId": 1382486131,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBIC768",
+          "title": "Sao Anh Chưa Về Nhà",
+          "alias": "Sao-Anh-Chua-Ve-Nha-AMEE-Ricky-Star",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Ricky Star",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZ98ODO",
+              "name": "Ricky Star",
+              "link": "/Ricky-Star",
+              "spotlight": false,
+              "alias": "Ricky-Star",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/d/7/17d7698ac52d009092d33b1691e2a4ab.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/d/7/17d7698ac52d009092d33b1691e2a4ab.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOE0ODBZ"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/6/6/f/4/66f40f8639e0e23f95e444f3d9368c9c.jpg",
+          "link": "/bai-hat/Sao-Anh-Chua-Ve-Nha-AMEE-Ricky-Star/ZWBIC768.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/6/6/f/4/66f40f8639e0e23f95e444f3d9368c9c.jpg",
+          "duration": 247,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1583409600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z0C8"
+          ],
+          "album": {
+            "encodeId": "ZFCUIBEE",
+            "title": "Sao Anh Chưa Về Nhà (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/6/6/f/4/66f40f8639e0e23f95e444f3d9368c9c.jpg",
+            "isoffical": true,
+            "link": "/album/Sao-Anh-Chua-Ve-Nha-Single-AMEE/ZFCUIBEE.html",
+            "isIndie": false,
+            "releaseDate": "2020",
+            "sortDescription": "",
+            "releasedAt": 1609347600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z0C8"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1299921865,
+          "isIndie": false,
+          "mvlink": "/video-clip/Sao-Anh-Chua-Ve-Nha-AMEE-Ricky-Star/ZWBIC768.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "Z6U0Z0CU",
+          "title": "TÌNH BẠN DIỆU KỲ (Master Version)",
+          "alias": "TINH-BAN-DIEU-KY-Master-Version-Ricky-Star-AMEE-Lang-LD",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "Ricky Star, AMEE, Lăng LD",
+          "artists": [
+            {
+              "id": "IWZ98ODO",
+              "name": "Ricky Star",
+              "link": "/Ricky-Star",
+              "spotlight": false,
+              "alias": "Ricky-Star",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/d/7/17d7698ac52d009092d33b1691e2a4ab.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/d/7/17d7698ac52d009092d33b1691e2a4ab.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOE0ODBZ"
+            },
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IW6W8IDF",
+              "name": "Lăng LD",
+              "link": "/Lang-LD",
+              "spotlight": false,
+              "alias": "Lang-LD",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/0/0/3/30034686ab92c28499dc20deab7b62d9.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/0/0/3/30034686ab92c28499dc20deab7b62d9.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZUUO80FC"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/4/0/3/f4030b26d34d5cf8c8d781f9070827fd.jpg",
+          "link": "/bai-hat/TINH-BAN-DIEU-KY-Master-Version-Ricky-Star-AMEE-Lang-LD/Z6U0Z0CU.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/4/0/3/f4030b26d34d5cf8c8d781f9070827fd.jpg",
+          "duration": 188,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1611421200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ9Z089"
+          ],
+          "album": {
+            "encodeId": "6B7UE99I",
+            "title": "TÌNH BẠN DIỆU KỲ (Master Version) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/4/0/3/f4030b26d34d5cf8c8d781f9070827fd.jpg",
+            "isoffical": true,
+            "link": "/album/TINH-BAN-DIEU-KY-Master-Version-Single-Ricky-Star-AMEE-Lang-LD/6B7UE99I.html",
+            "isIndie": false,
+            "releaseDate": "24/01/2021",
+            "sortDescription": "",
+            "releasedAt": 1611421200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ9Z089"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IWZ98ODO",
+                "name": "Ricky Star",
+                "link": "/Ricky-Star",
+                "spotlight": false,
+                "alias": "Ricky-Star",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/1/7/d/7/17d7698ac52d009092d33b1691e2a4ab.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/1/7/d/7/17d7698ac52d009092d33b1691e2a4ab.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOE0ODBZ",
+                "totalFollow": 86582
+              },
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IW6W8IDF",
+                "name": "Lăng LD",
+                "link": "/Lang-LD",
+                "spotlight": false,
+                "alias": "Lang-LD",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/0/0/3/30034686ab92c28499dc20deab7b62d9.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/0/0/3/30034686ab92c28499dc20deab7b62d9.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZUUO80FC",
+                "totalFollow": 51855
+              }
+            ],
+            "artistsNames": "Ricky Star, AMEE, Lăng LD"
+          },
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOWUA7ZO",
+          "title": "nàng thơ... trời giấu trời mang đi",
+          "alias": "nang-tho-troi-giau-troi-mang-di-AMEE-Hoang-Dung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Hoàng Dũng",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZAZ8U6",
+              "name": "Hoàng Dũng",
+              "link": "/Nguyen-Hoang-Dung",
+              "spotlight": false,
+              "alias": "Nguyen-Hoang-Dung",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/7/b/3/87b38ebfba352aceab25d24f196003b0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/7/b/3/87b38ebfba352aceab25d24f196003b0.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODFZIBZ"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+          "link": "/bai-hat/nang-tho-troi-giau-troi-mang-di-AMEE-Hoang-Dung/ZOWUA7ZO.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+          "duration": 262,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607083200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6Z7IDE0Z",
+            "title": "dreAMEE (acoustic)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+            "isoffical": true,
+            "link": "/album/dreAMEE-acoustic-AMEE/6Z7IDE0Z.html",
+            "isIndie": false,
+            "releaseDate": "16/12/2020",
+            "sortDescription": "",
+            "releasedAt": 1608051600000,
+            "genreIds": [
+              "IWZ9Z0CU"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1394311410,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOW6ZD6E",
+          "title": "từ thích thích thành thương thương",
+          "alias": "tu-thich-thich-thanh-thuong-thuong-AMEE-Hoang-Dung",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Hoàng Dũng",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZAZ8U6",
+              "name": "Hoàng Dũng",
+              "link": "/Nguyen-Hoang-Dung",
+              "spotlight": false,
+              "alias": "Nguyen-Hoang-Dung",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/8/7/b/3/87b38ebfba352aceab25d24f196003b0.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/8/7/b/3/87b38ebfba352aceab25d24f196003b0.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODFZIBZ"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+          "link": "/bai-hat/tu-thich-thich-thanh-thuong-thuong-AMEE-Hoang-Dung/ZOW6ZD6E.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+          "duration": 204,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1607342400,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6Z7IDE0Z",
+            "title": "dreAMEE (acoustic)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+            "isoffical": true,
+            "link": "/album/dreAMEE-acoustic-AMEE/6Z7IDE0Z.html",
+            "isIndie": false,
+            "releaseDate": "16/12/2020",
+            "sortDescription": "",
+            "releasedAt": 1608051600000,
+            "genreIds": [
+              "IWZ9Z0CU"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1394563575,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBUOF07",
+          "title": "yêu thì yêu không yêu thì yêu",
+          "alias": "yeu-thi-yeu-khong-yeu-thi-yeu-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": false,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+          "link": "/bai-hat/yeu-thi-yeu-khong-yeu-thi-yeu-AMEE/ZWBUOF07.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+          "duration": 163,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1592481600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6IIAA7O6",
+            "title": "Yêu Thì Yêu Không Yêu Thì Yêu (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/f/d/2/2/fd22c9f85f6b3be14a8a0fc9b3a378cf.jpg",
+            "isoffical": true,
+            "link": "/album/Yeu-Thi-Yeu-Khong-Yeu-Thi-Yeu-Single-AMEE/6IIAA7O6.html",
+            "isIndie": false,
+            "releaseDate": "18/06/2020",
+            "sortDescription": "",
+            "releasedAt": 1592413200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1321818447,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "downloadPrivileges": [
+            3
+          ],
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZZB8DBOE",
+          "title": "Ex's Hate Me",
+          "alias": "Ex-s-Hate-Me-B-Ray-Masew-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "B Ray, Masew, AMEE",
+          "artists": [
+            {
+              "id": "IWZAOAZZ",
+              "name": "B Ray",
+              "link": "/B-Ray-Rapper",
+              "spotlight": false,
+              "alias": "B-Ray-Rapper",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/5/f/e/3/5fe35499b5e15948356e32cfe7a6474c.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/5/f/e/3/5fe35499b5e15948356e32cfe7a6474c.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZODEAZBA"
+            },
+            {
+              "id": "IWZFD77I",
+              "name": "Masew",
+              "link": "/Masew",
+              "spotlight": false,
+              "alias": "Masew",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/a/7/2/7/a727e5448143da8d2b8cf67f8ef6ab57.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZO697IEW"
+            },
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/c/0/0/3/c00368f9a16eefbedf836821ba6fab36.jpg",
+          "link": "/bai-hat/Ex-s-Hate-Me-B-Ray-Masew-AMEE/ZZB8DBOE.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/avatars/c/0/0/3/c00368f9a16eefbedf836821ba6fab36.jpg",
+          "duration": 231,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1553533200,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z089"
+          ],
+          "indicators": [],
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBU7OOZ",
+          "title": "Mama Boy",
+          "alias": "Mama-Boy-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/a/9/a/da9a8995a4a7fea43459f5881cb4af14.jpg",
+          "link": "/bai-hat/Mama-Boy-AMEE/ZWBU7OOZ.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/a/9/a/da9a8995a4a7fea43459f5881cb4af14.jpg",
+          "duration": 204,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1593345600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "6IWWC68W",
+            "title": "dreAMEE",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/d/a/9/a/da9a8995a4a7fea43459f5881cb4af14.jpg",
+            "isoffical": true,
+            "link": "/album/dreAMEE-AMEE/6IWWC68W.html",
+            "isIndie": false,
+            "releaseDate": "28/06/2020",
+            "sortDescription": "",
+            "releasedAt": 1593277200000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1322642271,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOEOUD77",
+          "title": "Nói Hoặc Không Nói",
+          "alias": "Noi-Hoac-Khong-Noi-AMEE",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/d/1/d/4/d1d4574fe1f471dc24a4384e7400f60b.jpg",
+          "link": "/bai-hat/Noi-Hoac-Khong-Noi-AMEE/ZOEOUD77.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/d/1/d/4/d1d4574fe1f471dc24a4384e7400f60b.jpg",
+          "duration": 225,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1618920000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "67EF0Z68",
+            "title": "Nói Hoặc Không Nói (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/3/6/a/836a326ef9addb22f5376ac843bdfd22.jpg",
+            "isoffical": true,
+            "link": "/album/Noi-Hoac-Khong-Noi-Single-AMEE/67EF0Z68.html",
+            "isIndie": false,
+            "releaseDate": "20/04/2021",
+            "sortDescription": "",
+            "releasedAt": 1618851600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1437671334,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWAEB70A",
+          "title": "Dấu Yêu Vô Hình",
+          "alias": "Dau-Yeu-Vo-Hinh-AMEE-OSAD",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, OSAD",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IW6W87CA",
+              "name": "OSAD",
+              "link": "/OSAD",
+              "spotlight": false,
+              "alias": "OSAD",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/4/e/464e1538a16722dcff0307b51f7bd1bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/6/4/e/464e1538a16722dcff0307b51f7bd1bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZUU88UEF"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/7/c/0/2/7c0271166184df32198f81a909edf0a0.jpg",
+          "link": "/bai-hat/Dau-Yeu-Vo-Hinh-AMEE-OSAD/ZWAEB70A.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/7/c/0/2/7c0271166184df32198f81a909edf0a0.jpg",
+          "duration": 194,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 0,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "Z870C69E",
+            "title": "Dấu Yêu Vô Hình (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/7/c/0/2/7c0271166184df32198f81a909edf0a0.jpg",
+            "isoffical": true,
+            "link": "/album/Dau-Yeu-Vo-Hinh-Single-AMEE-OSAD/Z870C69E.html",
+            "isIndie": false,
+            "releaseDate": "28/08/2021",
+            "sortDescription": "",
+            "releasedAt": 1630083600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IW6W87CA",
+                "name": "OSAD",
+                "link": "/OSAD",
+                "spotlight": false,
+                "alias": "OSAD",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/6/4/e/464e1538a16722dcff0307b51f7bd1bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/6/4/e/464e1538a16722dcff0307b51f7bd1bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZUU88UEF",
+                "totalFollow": 124440
+              }
+            ],
+            "artistsNames": "AMEE, OSAD"
+          },
+          "indicators": [],
+          "radioId": 1286786408,
+          "isIndie": false,
+          "mvlink": "/video-clip/Dau-Yeu-Vo-Hinh-AMEE-OSAD/ZWAEB70A.html",
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZWBIZC0F",
+          "title": "1000x (Ngàn Lần)",
+          "alias": "1000x-Ngan-Lan-AMEE-Lou-Hoang-Rhymastic",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, Lou Hoàng, Rhymastic",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZAZUU7",
+              "name": "Lou Hoàng",
+              "link": "/Lou-Hoang",
+              "spotlight": true,
+              "alias": "Lou-Hoang",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/1/d/0/31d0f0e35548bd22f2f0e962eabf3c48.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/1/d/0/31d0f0e35548bd22f2f0e962eabf3c48.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOU8C8IU"
+            },
+            {
+              "id": "IWZ97U7U",
+              "name": "Rhymastic",
+              "link": "/Rhymastic",
+              "spotlight": false,
+              "alias": "Rhymastic",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZOZ76DE0"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/a/5/c/e/a5ce72e6f0d7df2e834359e2ee3889c1.jpg",
+          "link": "/bai-hat/1000x-Ngan-Lan-AMEE-Lou-Hoang-Rhymastic/ZWBIZC0F.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/a/5/c/e/a5ce72e6f0d7df2e834359e2ee3889c1.jpg",
+          "duration": 216,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1582632000,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD"
+          ],
+          "album": {
+            "encodeId": "ZFAIW008",
+            "title": "1000x (Ngàn Lần) (Single)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/a/5/c/e/a5ce72e6f0d7df2e834359e2ee3889c1.jpg",
+            "isoffical": true,
+            "link": "/album/1000x-Ngan-Lan-Single-AMEE-Lou-Hoang-Rhymastic/ZFAIW008.html",
+            "isIndie": false,
+            "releaseDate": "2020",
+            "sortDescription": "",
+            "releasedAt": 1609347600000,
+            "genreIds": [
+              "IWZ9Z08I",
+              "IWZ9Z088",
+              "IWZ97FCD"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              },
+              {
+                "id": "IWZAZUU7",
+                "name": "Lou Hoàng",
+                "link": "/Lou-Hoang",
+                "spotlight": true,
+                "alias": "Lou-Hoang",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/3/1/d/0/31d0f0e35548bd22f2f0e962eabf3c48.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/3/1/d/0/31d0f0e35548bd22f2f0e962eabf3c48.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOU8C8IU",
+                "totalFollow": 154879
+              },
+              {
+                "id": "IWZ97U7U",
+                "name": "Rhymastic",
+                "link": "/Rhymastic",
+                "spotlight": false,
+                "alias": "Rhymastic",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/7/e/7e74ded5ae4a0fb04014b8f348a782fb_1487382154.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZOZ76DE0",
+                "totalFollow": 166539
+              }
+            ],
+            "artistsNames": "AMEE, Lou Hoàng, Rhymastic"
+          },
+          "indicators": [],
+          "radioId": 1296742019,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        },
+        {
+          "encodeId": "ZOW6ZD6A",
+          "title": "xuân, hạ, thu, đông rồi lại xuân",
+          "alias": "xuan-ha-thu-dong-roi-lai-xuan-AMEE-TDK",
+          "isOffical": true,
+          "username": "",
+          "artistsNames": "AMEE, TDK",
+          "artists": [
+            {
+              "id": "IW6WBZWO",
+              "name": "AMEE",
+              "link": "/AMEE",
+              "spotlight": false,
+              "alias": "AMEE",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+              "isOA": true,
+              "isOABrand": false,
+              "playlistId": "ZZ7F60I7"
+            },
+            {
+              "id": "IWZCOZOI",
+              "name": "TDK",
+              "link": "/nghe-si/Tran-Dung-Khanh",
+              "spotlight": false,
+              "alias": "Tran-Dung-Khanh",
+              "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/4/4/0/9/44096bf776065aef8832c2d8cc71e72f.jpg",
+              "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/4/4/0/9/44096bf776065aef8832c2d8cc71e72f.jpg",
+              "isOA": false,
+              "isOABrand": false,
+              "playlistId": "6B7W8D8U"
+            }
+          ],
+          "isWorldWide": true,
+          "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/cover/f/a/3/4/fa34528cd48fc5a941273e74e9dfbc2e.jpg",
+          "link": "/bai-hat/xuan-ha-thu-dong-roi-lai-xuan-AMEE-TDK/ZOW6ZD6A.html",
+          "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w94_r1x1_jpeg/cover/f/a/3/4/fa34528cd48fc5a941273e74e9dfbc2e.jpg",
+          "duration": 297,
+          "zingChoice": false,
+          "isPrivate": false,
+          "preRelease": false,
+          "releaseDate": 1608033600,
+          "genreIds": [
+            "IWZ9Z08I",
+            "IWZ9Z088",
+            "IWZ97FCD",
+            "IWZ98I0D"
+          ],
+          "album": {
+            "encodeId": "6Z7IDE0Z",
+            "title": "dreAMEE (acoustic)",
+            "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/8/f/9/c/8f9ceca4f8d51c65fa3fd3f842093c41.jpg",
+            "isoffical": true,
+            "link": "/album/dreAMEE-acoustic-AMEE/6Z7IDE0Z.html",
+            "isIndie": false,
+            "releaseDate": "16/12/2020",
+            "sortDescription": "",
+            "releasedAt": 1608051600000,
+            "genreIds": [
+              "IWZ9Z0CU"
+            ],
+            "PR": false,
+            "artists": [
+              {
+                "id": "IW6WBZWO",
+                "name": "AMEE",
+                "link": "/AMEE",
+                "spotlight": false,
+                "alias": "AMEE",
+                "thumbnail": "https://photo-resize-zmp3.zmdcdn.me/w240_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "thumbnailM": "https://photo-resize-zmp3.zmdcdn.me/w360_r1x1_jpeg/avatars/b/f/d/7/bfd7f1b7118f1229391e2cbc419594bc.jpg",
+                "isOA": true,
+                "isOABrand": false,
+                "playlistId": "ZZ7F60I7",
+                "totalFollow": 393260
+              }
+            ],
+            "artistsNames": "AMEE"
+          },
+          "indicators": [],
+          "radioId": 1395613865,
+          "isIndie": false,
+          "streamingStatus": 1,
+          "allowAudioAds": true,
+          "hasLyric": true
+        }
+      ],
+      "total": 21,
+      "totalDuration": 4420
+    },
+    "like": 57384,
+    "listen": 1943270,
+    "liked": false
+  },
+  "timestamp": 1679240906020
+}
