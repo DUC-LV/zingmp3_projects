@@ -10,3 +10,11 @@ export interface Playlist {
 	sort_description?: string,
 	thumbnail_m?: string,
 }
+export interface Artist {
+	id?: number,
+	name?: string,
+	alias?: string,
+	thumbnail?: string,
+	thumbnail_m?: string,
+	total_follow?: string,
+}

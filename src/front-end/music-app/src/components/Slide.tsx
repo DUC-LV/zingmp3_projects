@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import {Box, Flex, Image} from "theme-ui";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
-import {Banner, Playlist } from "@/src/schemas";
+import {Artist, Banner, Playlist } from "@/src/schemas";
 import {TextLineClamp, TextOnline} from "@/src/components/Text";
 import { AiOutlineArrowRight } from "react-icons/ai";
 import { useRouter } from "next/router";
@@ -151,4 +151,58 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 			/>
 		</Box>
 	)
+}
+
+export const ArtistSlider = (props: { title: string, data: Array<Artist> }) => {
+	const { title, data } = props;
+	return(
+		<Box sx={{ marginY: '40px' }}>
+			<TextOnline
+				sx={{
+					marginLeft: '10px',
+					fontSize: '20px',
+					fontWeight: '700',
+					color: 'white',
+				}}>{title}
+			</TextOnline>
+			<Swiper
+				slidesPerView={data?.length < 5 ? data.length : 5 }
+			>
+				{data.map((item, index) => {
+					return(
+						<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer"}}>
+							<Box sx={{ marginTop: '20px', width: 'fit-content' }}>
+								<Image
+									alt=""
+									src={item.thumbnail_m}
+									sx={{
+										borderRadius: '8px',
+										height: '250px',
+										width: '250px'
+									}}
+								/>
+								<TextOnline
+									sx={{
+										fontSize: '14px',
+										fontWeight: '700',
+										color: 'white',
+										marginY: '6px',
+										textAlign: 'center'
+									}}
+								>{item.name}</TextOnline>
+								<TextLineClamp
+									line={2}
+									sx={{
+										fontSize: '14px',
+										color: '#ffffff80',
+										textAlign: 'center',
+									}}
+								>{item.total_follow} quan tâm</TextLineClamp>
+							</Box>
+						</SwiperSlide>
+					)
+				})}
+			</Swiper>
+		</Box>
+	);
 }

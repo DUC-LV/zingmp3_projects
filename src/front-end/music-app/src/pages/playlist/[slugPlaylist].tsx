@@ -5,6 +5,7 @@ import {useRouter} from "next/router";
 import ReponsiveContainer from "@/src/components/ReponsiveContainer";
 import HeaderPlaylist, {DataHeaderPlaylist} from "@/src/container/playlist/HeaderPlaylist";
 import ListSong from "@/src/container/playlist/ListSong"
+import { ArtistSlider } from "@/src/components/Slide";
 
 type Props = {
 	data: any,
@@ -41,8 +42,12 @@ const PlaylistDetail = ({ data }: Props) => {
 					artist_names={data?.artist_names}
 					sort_description={data?.sort_description}
 				/>
-				<ListSong data={data.song.items} description={data?.sort_description}/>
+				<ListSong data={data?.song?.items} description={data?.sort_description}/>
 			</Flex>
+			<ArtistSlider
+				title="Nghệ Sĩ Tham Gia"
+				data={data?.artists}
+			/>
 		</ReponsiveContainer>
 	);
 }
