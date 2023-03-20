@@ -156,7 +156,7 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 export const ArtistSlider = (props: { title: string, data: Array<Artist> }) => {
 	const { title, data } = props;
 	return(
-		<Box sx={{ marginY: '40px' }}>
+		<Box sx={{ marginY: '40px', width: '100%' }}>
 			<TextOnline
 				sx={{
 					marginLeft: '10px',
@@ -170,7 +170,7 @@ export const ArtistSlider = (props: { title: string, data: Array<Artist> }) => {
 			>
 				{data.map((item, index) => {
 					return(
-						<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer"}}>
+						<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer", maxWidth: 'fit-content'}}>
 							<Box sx={{ marginTop: '20px', width: 'fit-content' }}>
 								<Image
 									alt=""

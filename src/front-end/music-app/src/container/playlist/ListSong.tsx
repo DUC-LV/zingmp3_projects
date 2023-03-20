@@ -1,6 +1,6 @@
 import Popup from "@/src/components/Popup";
 import { TextLineClamp, TextOnline } from "@/src/components/Text";
-import { convertDuration } from "@/src/untils";
+import { convertDuration, convertSlug } from "@/src/untils";
 import { useRouter } from "next/router";
 import React, { useState } from "react";
 import { BiSortAlt2 } from "react-icons/bi";
@@ -118,9 +118,28 @@ const ListSong = ({ data, description }: Props) => {
 									</Flex>
 								</Flex>
 							</Flex>
-							<Flex sx={{ alignItems: 'center'}}>
+							<Flex
+								sx={{ alignItems: 'center', cursor: 'pointer'}}
+								onClick={() => {
+									router.push({
+										pathname: '../album/[slugAlbum]',
+										query: {
+											slugAlbum: convertSlug(item?.album?.title),
+											id: item?.album?.id
+										}
+									})
+								}}
+							>
 								<TextOnline
-									sx={{ fontSize: '12px', color: '#ffffff80', fontWeight: '500'}}>
+									sx={{
+										fontSize: '12px',
+										color: '#ffffff80',
+										fontWeight: '500',
+										":hover": {
+											color: '#c273ed',
+											textDecoration: 'underline',
+										}
+									}}>
 									{item.album.title}
 								</TextOnline>
 							</Flex>
