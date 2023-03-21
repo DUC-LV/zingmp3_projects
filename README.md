@@ -8,7 +8,6 @@ database:
         username: duc
         password: 080999
 
-cd src -> pip install virtualenv virtualenv env
 
 source env/Script/activate
 
