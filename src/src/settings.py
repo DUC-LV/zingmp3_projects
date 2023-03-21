@@ -42,7 +42,8 @@ INSTALLED_APPS = [
     'playlist_detail',
     'accounts',
     'artists',
-    'album'
+    'album',
+    'videos',
 ]
 
 MIDDLEWARE = [
