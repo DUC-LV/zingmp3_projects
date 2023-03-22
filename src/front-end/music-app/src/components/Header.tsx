@@ -16,6 +16,7 @@ interface ItemProps {
 	backgroundColor?: string,
 }
 const Items = ({ link, isActive, onClick, icon, name }: PropsWithChildren<ItemProps>) => {
+	const router = useRouter();
 	return(
 		<Flex
 			sx={{
@@ -25,7 +26,9 @@ const Items = ({ link, isActive, onClick, icon, name }: PropsWithChildren<ItemPr
 				marginY: '5px',
 				background: isActive ? '#3a3344' : '',
 			}}
-			onClick={onClick}
+			onClick={() => {
+				router.push(link ? String(link) : '')
+			}}
 		>
 			<Box sx={{ height: '20px', width: '20px' }}>{icon}</Box>
 			<TextOnline
@@ -153,7 +156,7 @@ const Header = () => {
 			id: 4,
 			type: '',
 			name: 'MV',
-			link: '',
+			link: '/videos',
 			isActive: (pathName: string) => /^\/mv/.test(pathName),
 			icon: <AiOutlineVideoCamera color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		},
