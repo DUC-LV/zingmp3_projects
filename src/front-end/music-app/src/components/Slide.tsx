@@ -15,6 +15,7 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 	const { banners } = props;
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
 	const [isShow, setIsShow] = useState(false);
+	const [checkType, setCheckType] = useState(false);
 	const router = useRouter();
 	return(
 		<Box>
@@ -32,6 +33,19 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 							onClick={() => {
 								if(checkout === null){
 									setIsShow(true);
+								}
+								if(item?.type == 1 && checkout !== null){
+									setCheckType(true);
+									setIsShow(false);
+								}
+								if(item?.type == 4 && checkout !== null){
+									router.push({
+										pathname: '../album/[slugAlbum]',
+										query: {
+											slugAlbum: item?.id,
+											id: item?.id
+										}
+									})
 								}
 							}}
 						/>
@@ -52,6 +66,23 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 						router.push('/login');
 					} else if (key === 'cancel'){
 						setIsShow(false);
+					}
+				}}
+			/>
+			<Popup
+				isShow={checkType}
+				onClose={() => setIsShow(false)}
+				title="Thông Báo"
+				message="Bạn có muốn phát bài hát này? Danh sách phát hiện tại sẽ bị thay thế."
+				actions={[
+					{ key: 'cancel', title: 'Bỏ qua' },
+					{ key: 'ok', title: 'Phát bài hát' },
+				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/login');
+					} else if (key === 'cancel'){
+						setCheckType(false);
 					}
 				}}
 			/>

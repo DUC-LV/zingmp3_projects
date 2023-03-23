@@ -29,6 +29,7 @@ const VideoCategoriesPage = ({ data }: Props) => {
 		list: "LIST"
 	};
 	const router = useRouter();
+	console.log(router.pathname)
 	const [id, setId] = useState(router.query.id ? Number(router.query.id) : 1);
 	const pushRoute = useCallback(
 		(id: number) => {
@@ -54,7 +55,7 @@ const VideoCategoriesPage = ({ data }: Props) => {
 		else {
 			setId(Number(router.query.id))
 		}
-	}, [id, router, router.asPath]);
+	}, [id, router]);
 	const generateContent = useCallback(() => {
 		return data?.map((section:any, idx:number) => {
 			if(!section.items || section.items.length === 0){

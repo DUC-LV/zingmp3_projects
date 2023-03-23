@@ -82,7 +82,6 @@ class CategoryVideoAPIView(APIView):
         items.append(dict_topic_video)
         # listVideo ******
         topic_video = TopicVideo.objects.filter(id=id)
-        print(topic_video)
         video_topic = VideoOfTopic.objects.filter(topic_id=topic_video[0])
         video_res = []
         for vd_tp in video_topic:
