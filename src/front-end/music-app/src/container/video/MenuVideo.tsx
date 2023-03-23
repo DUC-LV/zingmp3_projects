@@ -23,21 +23,23 @@ const MenuVideo = (props: { data: Array<MenuVideo> }) => {
 					sx={{ alignItems: 'center'}}
 				>
 					{data?.map((item:any, index) => {
-						console.log(item?.id === router?.query?.id)
 						return(
-							<TextOnline
+							<Box
 								key={index}
-								sx={{
-									fontSize: '15px',
-									margin: '0 30px',
-									cursor: 'pointer',
-									color: "white",
-									fontWeight: '600'
-								}}
 								onClick={() => {
-									router.push(`videos/${item?.id}?id=${item?.id}`)
+									router.push(`../videos/${item?.id}?id=${item?.id}`)
 								}}
-							>{item.name}</TextOnline>
+							>
+								<TextOnline
+									sx={{
+										fontSize: '15px',
+										margin: '0 30px',
+										cursor: 'pointer',
+										color: "white",
+										fontWeight: '600'
+									}}
+								>{item.name}</TextOnline>
+							</Box>
 						)
 					})}
 				</Flex>
