@@ -140,8 +140,8 @@ const Header = () => {
 			id: 2,
 			type: '',
 			name: 'Chủ Đề & Thể Loại',
-			link: '/',
-			isActive: (pathName: string) => /^\/tv/.test(pathName),
+			link: '/hub',
+			isActive: (pathName: string) => /^\/hub/.test(pathName),
 			icon: <BiCategoryAlt color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		},
 		{
@@ -223,7 +223,7 @@ const Header = () => {
 				{menu?.map((item:any, index) => {
 					return(
 						<Box key={index}>
-							<Items link={item?.link} isActive={item?.isActive()} icon={item?.icon} name={item?.name}/>
+							<Items link={item?.link} isActive={item?.isActive(router.pathname)} icon={item?.icon} name={item?.name}/>
 						</Box>
 					)
 				})}

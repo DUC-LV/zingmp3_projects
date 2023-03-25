@@ -143,7 +143,7 @@ class HubPageAPIView(APIView):
                 },
                 "topic": {
                     "title": "Top topic",
-                    "items": data_hub_top[0:4],
+                    "items": data_hub_top[0:8],
                 },
                 "popular": {
                     "title": "Thịnh hành",
