@@ -91,3 +91,24 @@ class ArtistOfAlbum(BaseModel):
 
     def __str__(self):
         return f"{self.artist.name}_{self.album.title}"
+
+
+class TopicSong(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    title = models.CharField(max_length=200, default=None, blank=True)
+
+    def __str__(self):
+        return self.title
+
+
+class SongOfTopic(BaseModel):
+    class Meta:
+        ordering = ['created_at']
+
+    topic = models.ForeignKey(TopicSong, on_delete=models.CASCADE)
+    song = models.ForeignKey(Songs, on_delete=models.CASCADE)
+
+    def __str__(self):
+        return f"{self.topic.title}_{self.song.title}"

@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'album',
     'videos',
     'topic_category',
+    'topic_category_detail',
 ]
 
 MIDDLEWARE = [
