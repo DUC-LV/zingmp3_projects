@@ -34,4 +34,5 @@ urlpatterns = [
     path('', include('album.urls')),
     path('', include('videos.urls')),
     path('', include('topic_category.urls')),
+    path('', include('topic_category_detail.urls')),
 ]

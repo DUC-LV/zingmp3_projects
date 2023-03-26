@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import Songs, SongOfPlaylist, ArtistOfSong, Albums, AlbumOfSong, ArtistOfAlbum
+from .models import Songs, SongOfPlaylist, ArtistOfSong, Albums, AlbumOfSong, ArtistOfAlbum, TopicSong, SongOfTopic
 
 
 # Register your models here.
@@ -52,3 +52,19 @@ class ArtistOfAlbum(admin.ModelAdmin):
 
 
 admin.register(ArtistOfAlbum)
+
+
+@admin.register(TopicSong)
+class TopicSong(admin.ModelAdmin):
+    list_display = ["title", "created_at"]
+
+
+admin.register(TopicSong)
+
+
+@admin.register(SongOfTopic)
+class SongOfTopic(admin.ModelAdmin):
+    list_display = ["topic", "song", "created_at"]
+
+
+admin.register(SongOfTopic)
