@@ -1,8 +1,8 @@
 from django.shortcuts import render
 from rest_framework.views import APIView
 from django.http import JsonResponse, HttpResponse
-from .models import Songs, Albums, SongOfPlaylist, ArtistOfSong, AlbumOfSong, ArtistOfAlbum
-from .serializers import SongSerializers, AlbumSerializers
+from .models import Songs, Albums, SongOfPlaylist, ArtistOfSong, AlbumOfSong, ArtistOfAlbum, TopicSong
+from .serializers import SongSerializers, AlbumSerializers, TopicSongSerializers
 from playlists.models import Playlists, ArtistOfPlaylist
 from playlists.serializers import PlaylistSerializers
 from playlists.serializers import ArtistSerializers
@@ -74,6 +74,27 @@ class AlbumAPIView(APIView):
         serializer = AlbumSerializers(album).data
 
         return JsonResponse(serializer, safe=False)
+
+
+class TopicSongAPIView(APIView):
+    def post(self, request):
+        data = request.data
+        if not data:
+            return HttpResponse(status=404)
+        topic_song = TopicSong.objects.create(
+            title=data["title"],
+        )
+        topic_song.save()
+        serializer = TopicSongSerializers(topic_song).data
+
+        return JsonResponse(serializer, safe=False)
+
+    def get(self, request):
+        topic_song = TopicSong.objects.all()
+        if not topic_song.exists():
+            return HttpResponse(status=400)
+        serializer = TopicSongSerializers(topic_song, many=True)
+        return JsonResponse(serializer.data, safe=False)
 
 
 class GetPlaylistDetail(APIView):

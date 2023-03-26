@@ -29,7 +29,9 @@ class HomeAPIView(APIView):
         items.append(res_banner)
 
         # playlist
-        all_topic = TopicPlaylist.objects.all()
+        all_topic = TopicPlaylist.objects.filter(title__in=(
+            'Lựa chọn hôm nay', 'Có Thể Bạn Muốn Nghe', 'Women In Music', 'Nữ nghệ sĩ Việt nổi bật 🌹'
+        ))
         topic_ids = [tp.id for tp in all_topic]
         topic_playlist = PlaylistOfTopic.objects.filter(topic_id__in=topic_ids)
         topic_playlists_map = {}

@@ -1,4 +1,4 @@
-from .models import Songs, Albums
+from .models import Songs, Albums, TopicSong
 from rest_framework import serializers
 
 
@@ -15,3 +15,9 @@ class AlbumSerializers(serializers.ModelSerializer):
         model = Albums
         fields = ["id", "title", "thumbnail", "is_offical", "is_indie", "release_date", "sort_description",
                   "released_at", "pr", "artist_names"]
+
+
+class TopicSongSerializers(serializers.ModelSerializer):
+    class Meta:
+        model = TopicSong
+        fields = ["title"]
