@@ -48,6 +48,8 @@ class TopicCategoryDetail(APIView):
         for i in range(len(res_playlist)):
             items.append(res_playlist[i])
 
+        # song of hub
+
         res = dict(hub_data, **{"sections": items})
         res_hub_detail = {
             "err": 0,
