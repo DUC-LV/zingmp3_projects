@@ -1,7 +1,8 @@
-import React, { useCallback } from "react";
+import React, { useCallback, useEffect, useState } from "react";
 import getHome from "@/src/services/getHome";
 import { BannerSlider, PlaylistSlider } from "../components/Slide";
 import ReponsiveContainer from "../components/ReponsiveContainer";
+import LoadingHome from "../container/Loading/SkeletonLoading";
 
 type Props = {
 	data: Array<object>
@@ -19,10 +20,12 @@ export async function getServerSideProps() {
 	}
 }
 const Home = ({ data }: Props) => {
+
 	const SectionType = {
 		banner: "banner",
 		playlist: "playlist"
 	};
+
 	const generateContent = useCallback(() => {
 		return data?.map((section:any, idx:number) => {
 			if(!section.items || section.items.length === 0){
@@ -48,6 +51,26 @@ const Home = ({ data }: Props) => {
 			}
 		})
 	}, [SectionType?.banner, SectionType.playlist, data])
+
+	const hasData = data && data?.length > 0;
+	const [loading, setLoading] = useState(hasData);
+
+	useEffect(() => {
+		if(hasData){
+			setTimeout(() => {
+				setLoading(false);
+			}, 200)
+		}
+	}, [hasData])
+
+	if(loading){
+		return(
+			<ReponsiveContainer>
+				<LoadingHome />
+			</ReponsiveContainer>
+		);
+	}
+
 	return(
 		<ReponsiveContainer>
 			{generateContent()}
