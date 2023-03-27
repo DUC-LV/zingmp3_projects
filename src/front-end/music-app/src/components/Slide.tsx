@@ -13,7 +13,7 @@ import Popup from "./Popup";
 
 export const BannerSlider = (props: { banners: Array<Banner> }) => {
 	const { banners } = props;
-	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	const [isShow, setIsShow] = useState(false);
 	const [checkType, setCheckType] = useState(false);
 	const router = useRouter();
@@ -94,7 +94,7 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: string} ) => {
 	const { playlists, title } = props;
 	const router = useRouter();
-	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	const [isShow, setIsShow] = useState(false);
 	return(
 		<Box>

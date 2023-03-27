@@ -4,7 +4,7 @@ import Header from "../components/Header";
 import SearchBar from "./SearchBar";
 
 const Layout = ({ children }: React.PropsWithChildren<{}>) => {
-	const checkout = typeof window !== 'undefined' ? localStorage.getItem('token') : undefined;
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	return(
 		<Box>
 			<Header />

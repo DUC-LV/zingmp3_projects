@@ -216,7 +216,7 @@ const SearchBar = ({ checkout }: Props) => {
 										borderRadius: '8px'
 									}}
 									onClick={() => {
-										localStorage.removeItem("token");
+										localStorage.removeItem("access_token");
 										setTimeout(() => {
 											router.push('/login')
 										}, 500)

@@ -15,7 +15,8 @@ const LoginPage = () => {
 		e.preventDefault();
 		try {
 			axiosInstance.post('api/login/', { username: username.value, password: password.value}).then(res => {
-				localStorage.setItem("token", res.data.access);
+				localStorage.setItem("access_token", res.data.access);
+				localStorage.setItem('refresh_token', res.data.refresh);
 				setTimeout(() => {
 					router.push('/')
 				}, 1000)
