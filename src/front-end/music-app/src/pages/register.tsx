@@ -16,7 +16,6 @@ const Register = () => {
 		e.preventDefault();
 		try {
 			axiosInstance.post('api/register/', { username: username.value, email: email.value, password: password.value}).then(res => {
-				console.log(res)
 				setTimeout(() => {
 					router.push('/login')
 				}, 1000)

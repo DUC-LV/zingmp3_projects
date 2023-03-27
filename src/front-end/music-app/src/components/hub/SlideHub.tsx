@@ -1,3 +1,5 @@
+import { convertSlug } from "@/src/untils";
+import { useRouter } from "next/router";
 import React from "react";
 import {Box, Grid, Image, Text} from "theme-ui";
 type props = {
@@ -5,6 +7,7 @@ type props = {
 	data?: any,
 }
 const SlideHub = ({ title, data }: props) => {
+	const router = useRouter();
 	return(
 		<Box sx={{ marginY: '10px' }}>
 			<Text
@@ -15,7 +18,18 @@ const SlideHub = ({ title, data }: props) => {
 				<Grid columns={4} gap={30}>
 					{data?.map((item:any, index:number) => {
 						return(
-							<Box key={index}>
+							<Box
+								key={index}
+								onClick={() => {
+									router.push({
+										pathname: './hub/[slugHub]',
+										query: {
+											slugHub: convertSlug(item?.title),
+											id: item?.id,
+										}
+									})
+								}}
+							>
 								<Image
 									alt=""
 									src={item?.thumbnail_has_text}

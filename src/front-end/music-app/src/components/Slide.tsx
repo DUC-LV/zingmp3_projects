@@ -91,8 +91,8 @@ export const BannerSlider = (props: { banners: Array<Banner> }) => {
 }
 
 
-export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: string} ) => {
-	const { playlists, title } = props;
+export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: string, pathname: string} ) => {
+	const { playlists, title , pathname} = props;
 	const router = useRouter();
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	const [isShow, setIsShow] = useState(false);
@@ -134,7 +134,7 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 								}
 								else {
 									router.push({
-										pathname:"playlist/[slugPlaylist]",
+										pathname:pathname,
 										query: {
 											slugPlaylist: convertSlug(String(item.title)),
 											id: item?.id,
