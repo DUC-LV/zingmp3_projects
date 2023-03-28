@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'videos',
     'topic_category',
     'topic_category_detail',
+    'live_stream',
 ]
 
 MIDDLEWARE = [
