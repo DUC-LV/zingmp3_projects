@@ -40,6 +40,43 @@ export const LoadingVideo = () => {
 		</SkeletonTheme>
 	);
 }
+
+export const LoadingTopicCategory = () => {
+	const arr = new Array(4).fill(0);
+	return(
+		<SkeletonTheme baseColor="rgba(244,246,248,0.05)" highlightColor="rgba(244,246,248,0.05)">
+			<AspectRatio ratio={16 / 4.7}>
+				<Skeleton width={'100%'} height={'100%'} borderRadius={10} />
+			</AspectRatio>
+			<Box>
+				<Box sx={{ margin: '20px 0 10px 0'}}>
+					<Skeleton width={'10%'} height={'100%'} borderRadius={10} />
+				</Box>
+				<Grid columns={4} gap={30}>
+					{arr.map(() => (
+						<Box key={Math.random()} sx={{ marginY: '10px'}}>
+							<AspectRatio ratio={9 / 5}>
+								<Skeleton width={'100%'} height={'100%'}/>
+							</AspectRatio>
+						</Box>
+					))}
+				</Grid>
+				<Box sx={{ margin: '20px 0 10px 0'}}>
+					<Skeleton width={'10%'} height={'100%'} borderRadius={10} />
+				</Box>
+				<Grid columns={4} gap={30}>
+					{arr.map(() => (
+						<Box key={Math.random()} sx={{ marginY: '10px'}}>
+							<AspectRatio ratio={9 / 5}>
+								<Skeleton width={'100%'} height={'100%'}/>
+							</AspectRatio>
+						</Box>
+					))}
+				</Grid>
+			</Box>
+		</SkeletonTheme>
+	);
+}
 const SkeletonVideo = () => {
 	const arrVideo = new Array(3).fill(0);
 	return(

@@ -5,6 +5,7 @@ import getCategoryVideo from "@/src/services/getCategoryVideo";
 import ReponsiveContainer from "@/src/components/ReponsiveContainer";
 import MenuVideo from "@/src/container/video/MenuVideo";
 import ListVideo from "@/src/container/video/ListVideo";
+import { LoadingVideo } from "@/src/container/Loading/SkeletonLoading";
 type Props = {
 	data: Array<object>
 }
@@ -81,6 +82,24 @@ const VideoCategoriesPage = ({ data }: Props) => {
 			}
 		})
 	}, [data, type?.list, type?.tab])
+	const hasData = data && data?.length > 0;
+	const [loading, setLoading] = useState(hasData);
+
+	useEffect(() => {
+		if(hasData){
+			setTimeout(() => {
+				setLoading(false);
+			}, 200)
+		}
+	}, [hasData])
+
+	if(loading){
+		return(
+			<ReponsiveContainer>
+				<LoadingVideo />
+			</ReponsiveContainer>
+		);
+	}
 	return(
 		<ReponsiveContainer>
 			{generateContent()}

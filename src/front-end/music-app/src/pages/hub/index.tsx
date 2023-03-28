@@ -1,9 +1,10 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import ReponsiveContainer from "@/src/components/ReponsiveContainer";
 import getHub from "@/src/services/getHub";
 import HubBanner from "@/src/components/hub/HubBanner";
 import SlideHub from "@/src/components/hub/SlideHub";
 import { Button, Flex } from "theme-ui";
+import { LoadingTopicCategory } from "@/src/container/Loading/SkeletonLoading";
 type props = {
 	data: any,
 }
@@ -23,6 +24,24 @@ const HubPage = ({ data }: props) => {
 	const [seenMore, setSeenMore] = useState(true);
 	const toggleSeenMore = () => {
 		setSeenMore(!seenMore);
+	}
+	const hasData = data && data?.length > 0;
+	const [loading, setLoading] = useState(hasData);
+
+	useEffect(() => {
+		if(hasData){
+			setTimeout(() => {
+				setLoading(false);
+			}, 200)
+		}
+	}, [hasData])
+
+	if(loading){
+		return(
+			<ReponsiveContainer>
+				<LoadingTopicCategory />
+			</ReponsiveContainer>
+		);
 	}
 	return(
 		<ReponsiveContainer>
