@@ -35,4 +35,5 @@ urlpatterns = [
     path('', include('videos.urls')),
     path('', include('topic_category.urls')),
     path('', include('topic_category_detail.urls')),
+    path('', include('live_stream.urls')),
 ]
