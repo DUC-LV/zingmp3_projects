@@ -1,14 +1,15 @@
-import React, { useState } from "react";
-import {Box, Flex, Image} from "theme-ui";
+import React, {useCallback, useState} from "react";
+import {Box, Flex, Image, Text} from "theme-ui";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
 import {Artist, Banner, Playlist } from "@/src/schemas";
 import {TextLineClamp, TextOnline} from "@/src/components/Text";
-import { AiOutlineArrowRight } from "react-icons/ai";
+import { AiOutlineArrowRight, AiFillHeart } from "react-icons/ai";
 import { useRouter } from "next/router";
 import { convertSlug } from "../untils";
 import { Autoplay } from "swiper";
 import Popup from "./Popup";
+import { BsPlayFill, BsThreeDots } from "react-icons/bs";
 
 
 export const BannerSlider = (props: { banners: Array<Banner> }) => {
@@ -96,6 +97,16 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 	const router = useRouter();
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	const [isShow, setIsShow] = useState(false);
+	const [like, setLike] = useState(false);
+	const toggleLike = useCallback(() => {
+		setLike(!like)
+		if(checkout === null){
+			setIsShow(true);
+		}
+		else if(!like){
+		}else if(like){
+		}
+	}, [checkout, like])
 	return(
 		<Box>
 			<Flex sx={{ justifyContent: 'space-between'}}>
@@ -125,24 +136,58 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 				{playlists.map((item, index) => (
 					<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer"}}>
 						<Image
+							className="image_playlist"
 							alt=""
 							src={item.thumbnail_m}
-							sx={{ borderRadius: '8px' }}
-							onClick={() => {
-								if(checkout === null){
-									setIsShow(true);
-								}
-								else {
-									router.push({
-										pathname:pathname,
-										query: {
-											slugPlaylist: convertSlug(String(item.title)),
-											id: item?.id,
-										}
-									})
-								}
+							sx={{
+								borderRadius: '8px',
+								position: 'relative',
 							}}
 						/>
+						<Box className="control_playlist" sx={{ position: 'absolute', top: '35%', width: '91%'}}>
+							<Flex
+								sx={{
+									justifyContent: 'space-around',
+									alignItems: 'center',
+									margin: '0 30px'
+								}}>
+								<AiFillHeart
+									style={{
+										height: '20px',
+										width: '20px',
+										color: like ? '#9b4de0' : 'white',
+									}}
+									onClick={toggleLike}
+								/>
+								<Flex
+									sx={{
+										height: '40px',
+										width: '40px',
+										borderRadius: '999px',
+										border: '1px solid white',
+										justifyContent: 'center',
+										alignItems: 'center',
+									}}
+									onClick={() => {
+										if(checkout === null){
+											setIsShow(true);
+										}
+										else {
+											router.push({
+												pathname:pathname,
+												query: {
+													slugPlaylist: convertSlug(String(item.title)),
+													id: item?.id,
+												}
+											})
+										}
+									}}
+								>
+									<BsPlayFill style={{ color: 'white', height: '20px', width: '20px' }}/>
+								</Flex>
+								<BsThreeDots style={{ height: '20px', width: '20px', color: 'white' }}/>
+							</Flex>
+						</Box>
 						<Box sx={{ mt: '10px' }}>
 							<TextOnline
 								sx={{

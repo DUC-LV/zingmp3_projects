@@ -1,10 +1,11 @@
 import React, {PropsWithChildren} from "react";
 import {Box, Flex, Image, Text, Button} from "theme-ui";
 import { useRouter } from "next/router";
-import { BsFillPersonFill, BsMusicNoteBeamed } from "react-icons/bs";
-import { BiRadioCircleMarked, BiBarChart, BiListCheck, BiCategoryAlt } from "react-icons/bi";
+import { BsFillPersonFill, BsMusicNoteBeamed, BsMusicPlayerFill } from "react-icons/bs";
+import { BiRadioCircleMarked, BiBarChart, BiCategoryAlt } from "react-icons/bi";
 import { AiOutlineStar, AiOutlineVideoCamera } from "react-icons/ai";
 import { TextOnline } from "./Text";
+import { MdOndemandVideo } from "react-icons/md";
 
 interface ItemProps {
 	link?: string,
@@ -120,10 +121,10 @@ const Header = () => {
 		{
 			id: 4,
 			type: '',
-			name: 'Theo Dõi',
-			link: '',
+			name: 'Radio',
+			link: '/radio',
 			isActive: (pathName: string) => /^\/tv/.test(pathName),
-			icon: <BiListCheck color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
+			icon: <BsMusicPlayerFill color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		},
 	];
 
@@ -158,7 +159,7 @@ const Header = () => {
 			name: 'MV',
 			link: '/videos',
 			isActive: (pathName: string) => /^\/videos/.test(pathName),
-			icon: <AiOutlineVideoCamera color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
+			icon: <MdOndemandVideo color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		},
 	];
 	return(

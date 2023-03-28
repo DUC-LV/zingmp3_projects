@@ -1,0 +1,12 @@
+.control_playlist{
+	display: none;
+}
+.image_playlist:hover{
+	opacity: 0.3;
+}
+.image_playlist:hover + .control_playlist{
+	display: block;
+}
+.control_playlist:hover{
+	display: block;
+}

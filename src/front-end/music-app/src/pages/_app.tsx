@@ -5,6 +5,7 @@ import NextNProgress from 'nextjs-progressbar';
 import "swiper/swiper-bundle.min.css";
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
+import './styles.css';
 
 export default function App({ Component, pageProps }: AppProps) {
 	return <Layout>
