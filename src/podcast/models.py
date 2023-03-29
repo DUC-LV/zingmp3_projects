@@ -59,7 +59,7 @@ class PodCastOfTopic(BaseModel):
     podcast = models.ForeignKey(PodCast, on_delete=models.CASCADE)
 
     def __str__(self):
-        return f"{self.topic.title}_{self.podcast.name}"
+        return f"{self.topic.title}_{self.podcast.title}"
 
 
 class PodCastCategoryOfTopic(BaseModel):
