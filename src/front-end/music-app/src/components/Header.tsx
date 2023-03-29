@@ -123,7 +123,7 @@ const Header = () => {
 			type: '',
 			name: 'Radio',
 			link: '/radio',
-			isActive: (pathName: string) => /^\/tv/.test(pathName),
+			isActive: (pathName: string) => /^\/radio/.test(pathName),
 			icon: <BsMusicPlayerFill color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		},
 	];
