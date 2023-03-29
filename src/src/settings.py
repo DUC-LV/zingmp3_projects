@@ -47,6 +47,7 @@ INSTALLED_APPS = [
     'topic_category',
     'topic_category_detail',
     'live_stream',
+    'podcast',
 ]
 
 MIDDLEWARE = [
