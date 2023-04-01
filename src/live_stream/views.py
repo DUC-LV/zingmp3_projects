@@ -3,10 +3,12 @@ from rest_framework.views import APIView
 from django.http import JsonResponse, HttpResponse
 from .models import Streamings, Hosts, Programs
 from .serializers import StreamingSerializers, HostSerializers, ProgramSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 class StreamingAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -43,6 +45,7 @@ class StreamingAPIView(APIView):
 
 
 class HostAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -71,6 +74,7 @@ class HostAPIView(APIView):
 
 
 class ProgramAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data

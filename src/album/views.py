@@ -6,11 +6,14 @@ from playlists.serializers import ArtistSerializers
 from rest_framework.views import APIView
 from rest_framework.response import Response
 from django.http import HttpResponse
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 
 class GetAlbumDetail(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request, id):
         album = Albums.objects.filter(id=id).all()
         if not album.exists():

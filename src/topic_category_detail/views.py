@@ -8,10 +8,13 @@ from playlists.serializers import ArtistSerializers, PlaylistSerializers
 from topic_category.serializers import HubSerializers
 from playlist_detail.models import SongOfTopic, ArtistOfSong, ArtistOfAlbum, AlbumOfSong
 from playlist_detail.serializers import SongSerializers, AlbumSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 class TopicCategoryDetail(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request, id):
         items = []
 

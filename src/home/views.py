@@ -5,11 +5,14 @@ from banners.serializers import BannerSerializers
 from banners.models import Banners
 from playlists.models import TopicPlaylist, Playlists, PlaylistOfTopic, Artists, ArtistOfPlaylist
 from playlists.serializers import TopicPlaylistSerializers, PlaylistSerializers, ArtistSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 
 class HomeAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request):
         items = []
 

@@ -3,11 +3,14 @@ from rest_framework.views import APIView
 from django.http import JsonResponse, HttpResponse
 from .serializers import BannerSerializers
 from .models import Banners
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 
 class BannerAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request):
         banners = Banners.objects.all()
         if not banners.exists():
@@ -18,6 +21,8 @@ class BannerAPIView(APIView):
 
 
 class UpdateBannerAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def post(self, request):
         data = request.data
         if not data:

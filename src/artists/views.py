@@ -7,10 +7,13 @@ from playlists.models import Artists, ArtistOfPlaylist
 from playlists.serializers import ArtistSerializers, PlaylistSerializers
 from playlist_detail.models import ArtistOfSong, AlbumOfSong, ArtistOfAlbum
 from playlist_detail.serializers import SongSerializers, AlbumSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 class AddDataArtistDetail(APIView):
+    permission_classes = [AllowAny]
+
     def post(self, request):
         data = request.data
         if not data:
@@ -31,6 +34,8 @@ class AddDataArtistDetail(APIView):
 
 
 class GetArtistDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request, id):
         # thông tin artist_detail
         artist = Artists.objects.filter(id=id).all()
