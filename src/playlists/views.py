@@ -3,10 +3,12 @@ from rest_framework.views import APIView
 from django.http import JsonResponse, HttpResponse
 from .models import TopicPlaylist, Playlists, Artists, PlaylistOfTopic, ArtistOfPlaylist
 from .serializers import TopicPlaylistSerializers, PlaylistSerializers, ArtistSerializers, PlaylistSortDataSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 class TopicPlaylistAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -22,6 +24,7 @@ class TopicPlaylistAPIView(APIView):
 
 
 class PlaylistAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def get(self, request):
         playlists = Playlists.objects.all()
@@ -64,6 +67,7 @@ class PlaylistAPIView(APIView):
 
 
 class ArtistAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def get(self, request):
         artists = Artists.objects.all()
@@ -93,6 +97,7 @@ class ArtistAPIView(APIView):
 
 
 class PostPlaylistDataSort(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data

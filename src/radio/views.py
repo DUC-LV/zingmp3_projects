@@ -7,10 +7,12 @@ from podcast.models import TopicPodCast, PodCast, TopicPodCastCategory, PodCastC
     PodCastCategoryOfTopic
 from podcast.serializers import TopicPodCastSerializers, PodCastSerializers, TopicPodCastCategorySerializers, \
     PodCastCategorySerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 class RadioAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def get(self, request):
 
@@ -101,6 +103,8 @@ class RadioAPIView(APIView):
 
 
 class GetStreamingDetailAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request, id):
 
         streaming = Streamings.objects.filter(id=id).all()

@@ -4,11 +4,14 @@ from django.http import JsonResponse, HttpResponse
 from .models import TopicVideo, Videos, VideoOfTopic, ArtistOfVideo
 from .serializers import TopicVideoSerializers, VideoSerializers
 from playlists.serializers import ArtistSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 
 class TopicVideoAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def post(self, request):
         data = request.data
         if not data:
@@ -33,6 +36,8 @@ class TopicVideoAPIView(APIView):
 
 
 class VideoAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def post(self, request):
         data = request.data
         if not data:
@@ -65,6 +70,8 @@ class VideoAPIView(APIView):
 
 
 class CategoryVideoAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request, id):
         items = []
         # topicVideo *******

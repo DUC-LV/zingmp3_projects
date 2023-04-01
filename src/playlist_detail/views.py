@@ -6,11 +6,14 @@ from .serializers import SongSerializers, AlbumSerializers, TopicSongSerializers
 from playlists.models import Playlists, ArtistOfPlaylist
 from playlists.serializers import PlaylistSerializers
 from playlists.serializers import ArtistSerializers
+from rest_framework.permissions import AllowAny, IsAuthenticated
 
 
 # Create your views here.
 
 class SongAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request):
         song = Songs.objects.all()
         if not song.exists():
@@ -48,6 +51,8 @@ class SongAPIView(APIView):
 
 
 class AlbumAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request):
         album = Albums.objects.all()
         if not album.exists():
@@ -77,6 +82,8 @@ class AlbumAPIView(APIView):
 
 
 class TopicSongAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def post(self, request):
         data = request.data
         if not data:
@@ -98,6 +105,8 @@ class TopicSongAPIView(APIView):
 
 
 class GetPlaylistDetail(APIView):
+    permission_classes = [AllowAny]
+
     def get(self, request, id):
         playlist = Playlists.objects.filter(id=id).all()
         if not playlist.exists():

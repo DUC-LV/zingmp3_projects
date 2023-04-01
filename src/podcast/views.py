@@ -4,11 +4,13 @@ from .serializers import TopicPodCastSerializers, PodCastSerializers, TopicPodCa
     PodCastCategorySerializers
 from .models import TopicPodCast, PodCast, TopicPodCastCategory, PodCastCategory
 from django.http import HttpResponse, JsonResponse
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 
 class TopicPodCastAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -33,6 +35,7 @@ class TopicPodCastAPIView(APIView):
 
 
 class PodCastAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -63,6 +66,7 @@ class PodCastAPIView(APIView):
 
 
 class TopicPodCastCategoryAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -87,6 +91,8 @@ class TopicPodCastCategoryAPIView(APIView):
 
 
 class PodCastCategoryAPIView(APIView):
+    permission_classes = [AllowAny]
+
     def post(self, request):
         data = request.data
         if not data:

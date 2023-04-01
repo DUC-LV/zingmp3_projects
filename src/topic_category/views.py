@@ -6,10 +6,12 @@ from .serializers import TopicHubSerializers, HubSerializers
 from random import choice
 from playlists.models import Playlists, ArtistOfPlaylist
 from playlists.serializers import ArtistSerializers, PlaylistSerializers
+from rest_framework.permissions import AllowAny
 
 
 # Create your views here.
 class TopicHubAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, reuqest):
         data = reuqest.data
@@ -34,6 +36,7 @@ class TopicHubAPIView(APIView):
 
 
 class HubAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def post(self, request):
         data = request.data
@@ -65,6 +68,7 @@ class HubAPIView(APIView):
 
 
 class HubPageAPIView(APIView):
+    permission_classes = [AllowAny]
 
     def get(self, request):
         # hub highlight
