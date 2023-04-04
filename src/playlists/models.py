@@ -1,5 +1,6 @@
 from django.db import models
 from commons.models import BaseModel
+from django.conf import settings
 
 
 # Create your models here.
@@ -36,6 +37,7 @@ class Playlists(BaseModel):
     is_album = models.BooleanField(default=False)
     text_type = models.CharField(max_length=100, default="Playlist")
     is_single = models.BooleanField(default=False)
+    followed = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='follow_playlist')
 
     def __str__(self):
         return self.title
