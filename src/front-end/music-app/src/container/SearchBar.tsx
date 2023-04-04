@@ -98,8 +98,9 @@ const InputSearch = () => {
 
 type Props = {
 	checkout: string;
+	data: any;
 }
-const SearchBar = ({ checkout }: Props) => {
+const SearchBar = ({ checkout, data }: Props) => {
 	const icon = [
 		// {
 		// 	icon: <BsArrowBarUp style={{ color: 'white'}}/>
@@ -203,32 +204,71 @@ const SearchBar = ({ checkout }: Props) => {
 								):
 								<Flex
 									sx={{
+										flexDirection: 'column',
 										position: 'absolute',
 										top: '120%',
-										height: '50px',
+										height: '145px',
 										width: '180px',
 										backgroundColor: '#231b2e',
 										right: '20%',
 										transition: 'opacity 2000ms ease-in-out',
-										padding: '15px',
-										alignItems: 'center',
-										cursor: 'pointer',
 										borderRadius: '8px'
-									}}
-									onClick={() => {
-										localStorage.removeItem("access_token");
-										setTimeout(() => {
-											router.push('/login')
-										}, 500)
 									}}
 								>
 									<Text
-									sx={{
-										fontSize: '16px',
-										fontWeight: '600',
-										color: 'white'
-									}}
-									>Đăng Xuất</Text>
+										sx={{
+											fontSize: '16px',
+											fontWeight: '600',
+											color: 'white',
+											padding: '15px',
+										}}
+									>Xin Chào, {data?.userName}</Text>
+									<Box sx={{ height: '1px', width: '100%', background: 'grey' }}></Box>
+									<Flex
+										onClick={() => {
+											router.push('/packages')
+										}}
+										sx={{
+											padding: '15px',
+											":hover": {
+												background: '#2d3541',
+											},
+											cursor: 'pointer',
+										}}
+									>
+										<Text
+											sx={{
+												fontSize: '16px',
+												fontWeight: '600',
+												color: 'white',
+											}}
+										>Nâng Cấp VIP</Text>
+									</Flex>
+									<Flex
+										onClick={() => {
+											localStorage.removeItem("access_token");
+											localStorage.removeItem("refresh_token");
+											setTimeout(() => {
+												router.push('/login')
+											}, 500)
+										}}
+										sx={{
+											padding: '15px',
+											":hover": {
+												background: '#2d3541',
+												borderRadius: '0 0 8px 8px'
+											},
+											cursor: 'pointer',
+										}}
+									>
+										<Text
+											sx={{
+												fontSize: '16px',
+												fontWeight: '600',
+												color: 'white',
+											}}
+										>Đăng Xuất</Text>
+									</Flex>
 								</Flex>
 							)}
 						</Flex>

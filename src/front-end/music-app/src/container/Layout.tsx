@@ -6,25 +6,29 @@ import axios from "axios";
 
 const Layout = ({ children }: React.PropsWithChildren<{}>) => {
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
-	// const [data, setData] = useState();
-	// const url = 'http://localhost:8000/user-info/';
-	// // eslint-disable-next-line react-hooks/exhaustive-deps
-	// const config : object = {
-	// 	headers: {
-	// 		'Authorization': typeof window !== 'undefined' ? 'Bearer ' + localStorage.getItem('access_token'): '',
-	// 		'Content-Type': 'application/json',
-	// 		'accept': 'application/json',
-	// 	}
-	// }
-	// useEffect(() => {
-	// 	axios.get(url, config).then(res => {
-	// 		setData(res.data.data);
-	// 	})
-	// }, [config])
+	const [data, setData] = useState();
+	const url = 'http://localhost:8000/user-info/';
+	// eslint-disable-next-line react-hooks/exhaustive-deps
+	const config : object = {
+		headers: {
+			'Authorization': typeof window !== 'undefined' ? 'Bearer ' + localStorage.getItem('access_token'): '',
+			'Content-Type': 'application/json',
+			'accept': 'application/json',
+		}
+	}
+	useEffect(() => {
+		if(!localStorage.getItem('access_token')){
+			return;
+		}
+		axios.get(url, config).then(res => {
+			setData(res.data.data);
+		})
+	}, [config])
 	return(
 		<Box>
 			<Header />
-			<SearchBar checkout={checkout ? checkout : ''}/>
+			<SearchBar
+				checkout={checkout ? checkout : ''} data={data}/>
 			{children}
 		</Box>
 	)
