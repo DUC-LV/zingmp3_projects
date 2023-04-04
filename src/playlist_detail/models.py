@@ -1,6 +1,7 @@
 from django.db import models
 from commons.models import BaseModel
 from playlists.models import Playlists, Artists
+from django.conf import settings
 
 
 # Create your models here.
@@ -26,6 +27,7 @@ class Songs(BaseModel):
     streaming_status = models.IntegerField(default=1, blank=True)
     allow_audio_ads = models.BooleanField(default=True, blank=True)
     has_lyric = models.BooleanField(default=False, blank=True)
+    followed = models.ManyToManyField(settings.AUTH_USER_MODEL, related_name='follow_song')
 
     def __str__(self):
         return self.title

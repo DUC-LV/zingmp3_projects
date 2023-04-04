@@ -38,4 +38,5 @@ urlpatterns = [
     path('', include('live_stream.urls')),
     path('', include('podcast.urls')),
     path('', include('radio.urls')),
+    path('', include('follow.urls')),
 ]
