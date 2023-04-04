@@ -5,6 +5,7 @@ import { BsArrowBarUp } from "react-icons/bs";
 import { RxAvatar } from "react-icons/rx";
 import {useRouter} from "next/router";
 import useOnClickOutside from "use-onclickoutside";
+import Popup from "../components/Popup";
 
 interface ItemProps {
 	icon?: string,
@@ -181,7 +182,7 @@ const SearchBar = ({ checkout, data }: Props) => {
 											top: '120%',
 											height: '50px',
 											width: '180px',
-											backgroundColor: '#231b2e',
+											backgroundColor: '#34224f',
 											right: '20%',
 											transition: 'opacity 2000ms ease-in-out',
 											padding: '15px',
@@ -209,7 +210,7 @@ const SearchBar = ({ checkout, data }: Props) => {
 										top: '120%',
 										height: '145px',
 										width: '180px',
-										backgroundColor: '#231b2e',
+										backgroundColor: '#34224f',
 										right: '20%',
 										transition: 'opacity 2000ms ease-in-out',
 										borderRadius: '8px'
@@ -231,7 +232,7 @@ const SearchBar = ({ checkout, data }: Props) => {
 										sx={{
 											padding: '15px',
 											":hover": {
-												background: '#2d3541',
+												background: 'hsla(0,0%,100%,0.1)',
 											},
 											cursor: 'pointer',
 										}}
@@ -249,13 +250,13 @@ const SearchBar = ({ checkout, data }: Props) => {
 											localStorage.removeItem("access_token");
 											localStorage.removeItem("refresh_token");
 											setTimeout(() => {
-												router.push('/login')
+												router.push('/')
 											}, 500)
 										}}
 										sx={{
 											padding: '15px',
 											":hover": {
-												background: '#2d3541',
+												background: 'hsla(0,0%,100%,0.1)',
 												borderRadius: '0 0 8px 8px'
 											},
 											cursor: 'pointer',

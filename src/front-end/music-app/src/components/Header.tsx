@@ -97,9 +97,9 @@ const Header = () => {
 		{
 			id: 1,
 			type: '',
-			name: 'Cá Nhân',
-			link: '',
-			isActive: (pathName: string) => /^\/tv/.test(pathName),
+			name: 'Thư Viện',
+			link: '/mymusic',
+			isActive: (pathName: string) => /^\/mymusic/.test(pathName),
 			icon: <BsFillPersonFill color="#DADADA" style={{ height: '18px', width: '18px', cursor: 'pointer'}}/>
 		},
 		{
