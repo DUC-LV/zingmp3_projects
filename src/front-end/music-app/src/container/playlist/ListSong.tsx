@@ -28,7 +28,6 @@ const ListSong = ({ data, description }: Props) => {
 	return(
 		<Flex
 			sx={{
-				marginX: '40px',
 				flexDirection: 'column',
 				flex: 'auto',
 				"@media screen and (max-width: 1200px)": {
@@ -105,7 +104,7 @@ const ListSong = ({ data, description }: Props) => {
 								}
 							}}
 						>
-							<Flex sx={{ marginLeft: '25px' }}>
+							<Flex sx={{ marginLeft: '25px'}}>
 								<Image
 									alt=""
 									src={item.thumbnail}
