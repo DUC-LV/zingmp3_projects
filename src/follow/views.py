@@ -102,7 +102,7 @@ class FavouriteAPIView(APIView):
             data_song.append(song_json)
 
         res_song = {
-            "sectionType": "songs",
+            "sectionType": "song",
             "title": "SONG",
             "items": data_song
         }
