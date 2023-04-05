@@ -23,7 +23,7 @@ const Layout = ({ children }: React.PropsWithChildren<{}>) => {
 		axios.get(url, config).then(res => {
 			setData(res.data.data);
 		})
-	}, [config])
+	}, [])
 	return(
 		<Box>
 			<Header />

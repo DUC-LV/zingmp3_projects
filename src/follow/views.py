@@ -22,7 +22,7 @@ class FollowAPIView(APIView):
         song = Songs.objects.filter(id=song_id)
         if playlist and not song:
             list_post_playlist = user.follow_playlist.all()
-            if playlist_id in list_post_playlist:
+            if playlist[0] in list_post_playlist:
                 user.follow_playlist.remove(playlist[0])
             else:
                 user.follow_playlist.add(playlist[0])
@@ -34,7 +34,7 @@ class FollowAPIView(APIView):
 
         if not playlist and song:
             list_post_song = user.follow_song.all()
-            if song_id in list_post_song:
+            if song[0] in list_post_song:
                 user.follow_song.remove(song[0])
             else:
                 user.follow_song.add(song[0])
@@ -45,6 +45,10 @@ class FollowAPIView(APIView):
             }, safe=False)
 
         return JsonResponse({"code": 400, "message": "Bad Request"}, safe=False)
+
+
+class FavouriteAPIView(APIView):
+    permission_classes = [IsAuthenticated]
 
     def get(self, request):
         user = request.user
@@ -110,4 +114,3 @@ class FollowAPIView(APIView):
             }
         }
         return JsonResponse(res, safe=False)
-
