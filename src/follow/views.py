@@ -71,6 +71,7 @@ class FavouriteAPIView(APIView):
         res_playlist = {
             "sectionType": "playlist",
             "viewType": "slider",
+            "title": "PLAYLIST",
             "items": data_playlist
         }
 
@@ -102,6 +103,7 @@ class FavouriteAPIView(APIView):
 
         res_song = {
             "sectionType": "songs",
+            "title": "SONG",
             "items": data_song
         }
 

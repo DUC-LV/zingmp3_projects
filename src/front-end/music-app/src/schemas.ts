@@ -9,6 +9,7 @@ export interface Playlist {
 	title?: string,
 	sort_description?: string,
 	thumbnail_m?: string,
+	followed?: any,
 }
 export interface Artist {
 	id?: number,

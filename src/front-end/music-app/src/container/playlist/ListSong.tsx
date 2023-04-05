@@ -2,9 +2,12 @@ import Popup from "@/src/components/Popup";
 import { TextLineClamp, TextOnline } from "@/src/components/Text";
 import { convertDuration, convertSlug } from "@/src/untils";
 import { useRouter } from "next/router";
-import React, { useState } from "react";
+import React, {useCallback, useEffect, useState} from "react";
 import { BiSortAlt2 } from "react-icons/bi";
 import { Box, Flex, Grid, Image } from "theme-ui";
+import {AiFillHeart} from "react-icons/ai";
+import {toast, ToastContainer} from "react-toastify";
+import axios from "axios";
 type Props = {
 	data: Array<object>
 	description: string,
@@ -12,6 +15,16 @@ type Props = {
 const ListSong = ({ data, description }: Props) => {
 	const router = useRouter();
 	const [isShow, setIsShow] = useState(false);
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
+	const url = 'http://localhost:8000/update-follow/';
+	// eslint-disable-next-line react-hooks/exhaustive-deps
+	const config : object = {
+		headers: {
+			'Authorization': typeof window !== 'undefined' ? 'Bearer ' + localStorage.getItem('access_token'): '',
+			'Content-Type': 'application/json',
+			'accept': 'application/json',
+		}
+	}
 	return(
 		<Flex
 			sx={{
@@ -57,6 +70,28 @@ const ListSong = ({ data, description }: Props) => {
 							setIsShow(true)
 						}
 					}
+					// eslint-disable-next-line react-hooks/rules-of-hooks
+					const [like, setLike] = useState(false);
+					// eslint-disable-next-line react-hooks/rules-of-hooks
+					useEffect(() => {
+						if(item?.followed?.length === 0){
+							setLike(false);
+						} else if(item?.followed?.length === 1){
+							setLike(true)
+						}
+					}, [item?.followed?.length])
+					// eslint-disable-next-line react-hooks/rules-of-hooks
+					const toggleLike = useCallback(() => {
+						setLike(!like)
+						if(checkout === null){
+							setIsShow(true);
+						}
+						else {
+							axios.post(url, { id_song: item?.id }, config).then(res => {
+								toast.success(res.data?.msg)
+							})
+						}
+					}, [item?.id, like])
 					return(
 						<Grid
 							key={index}
@@ -119,29 +154,41 @@ const ListSong = ({ data, description }: Props) => {
 								</Flex>
 							</Flex>
 							<Flex
-								sx={{ alignItems: 'center', cursor: 'pointer'}}
-								onClick={() => {
-									router.push({
-										pathname: '../album/[slugAlbum]',
-										query: {
-											slugAlbum: convertSlug(item?.album?.title),
-											id: item?.album?.id
-										}
-									})
-								}}
-							>
-								<TextOnline
-									sx={{
-										fontSize: '12px',
-										color: '#ffffff80',
-										fontWeight: '500',
-										":hover": {
-											color: '#c273ed',
-											textDecoration: 'underline',
-										}
+								sx={{ alignItems: 'center', justifyContent: 'space-between' }}>
+								<Flex
+									sx={{ cursor: 'pointer' }}
+									onClick={() => {
+										router.push({
+											pathname: '../album/[slugAlbum]',
+											query: {
+												slugAlbum: convertSlug(item?.album?.title),
+												id: item?.album?.id
+											}
+										})
 									}}>
-									{item.album.title}
-								</TextOnline>
+									<TextOnline
+										sx={{
+											fontSize: '12px',
+											color: '#ffffff80',
+											fontWeight: '500',
+											":hover": {
+												color: '#c273ed',
+												textDecoration: 'underline',
+											}
+										}}>
+										{item.album.title}
+									</TextOnline>
+								</Flex>
+								<Flex sx={{ cursor: 'pointer' }}>
+									<AiFillHeart
+										onClick={toggleLike}
+										style={{
+											height: '20px',
+											width: '20px',
+											color: like ? '#9b4de0' : 'white',
+										}}
+									/>
+								</Flex>
 							</Flex>
 							<Flex sx={{ alignItems: 'center', justifyContent: 'center'}}>
 								<TextOnline sx={{fontSize: '12px', color: '#ffffff80'}}>
@@ -152,6 +199,7 @@ const ListSong = ({ data, description }: Props) => {
 					);
 				})}
 			</Flex>
+			<ToastContainer />
 			<Popup
 				isShow={isShow}
 				onClose={() => setIsShow(false)}
