@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'playlists',
     'playlist_detail',
     'accounts',
-    'artists',
     'album',
     'videos',
     'topic_category',

@@ -1,37 +1,15 @@
 from django.shortcuts import render
 from rest_framework.views import APIView
 from django.http import JsonResponse, HttpResponse
-from .models import DataArtistDetail, ArtistDetail
-from .serializers import DataArtistDetailSerializer
 from playlists.models import Artists, ArtistOfPlaylist
 from playlists.serializers import ArtistSerializers, PlaylistSerializers
 from playlist_detail.models import ArtistOfSong, AlbumOfSong, ArtistOfAlbum
 from playlist_detail.serializers import SongSerializers, AlbumSerializers
 from rest_framework.permissions import AllowAny
+from .serializers import ArtistDetailSerializers
 
 
 # Create your views here.
-class AddDataArtistDetail(APIView):
-    permission_classes = [AllowAny]
-
-    def post(self, request):
-        data = request.data
-        if not data:
-            return HttpResponse(status=400)
-        artist_detail = DataArtistDetail.objects.create(
-            cover=data["cover"],
-            biography=data["biography"],
-            sort_biography=data["sortBiography"],
-            national=data["national"],
-            birthday=data["birthday"],
-            real_name=data["realname"],
-        )
-
-        artist_detail.save()
-        serializer = DataArtistDetailSerializer(artist_detail).data
-
-        return JsonResponse(serializer, safe=False)
-
 
 class GetArtistDetailAPIView(APIView):
     permission_classes = [AllowAny]
@@ -39,10 +17,7 @@ class GetArtistDetailAPIView(APIView):
     def get(self, request, id):
         # thông tin artist_detail
         artist = Artists.objects.filter(id=id).all()
-        data_artist1 = ArtistSerializers(artist[0]).data
-        data_artist_detail = ArtistDetail.objects.filter(artist=artist[0])[0].data
-        data_artist2 = DataArtistDetailSerializer(data_artist_detail).data
-        data_artist = dict(data_artist1, **data_artist2)
+        data_artist = ArtistDetailSerializers(artist[0]).data
 
         # song artist_detail **************
         artSong = ArtistOfSong.objects.filter(artist=artist[0].id)  # lấy tất cả Song có tên artist đó
@@ -73,7 +48,7 @@ class GetArtistDetailAPIView(APIView):
         playlist_arr = []
         for l_pl in list_playlist:
             artist_playlists = ArtistOfPlaylist.objects.filter(
-                                playlist_id=l_pl.id)  # Lấy danh sách artist trong playlist
+                playlist_id=l_pl.id)  # Lấy danh sách artist trong playlist
             artists_data_playlist = []
             for art_s in artist_playlists:
                 arts = art_s.artist

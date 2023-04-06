@@ -58,14 +58,20 @@ class Artists(BaseModel):
     class Meta:
         ordering = ['created_at']
 
-    name = models.CharField(max_length=100, default=None, blank=True)
+    name = models.CharField(max_length=100, default=None, blank=True, null=True)
     spotlight = models.BooleanField(default=False)
-    alias = models.CharField(max_length=100, default=None, blank=True)
-    thumbnail = models.CharField(max_length=400, default=None, blank=True)
-    thumbnail_m = models.CharField(max_length=400, default=None, blank=True)
+    alias = models.CharField(max_length=100, default=None, blank=True, null=True)
+    thumbnail = models.CharField(max_length=400, default=None, blank=True, null=True)
+    thumbnail_m = models.CharField(max_length=400, default=None, blank=True, null=True)
     is_oa = models.BooleanField(default=True)
     is_oa_brand = models.BooleanField(default=False)
-    total_follow = models.IntegerField(default=None, blank=True)
+    total_follow = models.IntegerField(default=None, blank=True, null=True)
+    cover = models.CharField(max_length=200, default=None, blank=True, null=True)
+    biography = models.TextField(default=None, blank=True, null=True)
+    sort_biography = models.TextField(default=None, blank=True, null=True)
+    national = models.CharField(max_length=200, default=None, blank=True, null=True)
+    birthday = models.CharField(max_length=100, default=None, blank=True, null=True)
+    real_name = models.CharField(max_length=200, default=None, blank=True, null=True)
 
     def __str__(self):
         return self.name
