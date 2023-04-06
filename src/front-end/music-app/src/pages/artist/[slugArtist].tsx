@@ -20,6 +20,7 @@ export async function getServerSideProps({ query }: any) {
 	}
 }
 const ArtistDetail = ({ data }: Props) => {
+	console.log(data);
 	return(
 		<ReponsiveContainer></ReponsiveContainer>
 	);
