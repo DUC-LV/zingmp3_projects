@@ -42,7 +42,12 @@ const PlaylistDetail = ({ data }: Props) => {
 					artist_names={data?.artist_names}
 					sort_description={data?.sort_description}
 				/>
-				<Flex sx={{ flex: 1, marginX: "40px" }}>
+				<Flex
+					sx={{
+						flex: 1,
+						marginX: "40px",
+					}}
+				>
 					<ListSong data={data?.song?.items} description={data?.sort_description}/>
 				</Flex>
 			</Flex>
