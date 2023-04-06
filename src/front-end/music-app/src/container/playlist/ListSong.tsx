@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import Popup from "@/src/components/Popup";
 import { TextLineClamp, TextOnline } from "@/src/components/Text";
 import { convertDuration, convertSlug } from "@/src/untils";
@@ -7,7 +8,7 @@ import { BiSortAlt2 } from "react-icons/bi";
 import { Box, Flex, Grid, Image } from "theme-ui";
 import {AiFillHeart} from "react-icons/ai";
 import {toast, ToastContainer} from "react-toastify";
-import axios from "axios";
+import axiosInstance from "@/src/services/axiosInstance";
 type Props = {
 	data: Array<object>
 	description: string,
@@ -16,15 +17,6 @@ const ListSong = ({ data, description }: Props) => {
 	const router = useRouter();
 	const [isShow, setIsShow] = useState(false);
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
-	const url = 'http://localhost:8000/update-follow/';
-	// eslint-disable-next-line react-hooks/exhaustive-deps
-	const config : object = {
-		headers: {
-			'Authorization': typeof window !== 'undefined' ? 'Bearer ' + localStorage.getItem('access_token'): '',
-			'Content-Type': 'application/json',
-			'accept': 'application/json',
-		}
-	}
 	return(
 		<Flex
 			sx={{
@@ -69,9 +61,7 @@ const ListSong = ({ data, description }: Props) => {
 							setIsShow(true)
 						}
 					}
-					// eslint-disable-next-line react-hooks/rules-of-hooks
 					const [like, setLike] = useState(false);
-					// eslint-disable-next-line react-hooks/rules-of-hooks
 					useEffect(() => {
 						if(item?.followed?.length === 0){
 							setLike(false);
@@ -79,14 +69,13 @@ const ListSong = ({ data, description }: Props) => {
 							setLike(true)
 						}
 					}, [item?.followed?.length])
-					// eslint-disable-next-line react-hooks/rules-of-hooks
 					const toggleLike = useCallback(() => {
 						setLike(!like)
 						if(checkout === null){
 							setIsShow(true);
 						}
 						else {
-							axios.post(url, { id_song: item?.id }, config).then(res => {
+							axiosInstance.post('update-follow/', { id_song: item?.id }).then(res => {
 								toast.success(res.data?.msg)
 							})
 						}

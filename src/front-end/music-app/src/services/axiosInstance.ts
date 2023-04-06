@@ -5,7 +5,7 @@ let axiosInstance = axios.create({
 	baseURL: baseURL,
 	timeout: 500,
 	headers: {
-		'Authorization': typeof window !== 'undefined' ? localStorage.getItem('access_token') : "",
+		'Authorization': typeof window !== 'undefined' ? "Bearer " + localStorage.getItem('access_token') : "",
 		'Content-Type': 'application/json',
 		'accept': 'application/json',
 		'Access-Control-Allow-Origin': '*',

@@ -1,5 +1,6 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import React, {useCallback, useEffect, useState} from "react";
-import {Box, Flex, Image, Text} from "theme-ui";
+import {Box, Flex, Image } from "theme-ui";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
 import {Artist, Banner, Playlist } from "@/src/schemas";
@@ -11,7 +12,7 @@ import { Autoplay } from "swiper";
 import Popup from "./Popup";
 import { BsPlayFill, BsThreeDots } from "react-icons/bs";
 import { toast, ToastContainer } from "react-toastify";
-import axios from "axios";
+import axiosInstance from "../services/axiosInstance";
 
 
 export const BannerSlider = (props: { banners: Array<Banner> }) => {
@@ -99,15 +100,6 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 	const router = useRouter();
 	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
 	const [isShow, setIsShow] = useState(false);
-	const url = 'http://localhost:8000/update-follow/';
-	// eslint-disable-next-line react-hooks/exhaustive-deps
-	const config : object = {
-		headers: {
-			'Authorization': typeof window !== 'undefined' ? 'Bearer ' + localStorage.getItem('access_token'): '',
-			'Content-Type': 'application/json',
-			'accept': 'application/json',
-		}
-	}
 	return(
 		<Box>
 			<Flex sx={{ justifyContent: 'space-between'}}>
@@ -131,13 +123,9 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 					<AiOutlineArrowRight style={{ height: '20px', width: '20px', color: '#ffffff80' }}/>
 				</Flex>
 			</Flex>
-			<Swiper
-				slidesPerView={5}
-			>
+			<Swiper slidesPerView={5}>
 				{playlists.map((item, index) => {
-					// eslint-disable-next-line react-hooks/rules-of-hooks
 					const [like, setLike] = useState(false);
-					// eslint-disable-next-line react-hooks/rules-of-hooks
 					useEffect(() => {
 						if(item?.followed?.length === 0){
 							setLike(false);
@@ -145,14 +133,13 @@ export const PlaylistSlider = (props: { playlists: Array<Playlist>, title: strin
 							setLike(true)
 						}
 					}, [item?.followed?.length])
-					// eslint-disable-next-line react-hooks/rules-of-hooks
 					const toggleLike = useCallback(() => {
 						setLike(!like)
 						if(checkout === null){
 							setIsShow(true);
 						}
 						else {
-							axios.post(url, { id_playlist: item?.id }, config).then(res => {
+							axiosInstance.post('update-follow/', { id_playlist: item?.id }).then(res => {
 								toast.success(res.data?.msg)
 							})
 						}
