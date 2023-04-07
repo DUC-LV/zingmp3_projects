@@ -28,19 +28,7 @@ axiosInstance.interceptors.response.use(
 			);
 			return Promise.reject(error);
 		}
-		if (
-			error.response.status === 401 &&
-			originalRequest.url === baseURL + 'token/refresh/'
-		) {
-			window.location.href = '/login/';
-			return Promise.reject(error);
-		}
-
-		if (
-			error.response.data.code === 'token_not_valid' &&
-			error.response.status === 401 &&
-			error.response.statusText === 'Unauthorized'
-		) {
+		if (error.status === 401) {
 			const refreshToken = localStorage.getItem('refresh_token');
 
 			if (refreshToken) {
@@ -58,9 +46,9 @@ axiosInstance.interceptors.response.use(
 							localStorage.setItem('refresh_token', response.data.refresh);
 
 							axiosInstance.defaults.headers.common['Authorization'] =
-								'JWT ' + response.data.access;
+								'Bearer ' + response.data.access;
 							originalRequest.headers['Authorization'] =
-								'JWT ' + response.data.access;
+								'Bearer ' + response.data.access;
 
 							return axiosInstance(originalRequest);
 						})
