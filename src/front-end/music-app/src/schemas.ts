@@ -11,6 +11,14 @@ export interface Playlist {
 	thumbnail_m?: string,
 	followed?: any,
 }
+export interface Album {
+	id?: number,
+	title?: string,
+	sort_description?: string,
+	thumbnail_m?: string,
+	followed?: any,
+	thumbnail?: string,
+}
 export interface Artist {
 	id?: number,
 	name?: string,

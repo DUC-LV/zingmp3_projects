@@ -45,7 +45,6 @@ const Home = ({ data }: Props) => {
 							key={idx}
 							playlists={section.items}
 							title={section.title}
-							pathname="./playlist/[slugPlaylist]"
 						/>
 					)
 			}

@@ -1,7 +1,5 @@
-import getPlaylistDetail from "@/src/services/getPlaylistDetail";
-import React, { useState, useEffect } from "react";
+import React from "react";
 import {Box, Flex} from "theme-ui";
-import {useRouter} from "next/router";
 import ReponsiveContainer from "@/src/components/ReponsiveContainer";
 import HeaderPlaylist, {DataHeaderPlaylist} from "@/src/container/playlist/HeaderPlaylist";
 import ListSong from "@/src/container/playlist/ListSong"

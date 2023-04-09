@@ -16,13 +16,13 @@ const SlideSong = ({ data, title }: Props) => {
 			>{title}</Text>
 			<Flex sx={{ justifyContent: 'space-between' }}>
 				<Box sx={{ width: '100%', marginX: '10px' }}>
-					<ItemSong dataSong={data?.slice(0,2)} />
+					<ItemSong dataSong={data?.slice(0,1)} />
 				</Box>
 				<Box sx={{ width: '100%', marginX: '10px' }}>
-					<ItemSong dataSong={data?.slice(2,4)} />
+					<ItemSong dataSong={data?.slice(1,2)} />
 				</Box>
 				<Box sx={{ width: '100%', marginX: '10px' }}>
-					<ItemSong dataSong={data?.slice(4,6)} />
+					<ItemSong dataSong={data?.slice(2,3)} />
 				</Box>
 			</Flex>
 		</>

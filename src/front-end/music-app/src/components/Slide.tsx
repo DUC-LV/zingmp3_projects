@@ -3,7 +3,7 @@ import React, {useCallback, useEffect, useState} from "react";
 import {Box, Flex, Image } from "theme-ui";
 import { Swiper, SwiperSlide } from 'swiper/react';
 import 'swiper/swiper-bundle.min.css';
-import {Artist, Banner, Playlist } from "@/src/schemas";
+import {Album, Artist, Banner, Playlist } from "@/src/schemas";
 import {TextLineClamp, TextOnline} from "@/src/components/Text";
 import { AiOutlineArrowRight, AiFillHeart } from "react-icons/ai";
 import { useRouter } from "next/router";
@@ -294,4 +294,151 @@ export const ArtistSlider = (props: { title: string, data: Array<Artist> }) => {
 			</Swiper>
 		</Box>
 	);
+}
+export const AlbumSlider = (props: { data: Array<Album>, title: string} ) => {
+	const { data, title } = props;
+	const router = useRouter();
+	const checkout = typeof window !== 'undefined' ? localStorage.getItem('access_token') : undefined;
+	const [isShow, setIsShow] = useState(false);
+	return(
+		<Box>
+			<Flex sx={{ justifyContent: 'space-between'}}>
+				<TextOnline
+					sx={{
+						margin: '40px 10px 20px 10px',
+						fontSize: '20px',
+						fontWeight: '700',
+						color: 'white',
+					}}>{title}
+				</TextOnline>
+				<Flex sx={{ margin: '40px 10px 20px 10px', alignItems: 'center' }}>
+					<TextOnline
+						sx={{
+							fontSize: '12px',
+							color: '#ffffff80',
+							fontWeight: '500',
+							marginRight: '10px'
+						}}
+						>Tất cả</TextOnline>
+					<AiOutlineArrowRight style={{ height: '20px', width: '20px', color: '#ffffff80' }}/>
+				</Flex>
+			</Flex>
+			<Swiper slidesPerView={5}>
+				{data.map((item, index) => {
+					const [like, setLike] = useState(false);
+					useEffect(() => {
+						if(item?.followed?.length === 0){
+							setLike(false);
+						} else if(item?.followed?.length === 1){
+							setLike(true)
+						}
+					}, [item?.followed?.length])
+					const toggleLike = useCallback(() => {
+						setLike(!like)
+						if(checkout === null){
+							setIsShow(true);
+						}
+						else {
+							axiosInstance.post('update-follow/', { id_playlist: item?.id }).then(res => {
+								toast.success(res.data?.msg)
+							})
+						}
+					}, [item?.id, like])
+					return(
+						<SwiperSlide key={index} style={{ padding: '0 10px', cursor: "pointer"}}>
+							<Image
+								className="image_playlist"
+								alt=""
+								src={item.thumbnail}
+								sx={{
+									borderRadius: '8px',
+									position: 'relative',
+									width: '100%'
+								}}
+							/>
+							<Box className="control_playlist" sx={{ position: 'absolute', top: '35%', width: '91%'}}>
+								<Flex
+									sx={{
+										justifyContent: 'space-around',
+										alignItems: 'center',
+										margin: '0 30px'
+									}}>
+									<AiFillHeart
+										style={{
+											height: '20px',
+											width: '20px',
+											color: like ? '#9b4de0' : 'white',
+										}}
+										onClick={toggleLike}
+									/>
+									<Flex
+										sx={{
+											height: '40px',
+											width: '40px',
+											borderRadius: '999px',
+											border: '1px solid white',
+											justifyContent: 'center',
+											alignItems: 'center',
+										}}
+										onClick={() => {
+											if(checkout === null){
+												setIsShow(true);
+											}
+											else {
+												router.push({
+													pathname:'/album/[slugAlbum]',
+													query: {
+														slugAlbum: convertSlug(String(item.title)),
+														id: item?.id,
+													}
+												})
+											}
+										}}
+									>
+										<BsPlayFill style={{ color: 'white', height: '20px', width: '20px' }}/>
+									</Flex>
+									<BsThreeDots style={{ height: '20px', width: '20px', color: 'white' }}/>
+								</Flex>
+							</Box>
+							<Box sx={{ mt: '10px' }}>
+								<TextOnline
+									sx={{
+										fontSize: '14px',
+										fontWeight: '700',
+										color: 'white',
+										marginBottom: '6px',
+									}}
+								>{item.title}</TextOnline>
+								<TextLineClamp
+									line={2}
+									sx={{
+										fontSize: '14px',
+										color: '#ffffff80',
+									}}
+								>{item.sort_description}</TextLineClamp>
+							</Box>
+						</SwiperSlide>
+					)
+				})}
+			</Swiper>
+			<ToastContainer />
+			<Popup
+				isShow={isShow}
+				onClose={() => setIsShow(false)}
+				title="Thông Báo"
+				message="Vui lòng đăng nhập lại để tiếp tục sử dụng dịch vụ."
+				actions={[
+					{ key: 'cancel', title: 'Đóng' },
+					{ key: 'ok', title: 'Đăng nhập' },
+				]}
+				onAction={ key => {
+					if(key === 'ok'){
+						router.push('/login');
+					} else if (key === 'cancel'){
+						setIsShow(false);
+					}
+				}}
+			/>
+		</Box>
+	)
 }
