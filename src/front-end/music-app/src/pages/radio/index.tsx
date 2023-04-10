@@ -32,6 +32,7 @@ const RadioPage = ({ data }: Props) => {
 				return null;
 			}
 			switch (section?.sectionType) {
+
 				case SectionType?.livestream:
 					return(
 						<StreamingSlider
@@ -39,6 +40,7 @@ const RadioPage = ({ data }: Props) => {
 							data={section?.items}
 						/>
 					)
+
 				case SectionType.podcast_category:
 					return (
 						<PodCastCategory
@@ -47,6 +49,7 @@ const RadioPage = ({ data }: Props) => {
 							title={section?.title}
 						/>
 					)
+
 				case SectionType.podcastH:
 					return (
 						<PodCastSlider
@@ -55,6 +58,9 @@ const RadioPage = ({ data }: Props) => {
 							title={section?.title}
 						/>
 					)
+
+				default:
+					return null;
 			}
 		})
 	}, [SectionType?.livestream, SectionType.podcastH, SectionType.podcast_category, data])

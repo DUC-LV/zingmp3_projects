@@ -30,6 +30,7 @@ const MyMusic = () => {
 				return null;
 			}
 			switch (section.sectionType){
+
 				case SectionType?.playlist:
 					return (
 						<PlaylistSlider
@@ -37,6 +38,7 @@ const MyMusic = () => {
 							key={idx} title={section?.title}
 						/>
 					)
+
 				case SectionType.song:
 					return (
 						<>
@@ -48,6 +50,9 @@ const MyMusic = () => {
 							</Box>
 						</>
 					)
+
+				default:
+					return null;
 			}
 		})
 	}, [SectionType?.playlist, SectionType.song, data])

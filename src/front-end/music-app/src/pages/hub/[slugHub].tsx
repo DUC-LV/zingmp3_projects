@@ -32,6 +32,7 @@ const HubDetail = ({ data }: Props) => {
 				return null;
 			}
 			switch (section?.sectionType){
+
 				case sectionType?.song:
 					return (
 						<SlideSong
@@ -40,6 +41,7 @@ const HubDetail = ({ data }: Props) => {
 							title={section?.title}
 						/>
 					)
+
 				case sectionType?.playlist:
 					return (
 						<PlaylistSlider

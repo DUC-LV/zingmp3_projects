@@ -3,6 +3,9 @@ import getHome from "@/src/services/getHome";
 import { BannerSlider, PlaylistSlider } from "../components/Slide";
 import ReponsiveContainer from "../components/ReponsiveContainer";
 import LoadingHome from "../container/Loading/SkeletonLoading";
+import StreamingSlider from "../container/radio/StreamingSlider";
+import { Box } from "theme-ui";
+import { TextOnline } from "../components/Text";
 
 type Props = {
 	data: Array<object>
@@ -23,7 +26,8 @@ const Home = ({ data }: Props) => {
 
 	const SectionType = {
 		banner: "banner",
-		playlist: "playlist"
+		playlist: "playlist",
+		livestream: "livestream",
 	};
 
 	const generateContent = useCallback(() => {
@@ -32,6 +36,7 @@ const Home = ({ data }: Props) => {
 				return null;
 			}
 			switch (section.sectionType){
+
 				case SectionType?.banner:
 					return (
 						<BannerSlider
@@ -39,6 +44,7 @@ const Home = ({ data }: Props) => {
 							key={idx}
 						/>
 					)
+
 				case SectionType.playlist:
 					return (
 						<PlaylistSlider
@@ -47,9 +53,29 @@ const Home = ({ data }: Props) => {
 							title={section.title}
 						/>
 					)
+
+				case SectionType.livestream:
+					return(
+						<Box key={idx} sx={{ marginTop: '40px' }}>
+							<TextOnline
+								sx={{
+									margin: '40px 10px 20px 10px',
+									fontSize: '20px',
+									fontWeight: '700',
+									color: 'white',
+								}}>Radio Nổi Bật
+							</TextOnline>
+							<StreamingSlider
+								data={section?.items}
+							/>
+						</Box>
+					)
+
+				default:
+					return null;
 			}
 		})
-	}, [SectionType?.banner, SectionType.playlist, data])
+	}, [SectionType?.banner, SectionType.livestream, SectionType.playlist, data])
 
 	const hasData = data && data?.length > 0;
 	const [loading, setLoading] = useState(hasData);

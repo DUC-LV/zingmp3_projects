@@ -35,6 +35,7 @@ const ArtistDetail = ({ data }: Props) => {
 				return null;
 			}
 			switch (section.sectionType){
+
 				case SectionType?.song:
 					return (
 						<SlideSong
@@ -43,6 +44,7 @@ const ArtistDetail = ({ data }: Props) => {
 							title={section.title}
 						/>
 					)
+
 				case SectionType.playlist:
 					return (
 						<PlaylistSlider
@@ -51,6 +53,7 @@ const ArtistDetail = ({ data }: Props) => {
 							title={section.title}
 						/>
 					)
+
 				case SectionType.album:
 					return (
 						<AlbumSlider
@@ -59,6 +62,9 @@ const ArtistDetail = ({ data }: Props) => {
 							title={"Album"}
 						/>
 					)
+
+				default:
+					return null;
 			}
 		})
 	}, [SectionType.album, SectionType.playlist, SectionType?.song, data?.sections])

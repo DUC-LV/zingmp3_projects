@@ -6,6 +6,8 @@ from banners.models import Banners
 from playlists.models import TopicPlaylist, Playlists, PlaylistOfTopic, Artists, ArtistOfPlaylist
 from playlists.serializers import TopicPlaylistSerializers, PlaylistSerializers, ArtistSerializers
 from rest_framework.permissions import AllowAny
+from live_stream.models import Streamings, Hosts, Programs, HostOfStreaming, ProgramOfStreaming
+from live_stream.serializers import StreamingSerializers, HostSerializers, ProgramSerializers
 
 
 # Create your views here.
@@ -21,19 +23,42 @@ class HomeAPIView(APIView):
         if not banners.exists():
             return HttpResponse(status=404)
         serializerBanner = BannerSerializers(banners, many=True).data
+        serializerBannerData = serializerBanner[-1::-4]
+
         res_banner = {
             "sectionType": "banner",
             "viewType": "slider",
             "title": "",
             "link": "",
             "sectionId": "",
-            "items": serializerBanner,
+            "items": serializerBannerData,
         }
         items.append(res_banner)
 
+        # live stream
+        stream = Streamings.objects.all()
+        stream_data = []
+
+        for st in stream:
+            host_stream = HostOfStreaming.objects.filter(streaming=st)
+            program_stream = ProgramOfStreaming.objects.filter(streaming=st)
+            stream_dict = dict(StreamingSerializers(st).data, **{"host": HostSerializers(host_stream[0].host).data},
+                               **{"program": ProgramSerializers(program_stream[0].program).data})
+            stream_data.append(stream_dict)
+
+        res_streaming = {
+            "sectionType": "livestream",
+            "viewType": "slider",
+            "title": "",
+            "link": "",
+            "sectionId": "radHot",
+            "items": stream_data
+        }
+        items.append(res_streaming)
+
         # playlist
         all_topic = TopicPlaylist.objects.filter(title__in=(
-            'Lựa chọn hôm nay', 'Có Thể Bạn Muốn Nghe', 'Women In Music', 'Nữ nghệ sĩ Việt nổi bật 🌹'
+            'Lựa chọn hôm nay', 'Có Thể Bạn Muốn Nghe', 'Chill', 'Nữ nghệ sĩ Việt nổi bật 🌹'
         ))
         topic_ids = [tp.id for tp in all_topic]
         topic_playlist = PlaylistOfTopic.objects.filter(topic_id__in=topic_ids)

@@ -63,6 +63,7 @@ const VideoCategoriesPage = ({ data }: Props) => {
 				return null
 			}
 			switch (section.type){
+
 				case type?.tab:
 					return(
 						<MenuVideo
@@ -70,6 +71,7 @@ const VideoCategoriesPage = ({ data }: Props) => {
 							data={section?.items}
 						/>
 					)
+
 				case type?.list:
 					return (
 						<ListVideo
@@ -77,6 +79,7 @@ const VideoCategoriesPage = ({ data }: Props) => {
 							data={section?.items}
 						/>
 					)
+
 				default:
 					return null;
 			}
